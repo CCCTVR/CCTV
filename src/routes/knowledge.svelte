@@ -1,5 +1,5 @@
 <h2>CCTV</h2>
-
+<!-- make cards instead of table -->
 <p>
 	This page contains links to articles on CCTV and video surveillance systems extracted from the
 	web. Happy reading!
