@@ -1,5 +1,5 @@
 <h2>DREAM TEAM</h2>
-
+<!-- make cards instead of table -->
 <h3>Academia</h3>
 <table>
     <tr>
