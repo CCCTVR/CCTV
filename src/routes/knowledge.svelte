@@ -6,30 +6,30 @@ Happy reading!</p>
 
 <h3>Hyderabad model of CCTV surveillance</h3>
 
-Article link : The Hyderabad model of CCTV surveillance
+<p>Article link : <a href="https://www.livemint.com/news/india/the-hyderabad-model-of-cctv-surveillance-11604926158442.html">The Hyderabad model of CCTV surveillance</a></p>
 
 <h3>Railway Board has approved works for provision of Video Surveillance Systems covering 983 Railway stations under Nirbhaya funds</h3>
 
-Article link : works for provision of Video Surveillance
+<p>Article link : <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=1598772">works for provision of Video Surveillance</a></p>
 
 <h3>Kerala Police to launch CIMS(central intrusion monitoring system), a first of its-kind surveillance system</h3>
 
-Article link : Kerala Police to launch CIMS
+<p>Article link : <a href="https://www.theweek.in/news/india/2019/06/06/kerala-police-to-launch-cims-a-first-of-its-kind-surveillance-system.html">Kerala Police to launch CIMS</a></p>
 
 <h3>Lucknow is counted amongst one of the "first CCTV city in India"</h3>
 
-Article link : First CCTV City in India
+<p>Article link : <a href="https://www.knocksense.com/lucknow/read-along-find-out-why-lucknow-is-called-the-first-cctv-city-of-india">First CCTV City in India</a></p>
 
 <h3>Importance of performing a CCTV Audit: COM|SUR Gautam Goradia, Founder and CEO at Hayagriva Software Pvt.Ltd.</h3>
 
-Article link : Importance of performing a CCTV Audit
+<p>Article link : <a href="https://www.youtube.com/watch?v=bW-Bsp-y-ZQ">Importance of performing a CCTV Audit</a></p>
 
 <h2>WHITE PAPERS</h2>
 <ul>
-    <li>Delivering accelerated video analytics at the edge for AI Cities.</li>
-    <li>Video Analytics, specific by design.</li>
-    <li>Edge computing based surveillance framework for real time activity recognition</li>
-    <li>NEC Face recognition.</li>
-    <li>Intelligent storage for next generation video surveillance systems</li>
-    <li>New wave video surveillance capabilities</li>
+    <li><a href="https://www.securityinfowatch.com/video-surveillance/document/12433313/whitepaper-delivering-accelerated-video-analytics-at-the-edge-for-ai-cities">Delivering accelerated video analytics at the edge for AI Cities.</a></li>
+    <li><a href="https://securitynewsdesk.com/white-paper-video-analytics/">Video Analytics, specific by design.</a></li>
+    <li><a href="https://www.sciencedirect.com/science/article/pii/S2405959521000540">Edge computing based surveillance framework for real time activity recognition</a></li>
+    <li><a href="https://www.nec.com/en/global/solutions/safety/pdf/NEC-FR_white-paper.pdf">NEC Face recognition.</a></li>
+    <li><a href="https://www.sourcesecurity.com/white-papers/surveillance-beyond-security.html">Intelligent storage for next generation video surveillance systems</a></li>
+    <li><a href="https://www.sourcesecurity.com/insights/new-wave-video-surveillance-capabilities-co-12953-ga-co-14183-ga.1554455763.html">New wave video surveillance capabilities</a></li>
 </ul>
