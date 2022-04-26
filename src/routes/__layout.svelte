@@ -1,7 +1,11 @@
 <script>
 	import '../app.css';
-	import Sidenav from '../components/sidenav.svelte';
+	import Sidenav from '../components/sidenav2.svelte';
 </script>
 
-<Sidenav />
-<slot />
+<div class="flex">
+	<Sidenav />
+	<main class="flex-col">
+		<slot />
+	</main>
+</div>
