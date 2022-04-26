@@ -1,7 +1,6 @@
 <script>
-	let com = [{ name: 'ass', svg: '', path: '' }];
+	
 </script>
-
 <aside class="w-72 flex-col">
 	<div
 		class="fixed flex flex-col w-64 h-screen px-4 py-8 bg-white border-r dark:bg-gray-800 dark:border-gray-600"
