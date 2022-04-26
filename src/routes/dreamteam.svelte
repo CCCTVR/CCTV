@@ -1,6 +1,39 @@
-<div class="mx-auto">
+<script>
+	let dream_team = [
+		{ name: "Dr K N Subramanya Principal RVCE",designation: "ChairPerson",img:"#" },
+		{ name: "Shri. Sanjay Sahay",designation: "Founder and Mentor",img:"#" },
+		{ name: "Dr. Ramakanth K P",designation: "Center Head, CCCTVR",img:"#" },
+		{ name: "Shri T Shankar",designation: "Head, Research and Projects",img:"#" },
+		{ name: "Dr. Shreelakshmi K",designation: "Head, Operations",img:"#" },
+		{ name: "Dr. Ravishankar S",designation: "Head, Communication and Networking",img:"#" },
+		{ name: "Ms. Rashmi H",designation: "Coordinator, CCCTVR",img:"#" },
+
+		
+];
+let industry_team = [
+		{ name: "Shri. Gautam Goradia, COMSUR",designation: "Member",img:"#" },
+		{ name: "Mr. Avinash Trivedi, Videonetics",designation: "Member",img:"#" },
+		{ name: "Mr. Pawan Vashist",designation: "Member",img:"#" },
+		{ name: "Mistral Solutions",designation: "Member",img:"#" },	/* Mistral Solutions has no designation*/	
+];
+
+let academia_team = [
+		{ name: "Dr. Surbhi Mathur, NFSU",designation: "Member",img:"#"},
+		{ name: "Prof. Roopa J, RVCE",designation: "Member",img:"#" },
+		{ name: "Dr. Azra Nasreen",designation: "Member",img:"#" },
+		{ name: "Dr. Hemavathy R",designation: "Member",img:"#" },
+		{ name: "Ms. Neethu S",designation: "Member",img:"#" },	
+];
+let operations_team = [
+	{name: "Mr. Ravikumar Koppal",designation: "Member",img:"#" },
+	{name: "Mr. Shiva Kumar",designation: "Member",img:"#" },
+	{name: "Mr. Somesh Nandi",designation: "Member",img:"#" },
+	{name: "Mr. Vithal",designation: "Member",img:"#" },
+];
+
+</script>
+<!-- <div class="mx-auto">
 	<h2>DREAM TEAM</h2>
-	<!-- make cards instead of table -->
 	<h3>Academia</h3>
 	<table>
 		<tr>
@@ -110,4 +143,4 @@
 			<td>Member</td>
 		</tr>
 	</table>
-</div>
+</div> -->
