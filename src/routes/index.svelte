@@ -2,8 +2,8 @@
 	import Team from '../components/team.svelte';
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> 
+<!--<h1>Welcome to SvelteKit</h1>
+<!--<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p> 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24">
 	<path
 		fill="#FFFFFF"
