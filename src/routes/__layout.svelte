@@ -4,7 +4,8 @@
 </script>
 
 <div class="flex">
-	<Sidenav />
+	<div class="w-72"><Sidenav /></div>
+
 	<main class="flex-col">
 		<slot />
 	</main>
