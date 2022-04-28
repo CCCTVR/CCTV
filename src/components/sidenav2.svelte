@@ -72,7 +72,7 @@
 			<nav>
 				<a
 					class="flex items-center px-4 py-2 mt-4 text-gray-600 transform rounded-md dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-700 hover:scale-110 transition-all duration-300 ease-linear"
-					href="/"
+					href="/home"
 				>
 					<!-- on active add bg-gray-200 dark:bg-gray-700 -->
 					<svg

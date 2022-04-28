@@ -20,7 +20,7 @@
 		{designation}
 	</p>
 
-	<!-- <div class="flex mt-3 -mx-2">
+	<div class="flex mt-3 -mx-2">
 		<a
 			href="#"
 			class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white"
@@ -71,5 +71,5 @@
 				/>
 			</svg>
 		</a>
-	</div> -->
+	</div>
 </div>
