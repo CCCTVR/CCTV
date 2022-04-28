@@ -1,43 +1,43 @@
-<h2>CCTV</h2>
+<h1 class="text-5xl">CCTV</h1>
 <!-- make cards instead of table -->
 <p>
 	This page contains links to articles on CCTV and video surveillance systems extracted from the
 	web. Happy reading!
 </p>
 
-<h3>Hyderabad model of CCTV surveillance</h3>
+<h3 class="text-2xl">Hyderabad model of CCTV surveillance</h3>
 
 <p>
-	Article link : <a
+	Article link : <a class="no-underline hover:underline"
 		href="https://www.livemint.com/news/india/the-hyderabad-model-of-cctv-surveillance-11604926158442.html"
 		>The Hyderabad model of CCTV surveillance</a
 	>
 </p>
 
-<h3>
+<h2 class="text-2xl">
 	Railway Board has approved works for provision of Video Surveillance Systems covering 983 Railway
 	stations under Nirbhaya funds
-</h3>
+</h2>
 
 <p>
-	Article link : <a href="https://pib.gov.in/PressReleasePage.aspx?PRID=1598772"
+	Article link : <a class="no-underline hover:underline" href="https://pib.gov.in/PressReleasePage.aspx?PRID=1598772"
 		>works for provision of Video Surveillance</a
 	>
 </p>
 
-<h3>
+<h2 class="text-2xl">
 	Kerala Police to launch CIMS(central intrusion monitoring system), a first of its-kind
 	surveillance system
-</h3>
+</h2>
 
 <p>
-	Article link : <a
+	Article link : <a 
 		href="https://www.theweek.in/news/india/2019/06/06/kerala-police-to-launch-cims-a-first-of-its-kind-surveillance-system.html"
 		>Kerala Police to launch CIMS</a
 	>
 </p>
 
-<h3>Lucknow is counted amongst one of the "first CCTV city in India"</h3>
+<h2 class="text-2xl">Lucknow is counted amongst one of the "first CCTV city in India"</h2>
 
 <p>
 	Article link : <a
@@ -46,10 +46,10 @@
 	>
 </p>
 
-<h3>
+<h2 class="text-2xl">
 	Importance of performing a CCTV Audit: COM|SUR Gautam Goradia, Founder and CEO at Hayagriva
 	Software Pvt.Ltd.
-</h3>
+</h2>
 
 <p>
 	Article link : <a href="https://www.youtube.com/watch?v=bW-Bsp-y-ZQ"
@@ -57,7 +57,7 @@
 	>
 </p>
 
-<h2>WHITE PAPERS</h2>
+<h2 class="text-2xl">WHITE PAPERS</h2>
 <ul>
 	<li>
 		<a
