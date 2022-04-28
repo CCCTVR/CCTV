@@ -11,4 +11,4 @@
 	/>
 </svg> -->
 
-<Team name="abc" designation="desg" image="" />
+<Team name="abc" designation="desg" image="images/hod.PNG" />
