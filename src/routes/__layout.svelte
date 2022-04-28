@@ -7,6 +7,8 @@
 	<div class="w-72"><Sidenav /></div>
 
 	<main class="flex-col">
-		<slot />
+		<div class="max-w-6xl">
+			<slot />
+		</div>
 	</main>
 </div>
