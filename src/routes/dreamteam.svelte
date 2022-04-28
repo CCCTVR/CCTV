@@ -1,4 +1,5 @@
 <script>
+	import Team from '../components/team.svelte';
 	let dream_team = [
 		{ name: "Dr K N Subramanya Principal RVCE",designation: "ChairPerson",img:"#" },
 		{ name: "Shri. Sanjay Sahay",designation: "Founder and Mentor",img:"#" },
@@ -32,6 +33,60 @@ let operations_team = [
 ];
 
 </script>
+
+
+<h2 class="text-3xl"> dream_team</h2>
+<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
+{#each dream_team as { name, designation }, i}
+
+	<Team
+	name="{name}"
+	designation="{designation}"
+	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+/>
+
+{/each}
+</div>
+
+
+<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
+{#each industry_team as { name, designation }, i}
+
+	<Team
+	name="{name}"
+	designation="{designation}"
+	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+/>
+
+{/each}
+</div>
+
+<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
+{#each academia_team as { name, designation }, i}
+
+	<Team
+	name="{name}"
+	designation="{designation}"
+	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+/>
+
+{/each}
+</div>
+
+<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
+{#each operations_team as { name, designation }, i}
+
+	<Team
+	name="{name}"
+	designation="{designation}"
+	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+/>
+
+{/each}
+</div>
+
+
+
 <!-- <div class="mx-auto">
 	<h2>DREAM TEAM</h2>
 	<h3>Academia</h3>
