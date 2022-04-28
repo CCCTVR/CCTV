@@ -1,91 +1,70 @@
 <script>
 	import Team from '../components/team.svelte';
 	let dream_team = [
-		{ name: "Dr K N Subramanya Principal RVCE",designation: "ChairPerson",img:"#" },
-		{ name: "Shri. Sanjay Sahay",designation: "Founder and Mentor",img:"#" },
-		{ name: "Dr. Ramakanth K P",designation: "Center Head, CCCTVR",img:"#" },
-		{ name: "Shri T Shankar",designation: "Head, Research and Projects",img:"#" },
-		{ name: "Dr. Shreelakshmi K",designation: "Head, Operations",img:"#" },
-		{ name: "Dr. Ravishankar S",designation: "Head, Communication and Networking",img:"#" },
-		{ name: "Ms. Rashmi H",designation: "Coordinator, CCCTVR",img:"#" },
+		{ name: 'Dr K N Subramanya Principal RVCE', designation: 'ChairPerson', img: 'images/hod.PNG' },
+		{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: 'images/hod.PNG' },
+		{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'images/hod.PNG' },
+		{ name: 'Shri T Shankar', designation: 'Head, Research and Projects', img: 'images/hod.PNG' },
+		{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: 'images/hod.PNG' },
+		{
+			name: 'Dr. Ravishankar S',
+			designation: 'Head, Communication and Networking',
+			img: 'images/hod.PNG'
+		},
+		{ name: 'Ms. Rashmi H', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
+	];
+	let industry_team = [
+		{ name: 'Shri. Gautam Goradia, COMSUR', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Mr. Avinash Trivedi, Videonetics', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Mr. Pawan Vashist', designation: 'Member', img: 'images/hod.PNG' },
+		{
+			name: 'Mistral Solutions',
+			designation: 'Member',
+			img: 'images/hod.PNG'
+		} /* Mistral Solutions has no designation*/
+	];
 
-		
-];
-let industry_team = [
-		{ name: "Shri. Gautam Goradia, COMSUR",designation: "Member",img:"#" },
-		{ name: "Mr. Avinash Trivedi, Videonetics",designation: "Member",img:"#" },
-		{ name: "Mr. Pawan Vashist",designation: "Member",img:"#" },
-		{ name: "Mistral Solutions",designation: "Member",img:"#" },	/* Mistral Solutions has no designation*/	
-];
-
-let academia_team = [
-		{ name: "Dr. Surbhi Mathur, NFSU",designation: "Member",img:"#"},
-		{ name: "Prof. Roopa J, RVCE",designation: "Member",img:"#" },
-		{ name: "Dr. Azra Nasreen",designation: "Member",img:"#" },
-		{ name: "Dr. Hemavathy R",designation: "Member",img:"#" },
-		{ name: "Ms. Neethu S",designation: "Member",img:"#" },	
-];
-let operations_team = [
-	{name: "Mr. Ravikumar Koppal",designation: "Member",img:"#" },
-	{name: "Mr. Shiva Kumar",designation: "Member",img:"#" },
-	{name: "Mr. Somesh Nandi",designation: "Member",img:"#" },
-	{name: "Mr. Vithal",designation: "Member",img:"#" },
-];
-
+	let academia_team = [
+		{ name: 'Dr. Surbhi Mathur, NFSU', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Prof. Roopa J, RVCE', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Dr. Azra Nasreen', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Dr. Hemavathy R', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Ms. Neethu S', designation: 'Member', img: 'images/hod.PNG' }
+	];
+	let operations_team = [
+		{ name: 'Mr. Ravikumar Koppal', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Mr. Shiva Kumar', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Mr. Somesh Nandi', designation: 'Member', img: 'images/hod.PNG' },
+		{ name: 'Mr. Vithal', designation: 'Member', img: 'images/hod.PNG' }
+	];
 </script>
 
-
-<h2 class="text-3xl"> dream_team</h2>
-<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-{#each dream_team as { name, designation }, i}
-
-	<Team
-	name="{name}"
-	designation="{designation}"
-	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-/>
-
-{/each}
+<h2 class="text-3xl">dream team</h2>
+<div class="grid grid-cols-1 gap-8 mb-8 mt-8 xl:mt-8 md:grid-cols-2 xl:grid-cols-4">
+	{#each dream_team as { name, designation, img }, i}
+		<Team {name} {designation} image={img} />
+	{/each}
+</div>
+<h2 class="text-3xl">industry team</h2>
+<div class="grid grid-cols-1 gap-8 mt-8 mb-8 xl:mt-8 md:grid-cols-2 xl:grid-cols-4">
+	{#each industry_team as { name, designation, img }, i}
+		<Team {name} {designation} image={img} />
+	{/each}
 </div>
 
-
-<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-{#each industry_team as { name, designation }, i}
-
-	<Team
-	name="{name}"
-	designation="{designation}"
-	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-/>
-
-{/each}
+<h2 class="text-3xl">academia team</h2>
+<div class="grid grid-cols-1 gap-8 mt-8 mb-8 xl:mt-8 md:grid-cols-2 xl:grid-cols-4">
+	{#each academia_team as { name, designation, img }, i}
+		<Team {name} {designation} image={img} />
+	{/each}
 </div>
 
-<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-{#each academia_team as { name, designation }, i}
-
-	<Team
-	name="{name}"
-	designation="{designation}"
-	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-/>
-
-{/each}
+<h2 class="text-3xl">operations team</h2>
+<div class="grid grid-cols-1 gap-8 mt-8 mb-8 xl:mt-8 md:grid-cols-2 xl:grid-cols-4">
+	{#each operations_team as { name, designation, img }, i}
+		<Team {name} {designation} image={img} />
+	{/each}
 </div>
-
-<div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-{#each operations_team as { name, designation }, i}
-
-	<Team
-	name="{name}"
-	designation="{designation}"
-	image="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-/>
-
-{/each}
-</div>
-
-
 
 <!-- <div class="mx-auto">
 	<h2>DREAM TEAM</h2>
