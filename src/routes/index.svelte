@@ -1,5 +1,21 @@
 <script>
 	import Team from '../components/team.svelte';
+	import YveBot from 'yve-bot';
+
+	// const options = {
+  	// 	rule: {
+    // 	delay: 5000,
+  	// 	}
+	// };
+	// const rules = [
+  	// 	{ message: 'Hello!' },
+  	// 	{ message: 'Enter your e-mail', name: 'email', type: 'String',replyMessage: 'Okay {email}, thanks.' },
+	// ];
+	// var bot = new YveBot(rules,options);
+	// bot.start();
+	// bot.hear('bharadwajnavnith5@gmail.com');
+	// bot.end();
+	
 </script>
 
 <!--<h1>Welcome to SvelteKit</h1>
