@@ -1,11 +1,22 @@
 {
-    "short_name": "svelte-pwa",
-    "name": "svelte-test-pwa",
+    "short_name": "pwa",
+    "name": "pwa",
     "start_url": "/",
-    "icons": [],
     "background_color": "#3367D6",
+    "icons": [
+        {
+          "src": "./favicon.png",
+          "type": "image/png",
+          "sizes": "128x128"
+        },
+        {
+            "src": "./icon1.png",
+          "type": "image/png",
+          "sizes": "144x144"
+        }
+      ],
     "display": "standalone",
     "scope": "/",
     "theme_color": "#3367D6",
     "description": "CCTVR website"
-  }
+}
