@@ -31,7 +31,7 @@
 			{#each navig as { name, link }}
 				<li class="hover:scale-110">
 					<a
-						class="border-solid border-gray-900 rounded-3xl border-2 py-2 px-4 text-2xl  text-gray-400 hover:text-orange-500"
+						class="border-solid border-gray-900 rounded-3xl border-2 py-2 px-4 text-2xl  text-gray-400 hover:text-orange-500 whitespace-nowrap"
 						href={link}>{name}</a
 					>
 				</li>
