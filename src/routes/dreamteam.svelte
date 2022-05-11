@@ -1,5 +1,5 @@
 <script>
-	import Team from '../components/team.svelte';
+	import Team from '../components/oldteam.svelte';
 	let dream_team = [
 		{ name: 'Dr K N Subramanya Principal RVCE', designation: 'ChairPerson', img: 'images/hod.PNG' },
 		{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: 'images/hod.PNG' },

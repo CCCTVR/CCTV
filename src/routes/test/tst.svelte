@@ -1,5 +1,5 @@
 <script>
-	import { eye } from '../data/data';
+	import { eye } from '../../data/data';
 	console.log(eye);
 </script>
 
@@ -63,7 +63,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="skew skew-bottom mr-for-radius">
+	<!-- <div class="skew skew-bottom mr-for-radius">
 		<svg
 			class="h-8 md:h-12 lg:h-20 w-full text-gray-50"
 			viewBox="0 0 10 10"
@@ -80,5 +80,5 @@
 		>
 			<polygon fill="currentColor" points="0 0 10 0 10 10" />
 		</svg>
-	</div>
+	</div> -->
 </section>

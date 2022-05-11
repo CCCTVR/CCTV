@@ -1,7 +1,13 @@
 <script>
 	// on a tag apply text-indigo-500 underline
-	let QuestionsHedding = 'CCTV';
-	import { qlist } from '../data/faq.js';
+	export let QuestionsHedding = 'CCTV';
+	export let qlist = [
+		{
+			question: 'What is the difference between analog and IP cameras',
+			answer:
+				'The difference between analog and IP security cameras is mainly in how video footage moves from the cameras to the video recorder. For IP cameras, the video is transferred digitally over a network. ... Analog cameras record footage and send the signal via a coaxial cable directly to a DVR (Digital Video Recorder).'
+		}
+	];
 </script>
 
 <section class="py-24 bg-white">
