@@ -1,4 +1,4 @@
-export const qlist = [
+export const qlist1 = [
 	//Video Survelience Systems
 	{
 		question: 'What is the difference between analog and IP cameras',
