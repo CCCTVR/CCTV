@@ -1,13 +1,13 @@
 <section class="bg-gray-100 min-h-screen">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h1>CCTV</h1>
+		<h1 class="text-orange-400">CCTV</h1>
 		<!-- make cards instead of table -->
 		<p>
 			This page contains links to articles on CCTV and video surveillance systems extracted from the
 			web. Happy reading!
 		</p>
 
-		<h3>Hyderabad model of CCTV surveillance</h3>
+		<h3 class="text-orange-400">Hyderabad model of CCTV surveillance</h3>
 
 		<p>
 			Article link : <a
@@ -17,10 +17,10 @@
 			>
 		</p>
 
-		<h2>
+		<h3 class="text-orange-400">
 			Railway Board has approved works for provision of Video Surveillance Systems covering 983
 			Railway stations under Nirbhaya funds
-		</h2>
+		</h3>
 
 		<p>
 			Article link : <a
@@ -30,10 +30,10 @@
 			>
 		</p>
 
-		<h2>
+		<h3 class="text-orange-400">
 			Kerala Police to launch CIMS(central intrusion monitoring system), a first of its-kind
 			surveillance system
-		</h2>
+		</h3>
 
 		<p>
 			Article link : <a
@@ -42,7 +42,9 @@
 			>
 		</p>
 
-		<h2>Lucknow is counted amongst one of the "first CCTV city in India"</h2>
+		<h3 class="text-orange-400">
+			Lucknow is counted amongst one of the "first CCTV city in India"
+		</h3>
 
 		<p>
 			Article link : <a
@@ -51,10 +53,10 @@
 			>
 		</p>
 
-		<h2>
+		<h3 class="text-orange-400">
 			Importance of performing a CCTV Audit: COM|SUR Gautam Goradia, Founder and CEO at Hayagriva
 			Software Pvt.Ltd.
-		</h2>
+		</h3>
 
 		<p>
 			Article link : <a href="https://www.youtube.com/watch?v=bW-Bsp-y-ZQ"
@@ -62,7 +64,7 @@
 			>
 		</p>
 
-		<h2>WHITE PAPERS</h2>
+		<h3 class="text-orange-400">WHITE PAPERS</h3>
 		<ul>
 			<li>
 				<a
