@@ -1,6 +1,6 @@
 <script>
 	import '../app.css';
-	import Sidenav from '../components/sidenav2.svelte';
+	// import Sidenav from '../components/sidenav2.svelte';
 	import Nav from '../components/nav.svelte';
 </script>
 

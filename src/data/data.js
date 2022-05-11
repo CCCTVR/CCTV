@@ -77,3 +77,62 @@ export const nav = [
 		link: 'media'
 	}
 ];
+
+export const teams = [
+	{
+		TeamName: 'Dream Team',
+		TeamMembers: [
+			{
+				name: 'Dr K N Subramanya Principal RVCE',
+				designation: 'ChairPerson',
+				img: 'images/hod.PNG'
+			},
+			{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: 'images/hod.PNG' },
+			{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'images/hod.PNG' },
+			{
+				name: 'Shri T Shankar',
+				designation: 'Head, Research and Projects',
+				img: 'images/hod.PNG'
+			},
+			{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: 'images/hod.PNG' },
+			{
+				name: 'Dr. Ravishankar S',
+				designation: 'Head, Communication and Networking',
+				img: 'images/hod.PNG'
+			},
+			{ name: 'Ms. Rashmi H', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
+		]
+	},
+	{
+		TeamName: 'Industry Team',
+		TeamMembers: [
+			{ name: 'Shri. Gautam Goradia, COMSUR', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Mr. Avinash Trivedi, Videonetics', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Mr. Pawan Vashist', designation: 'Member', img: 'images/hod.PNG' },
+			{
+				name: 'Mistral Solutions',
+				designation: 'Member',
+				img: 'images/hod.PNG'
+			} /* Mistral Solutions has no designation*/
+		]
+	},
+	{
+		TeamName: 'Academia Team',
+		TeamMembers: [
+			{ name: 'Dr. Surbhi Mathur, NFSU', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Prof. Roopa J, RVCE', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Dr. Azra Nasreen', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Dr. Hemavathy R', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Ms. Neethu S', designation: 'Member', img: 'images/hod.PNG' }
+		]
+	},
+	{
+		TeamName: 'Operations Team',
+		TeamMembers: [
+			{ name: 'Mr. Ravikumar Koppal', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Mr. Somesh Nandi', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Mr. Vithal', designation: 'Member', img: 'images/hod.PNG' }
+		]
+	}
+];
