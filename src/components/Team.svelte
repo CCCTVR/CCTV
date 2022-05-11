@@ -2,40 +2,31 @@
 	// bg-blue-50
 	export let TeamName = 'TeamName';
 	export let TeamMembers = [
-		{ name: 'Dr K N Subramanya Principal RVCE', designation: 'ChairPerson', img: 'images/hod.PNG' },
-		{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: 'images/hod.PNG' },
-		{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'images/hod.PNG' },
-		{ name: 'Shri T Shankar', designation: 'Head, Research and Projects', img: 'images/hod.PNG' },
-		{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: 'images/hod.PNG' },
-		{
-			name: 'Dr. Ravishankar S',
-			designation: 'Head, Communication and Networking',
-			img: 'images/hod.PNG'
-		},
-		{ name: 'Ms. Rashmi H', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
+		{ name: 'Dr K N Subramanya Principal RVCE', designation: 'ChairPerson', img: 'images/hod.PNG' }
 	];
 </script>
 
-<section class="relative py-20 overflow-hidden bg-white">
-	<span class="absolute top-0 right-0 flex flex-col items-end mt-0 -mr-16 opacity-60">
+<section class="relative py-1 overflow-hidden">
+	<!-- <span class="absolute top-0 right-0 flex flex-col items-end mt-0 -mr-16 opacity-60">
 		<span
 			class="container hidden w-screen h-32 max-w-xs mt-20 transform rounded-full rounded-r-none md:block md:max-w-xs lg:max-w-lg 2xl:max-w-3xl bg-blue-50"
 		/>
-	</span>
+	</span> -->
 
 	<span class="absolute bottom-0 left-0" />
 
 	<div class="relative px-16 mx-auto max-w-7xl">
 		<!-- <p class="font-medium tracking-wide text-blue-500 uppercase">OUR TEAM</p> -->
 		<h2 class="relative max-w-lg mt-5 mb-10 text-4xl font-semibold leading-tight lg:text-5xl">
-			Our <br />{TeamName}
+			<!--Our  <br /> -->
+			{TeamName}
 		</h2>
 
 		<div class="grid w-full grid-cols-2 gap-10 sm:grid-cols-3 lg:grid-cols-4">
 			{#each TeamMembers as { name, designation, img }, i}
 				<div class="flex flex-col items-center justify-center col-span-1">
 					<div class="relative p-5">
-						<div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full  bg-blue-50" />
+						<div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full  bg-blue-200" />
 						<img class="relative z-20 w-full rounded-full" src={img} />
 					</div>
 					<div class="mt-3 space-y-2 text-center">

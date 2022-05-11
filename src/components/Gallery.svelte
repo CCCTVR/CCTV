@@ -1,6 +1,6 @@
 <script>
-	let title = 'Title';
-	let Images = [
+	export let title = 'Title';
+	export let Images = [
 		{
 			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
 			description: 'description',
@@ -27,7 +27,7 @@
 			description2: 'description2'
 		}
 	];
-	let columns = 2;
+	export let columns = 2;
 </script>
 
 <div class="bg-gray-100">
@@ -38,9 +38,8 @@
 			<div class="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-{columns} lg:gap-x-6">
 				{#each Images as { image, description, description2 }}
 					<div class="group relative py-4">
-						<div
-							class="relative w-full  bg-white rounded-lg overflow-hidden group-hover:opacity-75 "
-						>
+						<div class="relative w-full  bg-white rounded-lg overflow-hidden  ">
+							<!-- group-hover:opacity-75 -->
 							<img
 								src={image}
 								alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."

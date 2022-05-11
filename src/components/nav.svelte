@@ -4,7 +4,9 @@
 </script>
 
 <section>
-	<nav class="relative px-6 py-6 flex justify-between items-center bg-gray-50">
+	<nav
+		class="relative px-6 py-6 flex justify-between items-center bg-gray-100  border-b-orange-400 border-b-8"
+	>
 		<span class="inline">
 			<span>LOGO CCTV </span>
 			<span class="lg:hidden">LOGO RVCE</span>
