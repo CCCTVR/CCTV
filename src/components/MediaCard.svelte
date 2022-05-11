@@ -1,7 +1,7 @@
 <script>
 	export let Title = 'Title';
 	export let Discription = 'Discription';
-	export let Image = 'imges/media1.jpg';
+	export let Image = 'images/media1.jpg';
 	export let ImageAlt = 'ImageAlt';
 	export let Tags = ['Tag1', 'Tag2', 'Tag3'];
 </script>

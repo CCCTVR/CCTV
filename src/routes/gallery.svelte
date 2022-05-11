@@ -1,9 +1,12 @@
 <script>
 	import Gallery from '../components/Gallery.svelte';
+	import { GalleryImages } from '../data/data.js';
 </script>
 
 <section>
-	<Gallery columns="1" />
+	<Gallery columns="1" images={GalleryImages} />
+	<Gallery columns="3" images={GalleryImages} />
+	<Gallery columns="2" images={GalleryImages} />
 </section>
 <section class="overflow-hidden text-gray-700">
 	<div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">

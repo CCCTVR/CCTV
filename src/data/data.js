@@ -36,10 +36,11 @@ export const eye = [
 ];
 
 export const nav = [
-	// {
-	//  name: 'home',
-	//  svg: '<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32"><path d="M25,31H7a3,3,0,0,1-3-3V16H2a1,1,0,0,1-.68-1.73L14,2.53h0a3,3,0,0,1,4.08,0L30.68,14.27A1,1,0,0,1,30,16H28V28A3,3,0,0,1,25,31ZM4.55,14H5a1,1,0,0,1,1,1V28a1,1,0,0,0,1,1H25a1,1,0,0,0,1-1V15a1,1,0,0,1,1-1h.45L16.68,4a1,1,0,0,0-1.36,0Z"/></svg>'
-	// },
+	{
+		name: 'home',
+		svg: '<svg class="w-8 h-8" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32"><path d="M25,31H7a3,3,0,0,1-3-3V16H2a1,1,0,0,1-.68-1.73L14,2.53h0a3,3,0,0,1,4.08,0L30.68,14.27A1,1,0,0,1,30,16H28V28A3,3,0,0,1,25,31ZM4.55,14H5a1,1,0,0,1,1,1V28a1,1,0,0,0,1,1H25a1,1,0,0,0,1-1V15a1,1,0,0,1,1-1h.45L16.68,4a1,1,0,0,0-1.36,0Z"/></svg>',
+		link: '/'
+	},
 
 	{
 		name: 'Stakeholder',
@@ -134,5 +135,33 @@ export const teams = [
 			{ name: 'Mr. Somesh Nandi', designation: 'Member', img: 'images/hod.PNG' },
 			{ name: 'Mr. Vithal', designation: 'Member', img: 'images/hod.PNG' }
 		]
+	}
+];
+
+export const GalleryImages = [
+	{
+		image: 'images/img1.jpg',
+		description: 'description',
+		description2: 'description2'
+	},
+	{
+		image: 'images/img2.jpg',
+		description: 'description',
+		description2: 'description2'
+	},
+	{
+		image: 'images/img3.jpg',
+		description: 'description',
+		description2: 'description2'
+	},
+	{
+		image: 'images/img4.jpg',
+		description: 'description',
+		description2: 'description2'
+	},
+	{
+		image: 'images/img5.jpg',
+		description: 'description',
+		description2: 'description2'
 	}
 ];

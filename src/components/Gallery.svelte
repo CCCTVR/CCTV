@@ -1,28 +1,28 @@
 <script>
 	export let title = 'Title';
-	export let Images = [
+	export let images = [
 		{
-			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
+			image: 'images/media1.jpg',
 			description: 'description',
 			description2: 'description2'
 		},
 		{
-			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
+			image: 'images/media1.jpg',
 			description: 'description',
 			description2: 'description2'
 		},
 		{
-			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
+			image: 'images/media1.jpg',
 			description: 'description',
 			description2: 'description2'
 		},
 		{
-			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
+			image: 'images/media1.jpg',
 			description: 'description',
 			description2: 'description2'
 		},
 		{
-			image: 'https://tailwindui.com/img/ecommerce-images/home-page-02-edition-01.jpg',
+			image: 'images/media1.jpg',
 			description: 'description',
 			description2: 'description2'
 		}
@@ -36,7 +36,7 @@
 			<h2 class="text-2xl font-extrabold text-gray-900">{title}</h2>
 
 			<div class="mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-{columns} lg:gap-x-6">
-				{#each Images as { image, description, description2 }}
+				{#each images as { image, description, description2 }}
 					<div class="group relative py-4">
 						<div class="relative w-full  bg-white rounded-lg overflow-hidden  ">
 							<!-- group-hover:opacity-75 -->
