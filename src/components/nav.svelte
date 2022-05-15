@@ -5,11 +5,11 @@
 
 <section>
 	<nav
-		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-8"
+		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-[0.8rem]"
 	>
 		<div class="inline">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo.png" alt="logo" class="w-[7.5rem]"></a>
+			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo" class="w-[18.9rem]" /></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 
@@ -30,17 +30,16 @@
 		</div>
 		<div>
 			<ul
-			class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-1"
-		>
-			{#each navig as { name, link }}
-				<li class="">
-					<a
-						class="py-2 px-4 text-2xl  hover:text-[#0170B9] whitespace-nowrap"
-						href={link}>{name}</a
-					>
-				</li>
-			{/each}
-			<!-- <li class="text-gray-800">
+				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/3 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pr-20"
+			>
+				{#each navig as { name, link }}
+					<li class="">
+						<a class="py-2 px-3 text-2xl  hover:text-[#0170B9] whitespace-nowrap" href={link}
+							>{name}</a
+						>
+					</li>
+				{/each}
+				<!-- <li class="text-gray-800">
 				<svg
 					class="w-4 h-4 current-fill"
 					xmlns="http://www.w3.org/2000/svg"
@@ -56,15 +55,15 @@
 					/>
 				</svg>
 			</li> -->
-			<!-- <li><a class="text-sm text-orange-600 font-bold" href="#">About Us</a></li> -->
-		</ul>
+				<!-- <li><a class="text-sm text-orange-600 font-bold" href="#">About Us</a></li> -->
+			</ul>
 		</div>
 		<!-- <a
 			class="hidden lg:inline-block py-2 px-6 bg-white hover:bg-gray-50 text-sm text-orange-600 font-bold rounded-l-xl rounded-t-xl transition duration-200"
 			href="#">Contact Us</a
 		> -->
 		<div class="hidden lg:block">
-			<img class="w-[6.5rem]" src="/src/assets/rvce_logo.png" alt="rvce_logo">
+			<!-- <a href="https://rvce.edu.in/"><img class="w-[6.5rem]" src="/src/assets/rvce_logo.png" alt="rvce_logo" /></a> -->
 		</div>
 	</nav>
 
@@ -77,7 +76,7 @@
 		/>
 		<nav class="relative flex flex-col py-6 px-6 h-full w-full bg-white border-r overflow-y-auto">
 			<div class="flex items-center mb-8">
-				<a class="mr-auto text-3xl font-bold leading-none" href="#">
+				<a class="mr-auto text-2xl font-bold leading-none" href="#">
 					<img class="h-10" src="atis-assets/logo/atis/atis-mono-black.svg" alt="" width="auto" />
 				</a>
 				<button class="navbar-close" on:click={() => (sidemenu = !sidemenu)}>
@@ -100,7 +99,7 @@
 			<div>
 				<ul>
 					{#each navig as { name, link }}
-						<li class="mb-1">
+						<li class="mb-2">
 							<a
 								class="block p-4 text-xl font-semibold text-gray-400 hover:bg-orange-50 hover:text-orange-600 rounded"
 								href={link}>{name}</a

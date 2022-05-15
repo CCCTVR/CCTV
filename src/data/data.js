@@ -1,6 +1,6 @@
 export const eye = [
 	{
-		title: 'consultation',
+		title: 'Consultation',
 		description:
 			'The Center is capable of offering consultancy services to academic institutions, industries, corporates, police, and other State and Govt organizations in providing the clients a turnkey solution for deploying video surveillance systems.',
 		svg: ' ',
@@ -96,47 +96,75 @@ export const teams = [
 			{
 				name: 'Dr K N Subramanya Principal RVCE',
 				designation: 'ChairPerson',
-				img: 'images/hod.PNG'
+				img: '/src/assets/cctv_team/principal.PNG'
 			},
-			{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: 'images/hod.PNG' },
+			{ name: 'Shri. Sanjay Sahay', designation: 'Founder and Mentor', img: '/src/assets/cctv_team/sanjay_sahay.jpg' },
 			{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'images/hod.PNG' },
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
 				img: 'src/assets/cctv_team/shankar.jpg'
 			},
-			{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: 'images/hod.PNG' },
+			{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: '/src/assets/cctv_team/default.png' },
 			{
 				name: 'Dr. Ravishankar S',
 				designation: 'Head, Communication and Networking',
-				img: 'images/hod.PNG'
+				img: '/src/assets/cctv_team/default.png'
 			},
-			{ name: 'Dr. Azra Nasreen', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
+			{ name: 'Dr. Azra Nasreen', designation: 'Coordinator, CCCTVR', img: '/src/assets/cctv_team/azra.jpg' }
 		]
 	},
 	{
 		TeamName: 'Industry Team',
 		TeamMembers: [
-			{ name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited', designation: 'Member', img: 'src/assets/cctv_team/GautamDGoradia.jpg' },
-			{ name: 'Mr. Avinash Trivedi, Videonetics', designation: 'Member', img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG' },
-			{ name: 'Mr. Pawan Vashist, Mistral Solutions', designation: 'Member', img: 'images/hod.PNG' }
+			{
+				name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/GautamDGoradia.jpg'
+			},
+			{
+				name: 'Mr. Avinash Trivedi, Videonetics',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG'
+			},
+			{ name: 'Mr. Pawan Vashist, Mistral Solutions', designation: 'Member', img: '/src/assets/cctv_team/default.png' }
 		]
 	},
 	{
 		TeamName: 'Academia Team',
 		TeamMembers: [
-			{ name: 'Dr. Surbhi Mathur, NFSU', designation: 'Member', img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg' },
-			{ name: 'Dr. Hemavathy R, RVCE', designation: 'Member', img: 'src/assets/cctv_team/R HEMAVATHY.jpg' },
-			{ name: 'Dr. Nagraj Bhat, RVCE', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Ms. Neethu S, RVCE', designation: 'Member', img: 'src/assets/cctv_team/Neethu S - Copy.jpg' },
-			{ name: 'Dr. Poornima Kulkarni, RVCE', designation: 'Member', img: 'src/assets/cctv_team/Poornima Kulkarni.jpg' }
+			{
+				name: 'Dr. Surbhi Mathur, NFSU',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg'
+			},
+			{
+				name: 'Dr. Hemavathy R, RVCE',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/R HEMAVATHY.jpg'
+			},
+			{ name: 'Dr. Nagraj Bhat, RVCE', designation: 'Member', img: '/src/assets/cctv_team/default.png' },
+			{
+				name: 'Ms. Neethu S, RVCE',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/Neethu S - Copy.jpg'
+			},
+			{
+				name: 'Dr. Poornima Kulkarni, RVCE',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/Poornima Kulkarni.jpg'
+			}
 		]
 	},
 	{
 		TeamName: 'Operations Team',
 		TeamMembers: [
-			{ name: 'Mr. Ravikumar Koppal', designation: 'Member', img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg' },
-			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: 'images/hod.PNG' }
+			{
+				name: 'Mr. Ravikumar Koppal',
+				designation: 'Member',
+				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg'
+			},
+			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: '/src/assets/cctv_team/default.png' }
 		]
 	}
 ];

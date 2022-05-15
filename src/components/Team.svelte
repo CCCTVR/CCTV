@@ -27,7 +27,7 @@
 				<div class="flex flex-col items-center justify-center col-span-1">
 					<div class="relative p-5">
 						<div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full  bg-blue-200" />
-						<img class="relative z-20 w-full rounded-full" src={img} />
+						<img class="relative z-20 w-full rounded-full" src={img} alt=" " />
 					</div>
 					<div class="mt-3 space-y-2 text-center">
 						<div class="space-y-1 text-lg font-medium leading-6">

@@ -1,5 +1,7 @@
 <script>
 	import { eye } from '../data/data';
+	import Card from '../components/Card.svelte';
+	import '../data/data.js';
 	console.log(eye);
 </script>
 
@@ -25,80 +27,39 @@
 	<div class="py-2 lg:py-5 bg-gray-50 radius-for-skewed">
 		<div class="container mx-auto px-5">
 			<div class="mb-7 mx-auto flex justify-center">
-				
 				<!-- <h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2> bg gray
 				<span class="text-black-600 text-3xl font-bold">Research to Reality</span> -->
-				<img src="/src/assets/text_img.PNG" alt="text" class="w-[75%]" />
-				
+				<img src="/src/assets/text_img.PNG" alt="text" class="w-[70%]" />
 			</div>
-			<div class="w-[100%] flex flex-row space-x-3 ">
+			<div class="w-[100%] flex flex-row space-x-7">
 				<div class="flex-1 ">
-					<div class="flex items-center text-center text-4xl h-full font-mono text-blue-900">
-						<span class="text-center">Multi Stakeholder Research Facility</span>
+					<div class="flex items-center  text-4xl h-full font-mono text-blue-900">
+						<span class=""
+							>An integrated research facility to bridge the gap in knowledge, practice, protocols,
+							testing, expriments, training, certification and expertise in video surveillance.
+						</span>
 					</div>
 				</div>
-				<div class="flex-1">
-					<div class="p-2">
-						<img src="/src/assets/cctv_img1.png" alt="" class="w-[100%]"/>
+				<div class="flex flex-row p-1 ">
+					<div class="object-right">
+						<span><img src="/src/assets/cctv_img1.png" alt="" class="w-[22rem] " /></span>
+						<span><img src="/src/assets/cctv_img2.png" alt="" class="w-[22rem] " /></span>
 					</div>
-					<div class="flex flex-row p-2 space-x-2">
-						<span><img src="/src/assets/cctv_img2.png" alt=""  class="w-45"/></span>
-						<span><img src="/src/assets/cctv_img3.png" alt="" class="w-45"/></span>
+					<div class="flex flex-col p-1 object-right">
+						<span><img src="/src/assets/cctv_img3.png" alt="" class="w-[22rem] " /></span>
+						<span><img src="/src/assets/cctv_img4.png" alt="" class="w-[22rem] " /></span>
 					</div>
 				</div>
 			</div>
-
-			<div class="flex flex-wrap -mx-4">
-				{#each eye as { title, description, svg,  link}}
-					<div class=" w-full md:w-1/2 lg:w-1/3 flex">
-						<a
-							href={link}
-							class="w-full hover:scale-105 transition-all duration-300 ease-linear border-solid border-gray-900 rounded-lg border-2 m-3 p-3 "
-						>
-							<span class="mb-4 text-2xl text-orange-500 font-bold font-heading">
-								{title}
-								<!-- <svg
-								class="w-16 h-16 mb-4 md:mb-6 bg-green-100 p-3 text-green-500 rounded "
-								xmlns="http://www.w3.org/2000/svg"
-								fill="none"
-								viewBox="0 0 24 24"
-								stroke="currentColor"
-							>
-								<path
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									stroke-width="2"
-									d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-								/>
-							</svg> -->
-							</span>
-							<span class="mb-4 text-2xl font-bold font-heading" />
-							<p class="text-gray-500 leading-loose">
-								{description}
-							</p>
-						</a>
-						<div />
+			<div class="flex justify-center mt-40 ">
+				<div class="flex overflow-x-scroll w-[65%] p-5 scroll-smooth ">
+					<div class=" flex flex-nowrap space-x-5">
+						{#each eye as eye}
+							<Card Title={eye.title} Discription={eye.description} />
+						{/each}
 					</div>
-				{/each}
+				</div>
 			</div>
 		</div>
 	</div>
-	<!-- <div class="skew skew-bottom mr-for-radius">
-		<svg
-			class="h-8 md:h-12 lg:h-20 w-full text-gray-50"
-			viewBox="0 0 10 10"
-			preserveAspectRatio="none"
-		>
-			<polygon fill="currentColor" points="0 0 10 0 0 10" />
-		</svg>
-	</div>
-	<div class="skew skew-bottom ml-for-radius">
-		<svg
-			class="h-8 md:h-12 lg:h-20 w-full text-gray-50"
-			viewBox="0 0 10 10"
-			preserveAspectRatio="none"
-		>
-			<polygon fill="currentColor" points="0 0 10 0 10 10" />
-		</svg>
-	</div> -->
 </section>
