@@ -5,16 +5,17 @@
 
 <section>
 	<nav
-		class="relative px-6 py-2 lg:py-6 flex justify-between items-center bg-gray-100  border-b-orange-400 border-b-8"
+		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-8"
 	>
-		<span class="inline">
-			<span>LOGO CCTV </span>
-			<span class="lg:hidden">LOGO RVCE</span>
-		</span>
+		<div class="inline">
+			<!-- <span>LOGO CCTV </span> -->
+			<a href="/"><img src="/src/assets/cctv_logo.png" alt="logo" class="w-[7.5rem]"></a>
+			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
+		</div>
 
-		<a class="text-3xl font-bold leading-none" href="#">
+		<!-- <a class="text-3xl font-bold leading-none" href="#">
 			<img class="h-12" src="atis-assets/logo/atis/atis-mono-black.svg" alt="" width="auto" />
-		</a>
+		</a> -->
 		<div class="lg:hidden" on:click={() => (sidemenu = !sidemenu)}>
 			<button class="navbar-burger flex items-center text-gray-400 p-3">
 				<svg
@@ -27,13 +28,14 @@
 				</svg>
 			</button>
 		</div>
-		<ul
-			class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-6"
+		<div>
+			<ul
+			class="hidden absolute top-1/2 left-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-1"
 		>
 			{#each navig as { name, link }}
-				<li class="hover:scale-110">
+				<li class="">
 					<a
-						class="border-solid border-gray-900 rounded-3xl border-2 py-2 px-4 text-2xl  text-gray-400 hover:text-orange-500 whitespace-nowrap"
+						class="py-2 px-4 text-2xl  hover:text-[#0170B9] whitespace-nowrap"
 						href={link}>{name}</a
 					>
 				</li>
@@ -56,11 +58,14 @@
 			</li> -->
 			<!-- <li><a class="text-sm text-orange-600 font-bold" href="#">About Us</a></li> -->
 		</ul>
+		</div>
 		<!-- <a
 			class="hidden lg:inline-block py-2 px-6 bg-white hover:bg-gray-50 text-sm text-orange-600 font-bold rounded-l-xl rounded-t-xl transition duration-200"
 			href="#">Contact Us</a
 		> -->
-		<div class="hidden lg:block">LOGO RVCE</div>
+		<div class="hidden lg:block">
+			<img class="w-[6.5rem]" src="/src/assets/rvce_logo.png" alt="rvce_logo">
+		</div>
 	</nav>
 
 	<div

@@ -23,14 +23,33 @@
 		</svg>
 	</div> -->
 	<div class="py-2 lg:py-5 bg-gray-50 radius-for-skewed">
-		<div class="container mx-auto px-4">
-			<div class="mb-16 mx-auto text-center">
-				<h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2>
-				<span class="text-orange-600 text-3xl font-bold">Research to Reality</span>
+		<div class="container mx-auto px-5">
+			<div class="mb-7 mx-auto flex justify-center">
+				
+				<!-- <h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2> bg gray
+				<span class="text-black-600 text-3xl font-bold">Research to Reality</span> -->
+				<img src="/src/assets/text_img.PNG" alt="text" class="w-[75%]" />
+				
+			</div>
+			<div class="w-[100%] flex flex-row space-x-3 ">
+				<div class="flex-1 ">
+					<div class="flex items-center text-center text-4xl h-full font-mono text-blue-900">
+						<span class="text-center">Multi Stakeholder Research Facility</span>
+					</div>
+				</div>
+				<div class="flex-1">
+					<div class="p-2">
+						<img src="/src/assets/cctv_img1.png" alt="" class="w-[100%]"/>
+					</div>
+					<div class="flex flex-row p-2 space-x-2">
+						<span><img src="/src/assets/cctv_img2.png" alt=""  class="w-45"/></span>
+						<span><img src="/src/assets/cctv_img3.png" alt="" class="w-45"/></span>
+					</div>
+				</div>
 			</div>
 
 			<div class="flex flex-wrap -mx-4">
-				{#each eye as { title, description, svg, link }}
+				{#each eye as { title, description, svg,  link}}
 					<div class=" w-full md:w-1/2 lg:w-1/3 flex">
 						<a
 							href={link}

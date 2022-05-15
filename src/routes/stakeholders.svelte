@@ -116,12 +116,5 @@
 			edge processing without costly servers, with optional internet connectivity.
 		</p>
 
-		<h2>KRISHNA SOUND AND SECURE</h2>
-		<p>
-			Krishna sound and secure located in Bengaluru, are leading suppliers and dealers of CCTV
-			systems, audio systems, access control, home theatre systems and also provide access control
-			solutions. They have installed 200 IP cameras in RVCE campus and they are marinating the
-			entire CCTV network.
-		</p>
 	</article>
 </section>
