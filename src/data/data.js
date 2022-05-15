@@ -103,7 +103,7 @@ export const teams = [
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
-				img: 'images/hod.PNG'
+				img: 'src/assets/cctv_team/shankar.jpg'
 			},
 			{ name: 'Dr. Shreelakshmi K', designation: 'Head, Operations', img: 'images/hod.PNG' },
 			{
@@ -111,39 +111,32 @@ export const teams = [
 				designation: 'Head, Communication and Networking',
 				img: 'images/hod.PNG'
 			},
-			{ name: 'Ms. Rashmi H', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
+			{ name: 'Dr. Azra Nasreen', designation: 'Coordinator, CCCTVR', img: 'images/hod.PNG' }
 		]
 	},
 	{
 		TeamName: 'Industry Team',
 		TeamMembers: [
-			{ name: 'Shri. Gautam Goradia, COMSUR', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Mr. Avinash Trivedi, Videonetics', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Mr. Pawan Vashist', designation: 'Member', img: 'images/hod.PNG' },
-			{
-				name: 'Mistral Solutions',
-				designation: 'Member',
-				img: 'images/hod.PNG'
-			} /* Mistral Solutions has no designation*/
+			{ name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited', designation: 'Member', img: 'src/assets/cctv_team/GautamDGoradia.jpg' },
+			{ name: 'Mr. Avinash Trivedi, Videonetics', designation: 'Member', img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG' },
+			{ name: 'Mr. Pawan Vashist, Mistral Solutions', designation: 'Member', img: 'images/hod.PNG' }
 		]
 	},
 	{
 		TeamName: 'Academia Team',
 		TeamMembers: [
-			{ name: 'Dr. Surbhi Mathur, NFSU', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Prof. Roopa J, RVCE', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Dr. Azra Nasreen', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Dr. Hemavathy R', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Ms. Neethu S', designation: 'Member', img: 'images/hod.PNG' }
+			{ name: 'Dr. Surbhi Mathur, NFSU', designation: 'Member', img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg' },
+			{ name: 'Dr. Hemavathy R, RVCE', designation: 'Member', img: 'src/assets/cctv_team/R HEMAVATHY.jpg' },
+			{ name: 'Dr. Nagraj Bhat, RVCE', designation: 'Member', img: 'images/hod.PNG' },
+			{ name: 'Ms. Neethu S, RVCE', designation: 'Member', img: 'src/assets/cctv_team/Neethu S - Copy.jpg' },
+			{ name: 'Dr. Poornima Kulkarni, RVCE', designation: 'Member', img: 'src/assets/cctv_team/Poornima Kulkarni.jpg' }
 		]
 	},
 	{
 		TeamName: 'Operations Team',
 		TeamMembers: [
-			{ name: 'Mr. Ravikumar Koppal', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Mr. Somesh Nandi', designation: 'Member', img: 'images/hod.PNG' },
-			{ name: 'Mr. Vithal', designation: 'Member', img: 'images/hod.PNG' }
+			{ name: 'Mr. Ravikumar Koppal', designation: 'Member', img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg' },
+			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: 'images/hod.PNG' }
 		]
 	}
 ];
