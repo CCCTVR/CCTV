@@ -30,11 +30,11 @@
 		</div>
 		<div>
 			<ul 
-				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 "
+				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pl-[15px] pr-[2px]"
 			>
 				{#each navig as { name, link }}
 					<li class="">
-						<a class="py-2 px-3 text-2xl  hover:text-[#0170B9] whitespace-nowrap" href={link}
+						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] whitespace-nowrap" href={link}
 							>{name}</a
 						>
 					</li>
