@@ -1,6 +1,6 @@
 <section class="bg-gray-100 min-h-screen">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h2>Videonetics Intellegent VMS 3.0</h2>
+		<h3>Videonetics Intellegent VMS 3.0</h3>
 		<p>
 			Videonetics Intelligent VMS 3.0 (Video Management Software) delivers unified, next generation
 			user interface, military-grade security, rugged with unprecedented levels of high availability
@@ -22,7 +22,7 @@
 			upgrades, and fast customisations
 		</p>
 
-		<h2>Comsur [Video Footage Auditing Software]</h2>
+		<h3>Comsur [Video Footage Auditing Software]</h3>
 		<p>
 			Com-Sur , the world’s only CCTV video footage auditing, smart standardised intelligent
 			reporting software.
@@ -41,7 +41,7 @@
 
 		<p>Delivery of business intelligence from the above reports.</p>
 
-		<h2>BriefCam [Video Synopsis Software]</h2>
+		<h3>BriefCam [Video Synopsis Software]</h3>
 		<p>
 			This Video Analytics software enables the quicker analysis of recorded and live video. It
 			enables an user to get real-time alerts for defined events (like line-crossing, People count,
@@ -57,7 +57,7 @@
 			near real time creation of video summaries, while the Forensics version is a
 			standalone(offline) packaging of the technology. It runs on a standard Windows OS platform.
 		</p>
-		<h2>GateBOT</h2>
+		<h3>GateBOT</h3>
 		<p>
 			It is an ANPR(Automatic Number Plate recognition) software solution which is powered, real
 			time edge processing based end to end fully automated system backed by artificial intelligence
