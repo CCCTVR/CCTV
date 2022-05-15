@@ -7,9 +7,9 @@
 	<nav
 		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-[0.8rem]"
 	>
-		<div class=" w-[25%] pr-10">
+		<div class="px-[10px] w-[25%]">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo"  /></a>
+			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo"/></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 
@@ -29,8 +29,8 @@
 			</button>
 		</div>
 		<div>
-			<ul
-				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pr-15 pl-10"
+			<ul 
+				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 "
 			>
 				{#each navig as { name, link }}
 					<li class="">
