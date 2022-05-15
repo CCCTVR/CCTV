@@ -8,8 +8,8 @@
 
 <section class="bg-gray-100 min-h-screen">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h1>MEDIA</h1>
-		<h2>NFSU ACTIVELY PARTICPATING IN SOLVING THE DELHI RIOT CASES.</h2>
+		<h2>MEDIA</h2>
+		<h3>NFSU ACTIVELY PARTICPATING IN SOLVING THE DELHI RIOT CASES.</h3>
 
 		<MediaCard Image="images/media1.jpg" />
 	</article>

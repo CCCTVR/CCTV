@@ -1,8 +1,8 @@
 <section class="bg-gray-100 min-h-screen">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h1>STAKEHOLDERS</h1>
+		<h2>Stakeholders</h2>
 
-		<h2>NFSU (National Forensics Science University)</h2>
+		<h3>NFSU (National Forensics Science University)</h3>
 		<p>
 			National Forensic Sciences University, an Institution of National Importance (erstwhile
 			Gujarat Forensic Sciences University) isestablished by an act passed in year 2020 by
@@ -37,7 +37,7 @@
 			academic and research environment.
 		</p>
 
-		<h2>HAYAGRIVA SOFTWARE</h2>
+		<h3>Hayagriva Software</h3>
 		<p>
 			Hayagriva software is a product company based in Mumbai. Over the years, the company has
 			created several software products,the current product focus being COM-SUR™, the world’s only
@@ -46,7 +46,7 @@
 		</p>
 		<p>COM-SUR has gained tremendous traction and has won several awards.</p>
 
-		<h2>VIDEONETICS</h2>
+		<h3>Videonetics</h3>
 		<p>
 			Videonetics, Unified Video Computing Platform(UVCP™) helps in making sense of surveillance, by
 			providing an end-to-end solution for a wide range of applications. The platform is powered by
@@ -63,7 +63,7 @@
 			and Video Command Control Center.
 		</p>
 
-		<h2>MISTRAL</h2>
+		<h3>Mistral</h3>
 		<p>
 			Mistral is an eminent system engineering and product design company focused on the embedded
 			domain. Mistral is a technology design and system engineering company providing end-to-end
@@ -89,13 +89,13 @@
 			supplied by them are Briefcam VS Enterprises and Briefcam VS Forensics.
 		</p>
 
-		<h2>MIALO</h2>
+		<h3>Mialo</h3>
 		<p>
 			Headquartered in the Indian Silicon Valley, the city of Bengaluru, Mialo aspires to provide
 			end to end software solutions and service needs of its clients globally - a true ONE STOP SHOP
 			for all software solutions.
 		</p>
-		<ul>
+		<ul class="list-disc">
 			<li>Unique and customized service offerings</li>
 			<li>High degree of flexibility and scalability</li>
 			<li>Adapt, be flexible, re-invent</li>

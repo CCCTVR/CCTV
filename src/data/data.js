@@ -21,23 +21,8 @@ export const eye = [
 		link: '/'
 	},
 	{
-		title: 'Software Tools',
-		description: 'Various Tools are used over time for better video processing and analysis.',
-		svg: ' ',
-		link: '/'
-	},
-	{
-		title: 'Certificate Courses',
-		description: 'Certificate courses are offered to the students who have completed the projects',
-		svg: ' ',
-		link: '/'
-	},
-	{
-		title: 'Skill Development',
-		description:
-			'Students gain new skill sets through the various projects and certifcates courses',
-		svg: ' ',
-		link: '/'
+		title: 'Training Program',
+		description:'Various Tools are used over time for better video processing and analysis. Certificate courses are offered to the students who have completed the projects. Students gain new skill sets through the various projects and certifcates courses',
 	}
 ];
 
