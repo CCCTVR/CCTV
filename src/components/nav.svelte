@@ -7,9 +7,9 @@
 	<nav
 		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-[0.8rem]"
 	>
-		<div class="inline">
+		<div class=" w-[25%] pr-10">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo" class="w-[18.9rem]" /></a>
+			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo"  /></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 
@@ -30,7 +30,7 @@
 		</div>
 		<div>
 			<ul
-				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/3 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pr-20"
+				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pr-15 pl-10"
 			>
 				{#each navig as { name, link }}
 					<li class="">
