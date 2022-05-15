@@ -69,7 +69,7 @@
 		</p>
 
 		<h3 class=" ">WHITE PAPERS</h3>
-		<ul>
+		<ul class="list-disc">
 			<li>
 				<a
 				class="text-blue-800 no-underline hover:underline"

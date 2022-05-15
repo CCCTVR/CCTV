@@ -1,50 +1,50 @@
 <section class="bg-gray-100 min-h-screen">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h1>Lab Expriments</h1>
-		<ul>
+		<h2>Lab Expriments</h2>
+		<ul class="list-disc">
 			<li>
-				<a href="http://ccctvr.org/first_expt_mca.pdf">
-					<h2>First Experiment</h2>
+				<a href="http://ccctvr.org/first_expt_mca.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>First Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/second_expt_mca.pdf">
-					<h2>Second Experiment</h2>
+				<a href="http://ccctvr.org/second_expt_mca.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Second Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/third_expt_mca.pdf">
-					<h2>Third Experiment</h2>
+				<a href="http://ccctvr.org/third_expt_mca.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Third Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/fourth_expt.pdf">
-					<h2>Fourth Experiment</h2>
+				<a href="http://ccctvr.org/fourth_expt.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Fourth Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/fifth_expt.pdf">
-					<h2>Fifth Experiment</h2>
+				<a href="http://ccctvr.org/fifth_expt.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Fifth Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/sixth_expt.pdf">
-					<h2>Sixth Experiment</h2>
+				<a href="http://ccctvr.org/sixth_expt.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Sixth Experiment</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/setup_analog_cctv.pdf">
-					<h2>SETTING UP OF AN ANALOG SURVEILLANCE SYSTEM</h2>
+				<a href="http://ccctvr.org/setup_analog_cctv.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>SETTING UP OF AN ANALOG SURVEILLANCE SYSTEM</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/dvr.pdf">
-					<h2>Experiments on DVR based CCTV Camera</h2>
+				<a href="http://ccctvr.org/dvr.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Experiments on DVR based CCTV Camera</h4>
 				</a>
 			</li>
 			<li>
-				<a href="http://ccctvr.org/comsur_expt_setup.pdf">
-					<h2>Getting Started with COM-SUR</h2>
+				<a href="http://ccctvr.org/comsur_expt_setup.pdf" class="text-blue-800 no-underline hover:underline">
+					<h4>Getting Started with COM-SUR</h4>
 				</a>
 			</li>
 		</ul>

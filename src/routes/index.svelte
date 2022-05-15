@@ -70,7 +70,7 @@
 				<div class="flex overflow-x-scroll w-[65%] p-5 scroll-smooth ">
 					<div class=" flex flex-nowrap space-x-5">
 						{#each eye as eye}
-							<Card Title={eye.title} Discription={eye.description} />
+							<Card Title={eye.title} Discription={eye.description} Link={eye.link} />
 						{/each}
 					</div>
 				</div>
