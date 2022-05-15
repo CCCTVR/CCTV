@@ -8,8 +8,8 @@ import { trainingPrograms } from '/src/data/data';
     <h2 class="content-center">Training Programs</h2>
     <div class=" flex flex-nowrap space-x-5">
         
-        {#each trainingPrograms as eye}
-            <Card Title={eye.title} Discription={eye.description} Link={eye.link} />
+        {#each trainingPrograms as tp}
+            <Card Title={tp.title} Discription={tp.description} Link={tp.link} />
         {/each}
     
     </div>
