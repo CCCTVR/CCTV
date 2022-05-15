@@ -20,34 +20,32 @@ The research, business and the interregnum (the connect between the two) have ne
 </p>
 <br>
 <h2>Objectives</h2>
-<ol>
-    <li>
-        To create standardizing Protocols for CCTV Surveillance Systems at the National level (National CCTV protocol) which will be responsible for properly guiding the stakeholders / user agencies.
-    </li>
-    <li>
-        To set up a research laboratory in an academic campus (RV College of Engineering) in order to carry out research and experiments related to validation of technical specifications of cameras, recorders, evaluation of Video Management Software (VMS), video surveillance and similar software.
-    </li>
-    <li>
-        To develop customized video analytics software and project management software that will manage all the activities of the Center.
-    </li>
-    <li>
-        To develop video command centre at RV College of Engineering at facilitate the centre for video analytics and related research
-    </li>
-    <li>
-        To create guidelines for preparing standard Request for Proposal (RFP) and Standard Operating Procedures (SOPs), compliances and thus create standardized RFP and SOP.
-    </li>
-    <li>
-        To explore the use of radios (point to point) in order to tremendously reduce the cost and time compared to wired networks.
-    </li>
-    <li>
-        To provide skill development and create awareness to various stakeholders to maintain integrity in project development and deployment.
-    </li>
-    <li>
-        To organize seminars and workshops to empower the Police officers, other law enforcement agencies, defence forces and government officials in order to disseminate necessary and sufficient domain knowledge related to CCTV deployments and maintenance and best practices.
-    </li>
-    <li>
-        To provide end to end seamless service with respect to CCTV deployments.
-    </li>
-</ol>
+<p>
+    1. To create standardizing Protocols for CCTV Surveillance Systems at the National level (National CCTV protocol) which will be responsible for properly guiding the stakeholders / user agencies.
+</p>
+<p>
+    2. To set up a research laboratory in an academic campus (RV College of Engineering) in order to carry out research and experiments related to validation of technical specifications of cameras, recorders, evaluation of Video Management Software (VMS), video surveillance and similar software.
+</p>
+<p>
+    3. To develop customized video analytics software and project management software that will manage all the activities of the Center.
+</p>
+<p>
+    4. To develop video command centre at RV College of Engineering at facilitate the centre for video analytics and related research.
+</p>
+<p>
+    5. To create guidelines for preparing standard Request for Proposal (RFP) and Standard Operating Procedures (SOPs), compliances and thus create standardized RFP and SOP.
+</p>
+<p>
+    6. To explore the use of radios (point to point) in order to tremendously reduce the cost and time compared to wired networks.
+</p>
+<p>
+    7. To provide skill development and create awareness to various stakeholders to maintain integrity in project development and deployment.
+</p>
+<p>
+    8. To organize seminars and workshops to empower the Police officers, other law enforcement agencies, defence forces and government officials in order to disseminate necessary and sufficient domain knowledge related to CCTV deployments and maintenance and best practices.
+</p>
+<p>
+    9. To provide end to end seamless service with respect to CCTV deployments.
+</p>
     </article>
 </section>
