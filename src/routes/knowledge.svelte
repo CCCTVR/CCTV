@@ -1,12 +1,7 @@
 <section class="bg-gray-100 min-h-screen">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
-		<h1 class="">CCTV</h1>
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
+		<h1 class="">CCTV Articles</h1>
 		<!-- make cards instead of table -->
-		<p>
-			This page contains links to articles on CCTV and video surveillance systems extracted from the
-			web. Happy reading!
-		</p>
-
 		<h3 class="">Hyderabad model of CCTV surveillance</h3>
 
 		<p>

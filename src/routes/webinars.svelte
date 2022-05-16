@@ -1,5 +1,5 @@
 <section class="bg-gray-100 min-h-screen">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
 		<h2>Webinars</h2>
 		<!-- make cards instead of table -->
 		<p>

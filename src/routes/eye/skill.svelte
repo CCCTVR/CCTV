@@ -1,5 +1,5 @@
 <section class="bg-gray-100 min-h-screen">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
 		<h3>Skill Development Programmes</h3>
 		<p>
 			The country is witnessing huge number of video surveillance installations coming up and there

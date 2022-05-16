@@ -1,5 +1,5 @@
 <section class="bg-gray-100 min-h-screen">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
 		<h1>Consultancy</h1>
 		<p>
 			The Center is capable of offering consultancy services to academic institutions, industries,

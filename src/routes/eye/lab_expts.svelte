@@ -1,5 +1,10 @@
+<script>
+	// @ts-ignore
+import {expts} from '/src/data/data';
+import Card from '/src/components/Card.svelte';
+</script>
 <section class="bg-gray-100 min-h-screen">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
 		<h2>Lab Expriments</h2>
 		<ul class="list-disc">
 			<li>
@@ -48,5 +53,10 @@
 				</a>
 			</li>
 		</ul>
+		<!-- <div class=" flex flex-nowrap space-x-5 text-justify">
+			{#each expts as e }
+			<Card Title={e.title} Discription={e.description} Link={e.link} />
+			{/each}
+		</div> -->
 	</article>
 </section>

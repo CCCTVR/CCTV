@@ -32,9 +32,11 @@
 				<img src="/src/assets/text_img.PNG" alt="text" class="w-[70%]" />
 			</div>
 			<div class="w-[100%] flex flex-row space-x-7">
+				
 				<div class="flex-1 ">
-					<div class="flex items-center  text-4xl h-full font-mono text-blue-900">
-						<span class=""
+					<div class="flex items-center  text-[1.7rem] h-full font-mono text-blue-900">
+					
+						<span class="text-justify"
 							>An integrated research facility to bridge the gap in knowledge, practice, protocols,
 							testing, expriments, training, certification and expertise in video surveillance.
 						</span>
@@ -61,8 +63,8 @@
 					</div>
 				</div>
 				<div class="flex-1 pt-5 ">
-					<div class="flex items-center  text-5xl h-full font-mono text-blue-900">
-						<span>Multi Stakeholder Research Facility </span>
+					<div class="flex items-center  text-[2.1rem] h-full font-mono text-blue-900">
+						<span class="text-justify">Multi Stakeholder Research Facility </span>
 					</div>
 				</div>
 			</div>
@@ -70,7 +72,7 @@
 				<div class="flex">
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}
-							<div class="m-5 col-span-1">
+							<div class="m-5 col-span-1 text-justify">
 								<Card Title={eye.title} Discription={eye.description} Link={eye.link} />
 							</div>
 						{/each}
