@@ -50,7 +50,7 @@
 						<span><img src="/src/assets/cctv_img4.png" alt="" class="w-[22rem] " /></span>
 					</div> -->
 					<div class="object-right">
-						<img src="/src/assets/collage.png" alt="" class="w-[45rem]"/>
+						<img src="/src/assets/collage.png" alt="" class="w-[45rem]" />
 					</div>
 				</div>
 			</div>
@@ -67,15 +67,16 @@
 				</div>
 			</div>
 			<div class="flex justify-center mt-40 ">
-				<div class="flex overflow-x-scroll w-[65%] p-5 scroll-smooth ">
-					<div class=" flex flex-nowrap space-x-5">
+				<div class="flex">
+					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}
-							<Card Title={eye.title} Discription={eye.description} Link={eye.link} />
+							<div class="m-5 col-span-1">
+								<Card Title={eye.title} Discription={eye.description} Link={eye.link} />
+							</div>
 						{/each}
 					</div>
 				</div>
 			</div>
-			
 		</div>
 	</div>
 </section>

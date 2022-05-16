@@ -5,7 +5,7 @@
 </script>
 
 <div
-	class="w-[350px]  shadow-lg flex flex-nowrap border-solid border-blue-400 border-[1px] pt-2 hover:scale-105 transition-all duration-300 ease-linear rounded-2xl"
+	class=" h-full shadow-lg flex flex-nowrap border-solid border-blue-400 border-[1px] pt-2 hover:scale-105 transition-all duration-300 ease-linear rounded-2xl"
 >
 	<a href={Link}>
 		<div class="px-6 py-4">
