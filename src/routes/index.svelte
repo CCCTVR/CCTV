@@ -5,7 +5,7 @@
 	console.log(eye);
 </script>
 
-<section>
+<section style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<!-- <div class="skew skew-top mr-for-radius">
 		<svg
 			class="h-8 md:h-12 lg:h-20 w-full text-gray-50"
@@ -24,7 +24,7 @@
 			<polygon fill="currentColor" points="0 10 10 0 10 10" />
 		</svg>
 	</div> -->
-	<div class="py-2 lg:py-5 bg-gray-50 radius-for-skewed">
+	<div class="py-2 lg:py-5  radius-for-skewed">
 		<div class="container mx-auto px-5">
 			<div class="mb-7 mx-auto flex justify-center">
 				<!-- <h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2> bg gray
@@ -34,9 +34,9 @@
 			<div class="w-[100%] flex flex-row space-x-7">
 				
 				<div class="flex-1 ">
-					<div class="flex items-center  text-[1.7rem] h-full font-mono text-blue-900">
+					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900">
 					
-						<span class="text-justify"
+						<span class="text-justify font-serif"
 							>An integrated research facility to bridge the gap in knowledge, practice, protocols,
 							testing, expriments, training, certification and expertise in video surveillance.
 						</span>
@@ -63,8 +63,8 @@
 					</div>
 				</div>
 				<div class="flex-1 pt-5 ">
-					<div class="flex items-center  text-[2.1rem] h-full font-mono text-blue-900">
-						<span class="text-justify">Multi Stakeholder Research Facility </span>
+					<div class="flex items-center  text-[2.2rem] h-full  text-blue-900">
+						<span class="text-justify ">Multi Stakeholder Research Facility </span>
 					</div>
 				</div>
 			</div>

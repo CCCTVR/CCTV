@@ -100,7 +100,7 @@ export const teams = [
 			{
 				name: 'Dr. Shreelakshmi K',
 				designation: 'Head, Operations',
-				img: '/src/assets/cctv_team/default.png'
+				img: '/src/assets/cctv_team/shree_lakshmi.png'
 			},
 			{
 				name: 'Dr. Ravishankar S',
@@ -172,7 +172,7 @@ export const teams = [
 				designation: 'Member',
 				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg'
 			},
-			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: '/src/assets/cctv_team/default.png' }
+			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: '/src/assets/cctv_team/shivakumar.jpg' }
 		]
 	}
 ];
@@ -256,6 +256,11 @@ export const trainingPrograms = [
 		title:'Software Tools',
 		description: 'Students gain new skill sets through the various projects and certifcates courses',
 		link: '/eye/software_tools'
+	},
+	{
+		title: 'Internships',
+		description: 'dfhibdvf',
+		link: '/'
 	}
 
 ];

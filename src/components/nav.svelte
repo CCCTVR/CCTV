@@ -5,7 +5,7 @@
 
 <section>
 	<nav
-		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-blue-400 border-b-[0.8rem]"
+		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-orange-500 border-b-[0.7rem]"
 	>
 		<div class="px-[10px] w-[25%]">
 			<!-- <span>LOGO CCTV </span> -->

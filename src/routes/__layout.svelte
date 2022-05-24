@@ -3,6 +3,12 @@
 	// import Sidenav from '../components/sidenav2.svelte';
 	import Nav from '../components/nav.svelte';
 </script>
+<style>
+	section{
+		background-image: url('/src/assets/bg.png');
+		background-size: contain;
+	}
+</style>
 
 <!-- <div class="flex">
 	<div class="w-72"><Sidenav /></div>
@@ -11,6 +17,7 @@
 		<div class="max-w-6xl"> -->
 <Nav />
 <slot />
+
 <!-- </div>
 	</main>
 </div> -->
