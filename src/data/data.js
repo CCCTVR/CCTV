@@ -312,3 +312,40 @@ export const expts = [
 		link: 'http://ccctvr.org/comsur_expt_setup.pdf'
 	}
 ];
+
+export const webinars_2021 = [
+	{
+		title: 'Forensic Analysis of CCTV/Video evidence',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf'
+	},
+	{
+		title: 'The three missing pieces of CCTV',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf'
+	}
+];
+
+
+export const webinars_2022 = [
+	{
+		title: 'AI, IOT and influence in Intelligent Video processing',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf'
+	},
+	{
+		title: 'Recovery of Deleted and Overwritten CCTV videos with AI',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf'
+	},
+	{
+		title: 'Video Analytics for Visual Surveillance',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf'
+	},
+	{
+		title: 'Intelligent UAVs for Military and Civilian Missions',
+		description: '',
+		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf'
+	}
+];
