@@ -3,7 +3,7 @@
 	import { nav as navig } from '../data/data.js';
 </script>
 
-<section>
+<section class="fixed w-full bg-gray-100 z-20">
 	<nav
 		class="relative px-6 py-2 lg:py-6 flex justify-between items-center  border-b-orange-500 border-b-[0.7rem]"
 	>

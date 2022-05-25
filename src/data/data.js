@@ -259,8 +259,8 @@ export const trainingPrograms = [
 	},
 	{
 		title: 'Internships',
-		description: 'dfhibdvf',
-		link: '/'
+		description: 'Various Internships are offered to the students to help them in their career', 
+		link: '/eye/internships'
 	}
 
 ];

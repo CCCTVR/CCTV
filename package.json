@@ -32,6 +32,7 @@
   },
   "type": "module",
   "dependencies": {
+    "svelte-carousel": "^1.0.19",
     "yve-bot": "^1.20.2"
   }
 }

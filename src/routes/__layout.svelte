@@ -16,6 +16,7 @@
 	<main class="flex-col">
 		<div class="max-w-6xl"> -->
 <Nav />
+<div class="py-16"></div>
 <slot />
 
 <!-- </div>
