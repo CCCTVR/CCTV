@@ -62,9 +62,18 @@
 						<img src="/src/assets/stakeholders.png" alt="" class="w-[47rem]" />
 					</div>
 				</div>
-				<div class="flex-1 pt-5 ">
-					<div class="flex items-center  text-[2.2rem] h-full  text-blue-900">
-						<span class="text-justify ">Multi Stakeholder Research Facility </span>
+				<div class="flex-1 pt-5">
+					<div class="flex items-center  text-[2.2rem] h-full text-blue-900">
+						<div class="text-justify">Multi Stakeholder Research Facility 
+							<div class="flex flex-row pt-[2rem]">
+								<div>
+									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[2rem]">
+								</div>
+								<div>
+									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]">
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

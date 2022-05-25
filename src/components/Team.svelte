@@ -30,7 +30,7 @@
 						<img class="relative z-20 w-full rounded-full" src={img} alt=" " />
 					</div>
 					<div class="mt-3 space-y-2 text-center">
-						<div class="space-y-1 text-lg font-medium leading-6">
+						<div class="space-y-1 text-base font-medium leading-6">
 							<h3>{name}</h3>
 							<p class="text-blue-600">{designation}</p>
 						</div>
