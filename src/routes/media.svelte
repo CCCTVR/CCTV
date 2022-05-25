@@ -11,6 +11,6 @@
 		<h2>MEDIA</h2>
 		<h3>NFSU ACTIVELY PARTICPATING IN SOLVING THE DELHI RIOT CASES.</h3>
 
-		<MediaCard Image="images/media1.jpg" />
+		<MediaCard Image="src/assets/images/media1.jpg" />
 	</article>
 </section>

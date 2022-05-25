@@ -91,7 +91,7 @@ export const teams = [
 				designation: 'Founder and Mentor',
 				img: '/src/assets/cctv_team/sanjay_sahay.jpg'
 			},
-			{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'images/hod.PNG' },
+			{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'src/assets/cctv_team/hod.PNG' },
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',

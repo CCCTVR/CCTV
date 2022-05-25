@@ -3,10 +3,11 @@
 	import { GalleryImages } from '../data/data.js';
 import { each, onMount } from 'svelte/internal';
 import Carousel from 'svelte-carousel'
-onMount(async () => {
-    const module = await import('svelte-carousel');
-    Carousel = module.default;
-  });
+// onMount(async () => {
+//     const module = await import('svelte-carousel');
+//     // @ts-ignore
+//     Carousel = module.default;
+//   });
 /**
 * @type {Carousel}
 */

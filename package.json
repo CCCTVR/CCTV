@@ -33,6 +33,7 @@
   },
   "type": "module",
   "dependencies": {
+    "resize-observer": "^1.0.4",
     "svelte-resize-observer": "^2.0.0",
     "yve-bot": "^1.20.2"
   }
