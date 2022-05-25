@@ -1,63 +1,40 @@
 <script>
 	import Gallery from '../components/Gallery.svelte';
 	import { GalleryImages } from '../data/data.js';
+import { each, onMount } from 'svelte/internal';
+import Carousel from 'svelte-carousel'
+onMount(async () => {
+    const module = await import('svelte-carousel');
+    Carousel = module.default;
+  });
+/**
+* @type {Carousel}
+*/
+let carousel; // for calling methods of the carousel instance
+const handleNextClick = () => {
+  carousel.goToNext()
+}
+	
 </script>
-<section style="background-image: url('/src/assets/bg.png'); background-size: contain;">
-<section >
-	<Gallery columns="1" images={GalleryImages} />
-	<Gallery columns="3" images={GalleryImages} />
-	<Gallery columns="2" images={GalleryImages} />
-</section>
-<section class="overflow-hidden text-gray-700" >
-	<div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
-		<div class="flex flex-wrap -m-1 md:-m-2">
-			<div class="flex flex-wrap w-1/2">
-				<div class="w-1/2 p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(70).webp"
-					/>
-				</div>
-				<div class="w-1/2 p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp"
-					/>
-				</div>
-				<div class="w-full p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-					/>
-				</div>
-			</div>
-			<div class="flex flex-wrap w-1/2">
-				<div class="w-full p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp"
-					/>
-				</div>
-				<div class="w-1/2 p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp"
-					/>
-				</div>
-				<div class="w-1/2 p-1 md:p-2">
-					<img
-						alt="gallery"
-						class="block object-cover object-center w-full h-full rounded-lg"
-						src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp"
-					/>
-				</div>
-			</div>
+<section class="min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
+		<h2>Gallery</h2>
+	
+
+	<div class="pt-[2rem] flex">
+		<Carousel
+		  bind:this={carousel}
+		  autoplay
+  autoplayDuration={2000}
+  
+		>
+		  <div class="img-container"><img src="/src/assets/images/img1.jpg" alt="" class="w-[60%] px-20">
+			<p class="text-2xl text-center pt-10 ">Innaguration of the CCTV research center by the dignitaries</p>
 		</div>
+		  <div><img src="/src/assets/images/img2.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-10">Innaguration of the CCTV research center by the dignitaries</p></div>
+		  <div><img src="/src/assets/images/img3.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-10">Innaguration of the CCTV research center by the dignitaries</p></div>
+		</Carousel>
+		
 	</div>
-</section>
+</article>
 </section>
