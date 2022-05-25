@@ -3,6 +3,7 @@
 		<h2 class="">Stakeholders</h2>
 
 		<h3>NFSU (National Forensics Science University)</h3>
+		<img src="/src/assets/nfsu_stakeholder.png" alt="" class="py-5">
 		<div class="flex justify-center">
 			<p class="text-justify">
 				National Forensic Sciences University, an Institution of National Importance (erstwhile
