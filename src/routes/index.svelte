@@ -78,22 +78,26 @@
 				</div>
 			</div>
 				
-				<div class="flex flex-row space-x-60 items-center ">
-					<div class="w-[11rem] h-[11rem] px-5 py-[6rem]">
-						<img src="/src/assets/sicon1.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-					</div>
-					<div class="w-[11rem] h-[11rem] px-5 py-[6rem]">
-						<img src="/src/assets/sicon2.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-					</div>
-					<div class="w-[11rem] h-[11rem] px-5 py-[6rem]">
-						<img src="/src/assets/sicon3.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-					</div>
-					<div class="w-[11rem] h-[11rem] px-5 py-[6rem]">
-						<img src="/src/assets/sicon4.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
+				<div class="bg-orange-500">
+					<div class="flex flex-row space-x-60 items-center h-full">
+						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+							<img src="/src/assets/sicon1.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
+						</div>
+						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+							<img src="/src/assets/sicon2.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
+						</div>
+						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+							<img src="/src/assets/sicon3.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
+						</div>
+						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+							<img src="/src/assets/sicon4.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
+						</div>
 					</div>
 				</div>
 			
+
 			<div class="flex justify-center mt-14 ">
+			<div class="flex justify-center mt-5 ">
 				<div class="flex">
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}

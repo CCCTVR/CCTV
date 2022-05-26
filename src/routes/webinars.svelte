@@ -22,7 +22,7 @@ import '../data/data.js';
 			<h3 class="text-blue-800">2021</h3>
 			<div class="flex justify-center mt-40 ">
 				<div class="flex">
-					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4">
+					<div class="grid grid-cols-4 lg:grid-cols-4 gap-4">
 						{#each webinars_2021 as webinar}
 							<div class="m-5 col-span-1 text-justify">
 								<Card Title={webinar.title} Discription={webinar.description} Link={webinar.link} />
@@ -35,7 +35,7 @@ import '../data/data.js';
 			<h3 class="text-blue-800">2022</h3>
 			<div class="flex justify-center mt-40 ">
 				<div class="flex">
-					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4">
+					<div class="grid grid-cols-4 lg:grid-cols-4 gap-4">
 						{#each webinars_2022 as webinar}
 							<div class="m-5 col-span-1 text-justify">
 								<Card Title={webinar.title} Discription={webinar.description} Link={webinar.link} />
