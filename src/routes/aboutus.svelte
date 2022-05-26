@@ -1,7 +1,7 @@
 <!-- akhil has to do styling  -->
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify ">
-<h3>About Center for CCTV Research</h3>
+<h3 class="text-blue-900">About Center for CCTV Research</h3>
 <p class="py-3">
 The Center for CCTV Research, located at Bengaluru’s prestigious RV College of Engineering campus has been created with the intention of being the catalyst to bridge the wide gap between the industry and creation & execution of humongous CCTV projects in the country. The Center aims to fulfill the gap of knowledge, practice, protocols, testing, experiments, certification, training, expertise etc. While being a one stop shop for all CCTV project requirements, it would be also the synthesis and the coordination center for all major CCTV players in the country and beyond. The creation and operations of this Center would be a clear manifestation of this dream.
 </p>
@@ -9,7 +9,7 @@ The Center for CCTV Research, located at Bengaluru’s prestigious RV College of
 <p>
 The research, business and the interregnum (the connect between the two) have never happened anywhere. They have always operated in silos and this has always remained the biggest pain point of both the customer and the industry. Unfortunately, the industry never realized its need. From the customer’s perspective, even the partners of the consortium do not gel and more often, the projects remain a patchy affair yielding no tangible results. The coming together of different business entities for a project is just crude distribution of work and a confident seamless consortium is required for this purpose.
 </p>
-<h3>Vision</h3>
+<h3 class="text-blue-800">Vision</h3>
 <p>
     An Integrated research facility to bridge the gap in knowledge, practice, protocols, testing, experiments, training, certification and expertise in video surveillance with various industry partners
 </p>

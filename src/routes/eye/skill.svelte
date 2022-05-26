@@ -1,6 +1,6 @@
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
-		<h3>Skill Development Programmes</h3>
+		<h3 class="text-blue-900">Skill Development Programmes</h3>
 		<p>
 			The country is witnessing huge number of video surveillance installations coming up and there
 			is a great need for trained manpower in this field.
@@ -12,7 +12,7 @@
 			programme comprises of two modules which are briefly explained below.
 		</p>
 
-		<h3>Module 1</h3>
+		<h3 class="text-blue-800">Module 1</h3>
 		<p>
 			This module will impart training towards installation, commissioning and maintenance of video
 			surveillance systems.
@@ -26,21 +26,21 @@
 			communication skills.
 		</p>
 
-		<h3>Module 2</h3>
+		<h3 class="text-blue-800">Module 2</h3>
 		<p>
 			This modules will impart training on Software tools extensively deployed in video surveillance
 			systems and a candidate can choose to become an expert on any of these tools which are
 			explained below in brief.
 		</p>
 
-		<h3>Comsur</h3>
+		<h3 class="text-blue-800">Comsur</h3>
 		<p>
 			This is a tool to carry out auditing of video footages from live camera feeds, Video quality
 			enhancement , automatic video data backup on the cloud (in case of failure of recorders for
 			data recovery) and automatic incident report being generated in MS power point.
 		</p>
 
-		<h3>Video Mangagement Software [VMS]</h3>
+		<h3 class="text-blue-800">Video Mangagement Software [VMS]</h3>
 		<p>
 			This software is the operation centre of large video surveillance systems responsible for
 			capturing, monitoring and recording of all the live camera feeds on to a central or
@@ -49,7 +49,7 @@
 		</p>
 		<p>This software has been developed and supplied by M/S VIDEONETICS, India.</p>
 
-		<h3>GateBOT</h3>
+		<h3 class="text-blue-800">GateBOT</h3>
 		<p>
 			It is an ANPR(Automatic Number Plate recognition) software solution which is powered, real
 			time edge processing based end to end fully automated system backed by artificial intelligence

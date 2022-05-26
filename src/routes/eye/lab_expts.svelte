@@ -5,7 +5,7 @@ import Card from '/src/components/Card.svelte';
 </script>
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
-		<h2>Lab Expriments</h2>
+		<h2 class="text-blue-900">Lab Expriments</h2>
 		<ul class="list-disc">
 			<li>
 				<a href="http://ccctvr.org/first_expt_mca.pdf" class="text-blue-800 no-underline hover:underline">

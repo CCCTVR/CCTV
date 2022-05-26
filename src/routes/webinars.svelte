@@ -6,7 +6,7 @@ import '../data/data.js';
 </script>
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
-		<h2>Webinars</h2>
+		<h2 class="text-blue-900">Webinars</h2>
 		<p>
 			The Center will be organising webinars once a month and the speakers are drawn from Academic
 			Institutions, Govt. organisations and Industries. Topics for the webinars are mainly related
@@ -19,7 +19,7 @@ import '../data/data.js';
 			target="_blank">link</a>
 		</p>
 		<!-- 2021 webinars -->
-			<h3>2021</h3>
+			<h3 class="text-blue-800">2021</h3>
 			<div class="flex justify-center mt-40 ">
 				<div class="flex">
 					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4">
@@ -32,7 +32,7 @@ import '../data/data.js';
 				</div>
 			</div>
 		<!-- 2022 webinars -->
-			<h3>2022</h3>
+			<h3 class="text-blue-800">2022</h3>
 			<div class="flex justify-center mt-40 ">
 				<div class="flex">
 					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4">

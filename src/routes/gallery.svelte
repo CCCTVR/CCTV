@@ -19,7 +19,7 @@ const handleNextClick = () => {
 </script>
 <section class="min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
-		<h2>Gallery</h2>
+		<h2 class="text-blue-800">Gallery</h2>
 	
 
 	<div class="pt-[2rem] flex">

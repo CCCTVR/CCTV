@@ -56,7 +56,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="w-[100%] flex flex-row space-x-7 pb-7">
+			<div class="w-[100%] flex flex-row space-x-7 pb-2">
 				<div class="flex flex-row p-1 pt-8">
 					<div class="object-left">
 						<img src="/src/assets/stakeholders.png" alt="" class="w-[47rem]" />
@@ -93,7 +93,7 @@
 					</div>
 				</div>
 			
-			<div class="flex justify-center mt-40 ">
+			<div class="flex justify-center mt-10 ">
 				<div class="flex">
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}
