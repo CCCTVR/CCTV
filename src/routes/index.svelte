@@ -93,7 +93,7 @@
 					</div>
 				</div>
 			
-			<div class="flex justify-center mt-10 ">
+			<div class="flex justify-center mt-14 ">
 				<div class="flex">
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}
