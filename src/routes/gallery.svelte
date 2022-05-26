@@ -22,7 +22,7 @@ const handleNextClick = () => {
 		<h2 class="text-blue-800">Gallery</h2>
 	
 
-	<div class="pt-[2rem] flex">
+	<div class="pt-[1	rem] flex">
 		<Carousel
 		  bind:this={carousel}
 		  autoplay
@@ -30,10 +30,10 @@ const handleNextClick = () => {
   
 		>
 		  <div class="img-container"><img src="/src/assets/images/img1.jpg" alt="" class="w-[60%] px-20">
-			<p class="text-2xl text-center pt-10 ">Innaguration of the CCTV research center by the dignitaries</p>
+			<p class="text-2xl text-center pt-4 ">Innaguration of the CCTV research center by the dignitaries</p>
 		</div>
-		  <div><img src="/src/assets/images/img2.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-10">Innaguration of the CCTV research center by the dignitaries</p></div>
-		  <div><img src="/src/assets/images/img3.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-10">Innaguration of the CCTV research center by the dignitaries</p></div>
+		  <div><img src="/src/assets/images/img2.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-4">Innaguration of the CCTV research center by the dignitaries</p></div>
+		  <div><img src="/src/assets/images/img3.jpg" alt="" class="w-[60%] px-20"><p class="text-2xl text-center pt-4">Innaguration of the CCTV research center by the dignitaries</p></div>
 		</Carousel>
 		
 	</div>
