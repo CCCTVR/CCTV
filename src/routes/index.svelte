@@ -67,7 +67,7 @@
 						<div class="text-justify">Multi Stakeholder Research Facility 
 							<div class="flex flex-row pt-[2rem]">
 								<div>
-									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[2rem]">
+									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
 								</div>
 								<div>
 									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]">
@@ -78,7 +78,7 @@
 				</div>
 			</div>
 				
-				<div class="bg-orange-500">
+				<div class="bg-orange-500 mt-5">
 					<div class="flex flex-row space-x-60 items-center h-full">
 						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
 							<img src="/src/assets/sicon1.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
@@ -96,7 +96,6 @@
 				</div>
 			
 
-			<div class="flex justify-center mt-14 ">
 			<div class="flex justify-center mt-5 ">
 				<div class="flex">
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
