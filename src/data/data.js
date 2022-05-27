@@ -179,64 +179,52 @@ export const teams = [
 
 export const GalleryImages = [
 	{
-		image: 'images/img1.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img1.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img2.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img2.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img3.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img3.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img4.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img4.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img5.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img5.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img6.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img6.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img7.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img7.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img8.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img8.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img9.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img9.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img10.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img10.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img11.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'src/assets/images/img11.jpg',
+		text: 'description',
 	},
 	{
-		image: 'images/img12.jpg',
-		description: 'description',
-		description2: 'description2'
+		src: 'images/img12.jpg',
+		text: 'description',
 	}
 ];
 
