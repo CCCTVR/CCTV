@@ -68,9 +68,8 @@
 							<div class="flex flex-row pt-[2rem]">
 								<div>
 
-									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[2rem] ">
+									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[2rem] ">
 
-									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
 
 								</div>
 								<div>
