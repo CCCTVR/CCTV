@@ -4,6 +4,21 @@
 
 		<div class="flex flex-row">
 			<a
+				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
+				href="https://www.comsur.biz/home.html" target="_blank">
+				<img src="/src/assets/COMSUR_logo.jpeg" alt="Comsur logo" class="">
+			</a>
+			<h3 class="px-[2rem] text-blue-800">Hayagriva Software</h3>
+		</div>
+		<p class="text-justify">
+			Hayagriva software is a product company based in Mumbai. Over the years, the company has
+			created several software products,the current product focus being COM-SUR™, the world’s only
+			CCTV video footage auditing, smart backup, and standardized intelligent incident reporting
+			software.COM-SUR has gained tremendous traction and has won several awards.
+		</p>
+
+		<div class="flex flex-row">
+			<a
 				class="px-[2rem] w-[20%] shadow-lg hover:scale-105 transition-all duration-300"
 				href="https://www.nfsu.ac.in/" target="_blank">
 				<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="">
@@ -47,15 +62,6 @@
 			NFSU and RVCE can promote faculty and student exchange programs to create an outstanding
 			academic and research environment.
 		</p>
-
-		<h3 class="text-blue-800">Hayagriva Software</h3>
-		<p class="text-justify">
-			Hayagriva software is a product company based in Mumbai. Over the years, the company has
-			created several software products,the current product focus being COM-SUR™, the world’s only
-			CCTV video footage auditing, smart backup, and standardized intelligent incident reporting
-			software.
-		</p>
-		<p class="text-justify">COM-SUR has gained tremendous traction and has won several awards.</p>
 
 		<h3 class="text-blue-800">Videonetics</h3>
 		<p class="text-justify">

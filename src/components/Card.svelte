@@ -9,7 +9,7 @@
 >
 	<a href={Link}>
 		<div class="px-6 py-4">
-			<div class="font-bold text-2xl ">{Title}</div>
+			<div class="font-bold text-2xl text-blue-800">{Title}</div>
 			<p class="text-gray-700 text-lg mt-10">
 				{Discription}
 			</p>

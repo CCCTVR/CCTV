@@ -107,3 +107,25 @@ span {
 }
 
 </style>
+=======
+	
+
+	<div class="pt-[1rem] flex">
+		<Carousel
+		  bind:this={carousel}
+		  autoplay
+  autoplayDuration={2000}
+  
+		>
+		  <div class="img-container"><img src="/src/assets/images/img1.jpg" alt="" class="w-[70%] px-20">
+			<p class="text-2xl text-center pt-4 ">Innaguration of the CCTV research center by the dignitaries</p>
+		</div>
+		  <div><img src="/src/assets/images/img2.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4"></p></div>
+		  <div><img src="/src/assets/images/img3.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4"></p></div>
+		  <div><img src="/src/assets/images/img9.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4">Shri. Sanjay Sahay lighting the lamp</p></div>
+		</Carousel>
+		
+	</div>
+</article>
+</section>
+>>>>>>> c973354d6c359eb0f261701d0be5f39f5fdc762b

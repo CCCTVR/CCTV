@@ -150,7 +150,7 @@ export const teams = [
 			{
 				name: 'Dr. Nagraj Bhat, RVCE',
 				designation: 'Member',
-				img: '/src/assets/cctv_team/default.png'
+				img: '/src/assets/cctv_team/Nagaraj_Bhat.png'
 			},
 			{
 				name: 'Ms. Neethu S, RVCE',
