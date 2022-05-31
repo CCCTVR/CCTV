@@ -32,10 +32,8 @@
 				<img src="/src/assets/text_img.PNG" alt="text" class="w-[70%]" />
 			</div>
 			<div class="w-[100%] flex flex-row space-x-7">
-				
 				<div class="flex-1 ">
 					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900">
-					
 						<span class="text-justify font-serif"
 							>An integrated research facility to bridge the gap in knowledge, practice, protocols,
 							testing, expriments, training, certification and expertise in video surveillance.
@@ -64,37 +62,57 @@
 				</div>
 				<div class="flex-1 pt-5">
 					<div class="flex items-center  text-[2.2rem] h-full text-blue-900">
-						<div class="text-justify">Multi Stakeholder Research Facility 
+						<div class="text-justify">
+							Multi Stakeholder Research Facility
 							<div class="flex flex-row pt-[2rem]">
 								<div>
-									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
+									<img
+										src="/src/assets/COMSUR_logo.jpeg"
+										alt="COMSUR logo"
+										class="w-[15rem] pr-[4rem]"
+									/>
 								</div>
 								<div>
-									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]">
+									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]" />
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-				
-				<div class="bg-orange-500 mt-5">
-					<div class="flex flex-row space-x-60 items-center h-full">
-						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
-							<img src="/src/assets/sicon1.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-						</div>
-						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
-							<img src="/src/assets/sicon2.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-						</div>
-						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
-							<img src="/src/assets/sicon3.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-						</div>
-						<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
-							<img src="/src/assets/sicon4.png" alt="" class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500">
-						</div>
+
+			<div class="bg-orange-500 mt-5">
+				<div class="flex flex-row space-x-60 items-center h-full">
+					<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+						<img
+							src="/src/assets/sicon1.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+						<img
+							src="/src/assets/sicon2.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+						<img
+							src="/src/assets/sicon3.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
+						<img
+							src="/src/assets/sicon4.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
 					</div>
 				</div>
-			
+			</div>
 
 			<div class="flex justify-center mt-5 ">
 				<div class="flex">
@@ -108,6 +126,32 @@
 				</div>
 			</div>
 		</div>
-
 	</div>
+</section>
+<section>
+	<footer class="footer p-10 bg-base-200 text-base-content">
+		<div class="pt-[2rem]">
+			<!-- <img class="w-[20%]" src="src/assets/CCTV_eye.jpeg" alt="CCTVR logo"/> -->
+			<p>CENTER FOR CCTV RESEARCH<br />Research to Reality</p>
+		</div>
+		<div>
+			<span class="footer-title">Address</span>
+			<div class="">
+				<p class="">CENTER FOR CCTV RESEARCH</p>
+				<p>RV COLLEGE OF ENGINEERING CAMPUS</p>
+				<p>Mysore Road, RV Vidyaniketan, Post</p>
+				<p>Bengaluru, Karnataka 560059</p>
+			</div>
+		</div>
+		<div>
+			<span class="footer-title">Email</span>
+			<p><a class="link link-hover" href="mailto:contact@ccctvr.org">contact@ccctvr.org</a></p>
+		</div>
+		<div>
+			<span class="footer-title">Contact</span>
+			<p class="">Dr. Rashmi Halemane</p>
+			<p>Center Coordinator</p>
+			<p>Mob: <a class="link link-hover" href="tel:9448864835">9448864835</a></p>
+		</div>
+	</footer>
 </section>
