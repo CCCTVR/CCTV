@@ -59,7 +59,7 @@
 			<div class="w-[100%] flex flex-row space-x-7 pb-2">
 				<div class="flex flex-row p-1 pt-8">
 					<div class="object-left">
-						<img src="/src/assets/stakeholders.png" alt="" class="w-[47rem]" />
+						<img src="/src/assets/stakeholders.png" alt="" class="w-[47rem] " />
 					</div>
 				</div>
 				<div class="flex-1 pt-5">
@@ -67,7 +67,10 @@
 						<div class="text-justify">Multi Stakeholder Research Facility 
 							<div class="flex flex-row pt-[2rem]">
 								<div>
-									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
+
+									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[2rem] ">
+
+
 								</div>
 								<div>
 									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]">
