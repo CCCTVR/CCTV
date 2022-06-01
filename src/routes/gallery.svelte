@@ -30,7 +30,7 @@
 
 		<div class="carousel w-full">
 			<div id="slide1" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img1.jpg" class="w-full" />
+				<img src="/src/assets/images/img1.jpg" class="w-full" alt="" />
 				<div
 					class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
 				>
@@ -39,7 +39,7 @@
 				</div>
 			</div>
 			<div id="slide2" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img2.jpg" class="w-full" />
+				<img src="/src/assets/images/img2.jpg" class="w-full" alt="" />
 				<div
 					class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
 				>
@@ -48,7 +48,7 @@
 				</div>
 			</div>
 			<div id="slide3" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img3.jpg" class="w-full" />
+				<img src="/src/assets/images/img3.jpg" class="w-full" alt="" />
 				<div
 					class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
 				>
@@ -57,7 +57,7 @@
 				</div>
 			</div>
 			<div id="slide4" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img9.jpg" class="w-full" />
+				<img src="/src/assets/images/img9.jpg" class="w-full" alt="" />
 				<div
 					class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
 				>
@@ -66,7 +66,7 @@
 				</div>
 			</div>
 			<div id="slide5" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img8.jpg" class="w-full" />
+				<img src="/src/assets/images/img8.jpg" class="w-full" alt="" />
 				<div
 					class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
 				>
@@ -75,7 +75,7 @@
 				</div>
 			</div>
 			<div id="slide6" class="carousel-item relative w-full">
-				<img src="/src/assets/images/img11.jpg" class="w-full" />
+				<img src="/src/assets/images/img11.jpg" class="w-full" alt="" />
 				<div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
 				  <a href="#slide5" class="btn btn-circle">❮</a> 
 				  <a href="#slide1" class="btn btn-circle">❯</a>
