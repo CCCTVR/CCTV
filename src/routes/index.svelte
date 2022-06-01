@@ -159,5 +159,11 @@
 			<p>Center Coordinator</p>
 			<p>Mob: <a class="link link-hover" href="tel:9448864835">9448864835</a></p>
 		</div>
+		<div>
+			<span class="footer-title">Know More</span>
+			<a class="link link-hover" href="/aboutus">About us</a>
+			<a class="link link-hover" href="/dreamteam">Team</a>
+			<!-- <a class="link link-hover" href="/eye/consultancy"></a> -->
+		</div>
 	</footer>
 </section>
