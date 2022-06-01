@@ -34,8 +34,10 @@
 			<div class="w-[100%] flex flex-row space-x-7">
 				<div class="flex-1 ">
 					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900">
-						<span class="text-justify font-serif"
-							>An integrated research facility to bridge the gap in knowledge, practice, protocols,
+						<span class="text-justify font-serif">
+							<h1 class="flex justify-center text-2xl font-bold">Vision</h1>
+							<br />
+							An integrated research facility to bridge the gap in knowledge, practice, protocols,
 							testing, expriments, training, certification and expertise in video surveillance.
 						</span>
 					</div>
@@ -67,7 +69,7 @@
 							<div class="flex flex-row pt-[2rem]">
 								<div>
 
-									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[2rem] ">
+									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[5rem] ">
 
 
 								</div>
@@ -155,14 +157,13 @@
 		</div>
 		<div>
 			<span class="footer-title">Contact</span>
-			<p class="">Dr. Rashmi Halemane</p>
+			<p class="">Dr. Azra Nasreen</p>
 			<p>Center Coordinator</p>
-			<p>Mob: <a class="link link-hover" href="tel:9448864835">9448864835</a></p>
 		</div>
 		<div>
 			<span class="footer-title">Know More</span>
 			<a class="link link-hover" href="/aboutus">About us</a>
-			<a class="link link-hover" href="/dreamteam">Team</a>
+			<!-- <a class="link link-hover" href="/dreamteam">Team</a> -->
 			<!-- <a class="link link-hover" href="/eye/consultancy"></a> -->
 		</div>
 	</footer>
