@@ -63,7 +63,7 @@
 			academic and research environment.
 		</p>
 
-		<h3 class="text-blue-800">Videonetics</h3>
+		<h3 class="text-blue-800">Videonetics Technology Private Limited</h3>
 		<p class="text-justify">
 			Videonetics, Unified Video Computing Platform(UVCP™) helps in making sense of surveillance, by
 			providing an end-to-end solution for a wide range of applications. The platform is powered by
@@ -80,7 +80,7 @@
 			and Video Command Control Center.
 		</p>
 
-		<h3 class="text-blue-800">Mistral</h3>
+		<h3 class="text-blue-800">Mistral Solutions</h3>
 		<p class="text-justify">
 			Mistral is an eminent system engineering and product design company focused on the embedded
 			domain. Mistral is a technology design and system engineering company providing end-to-end
@@ -106,7 +106,7 @@
 			supplied by them are Briefcam VS Enterprises and Briefcam VS Forensics.
 		</p>
 
-		<h3 class="text-blue-800">Mialo</h3>
+		<h3 class="text-blue-800">Mialo Technologies Pvt. Ltd</h3>
 		<p class="text-justify">
 			Headquartered in the Indian Silicon Valley, the city of Bengaluru, Mialo aspires to provide
 			end to end software solutions and service needs of its clients globally - a true ONE STOP SHOP

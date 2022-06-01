@@ -22,4 +22,4 @@
 	</article>
 
 </section>
-<iframe src="/src/assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe>
+<!-- <iframe src="/src/assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe> -->
