@@ -67,7 +67,7 @@
 						<div class="text-justify">Multi Stakeholder Research Facility 
 							<div class="flex flex-row pt-[2rem]">
 								<div>
-									<img src="/src/assets/COMSUR_logo.png" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
+									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
 								</div>
 								<div>
 									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]">
