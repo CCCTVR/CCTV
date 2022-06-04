@@ -1,6 +1,5 @@
 <script>
 // @ts-nocheck
-
 import { trainingPrograms } from '/src/data/data';
 	import Card from '/src/components/Card.svelte';
 </script>

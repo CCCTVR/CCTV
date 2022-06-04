@@ -17,7 +17,7 @@
 			<img class="h-12" src="atis-assets/logo/atis/atis-mono-black.svg" alt="" width="auto" />
 		</a> -->
 		<div class="lg:hidden" on:click={() => (sidemenu = !sidemenu)}>
-			<button class="navbar-burger flex items-center text-gray-400 p-3">
+			<button class="navbar-burger flex items-center text-gray-800 p-3">
 				<svg
 					class="block h-4 w-4 fill-current"
 					viewBox="0 0 20 20"
@@ -34,7 +34,7 @@
 			>
 				{#each navig as { name, link }}
 					<li class="">
-						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] whitespace-nowrap" href={link}
+						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] whitespace-nowrap text-gray-900" href={link} 
 							>{name}</a
 						>
 					</li>
@@ -101,7 +101,7 @@
 					{#each navig as { name, link }}
 						<li class="mb-2">
 							<a
-								class="block p-4 text-xl font-semibold text-gray-400 hover:bg-orange-50 hover:text-orange-600 rounded"
+								class="block p-4 text-xl font-semibold text-gray-800 hover:bg-orange-50 hover:text-orange-600 rounded"
 								href={link}>{name}</a
 							>
 						</li>

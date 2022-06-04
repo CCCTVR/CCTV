@@ -1,5 +1,5 @@
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h2 class="text-blue-900">Research</h2>
 
 		<p>

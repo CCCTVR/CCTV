@@ -1,6 +1,6 @@
 export const eye = [
 	{
-		title: 'Consultation',
+		title: 'R&D and Consultancy',
 		description:
 			'The Center is capable of offering consultancy services to academic institutions, industries, corporates, police, and other State and Govt organizations in providing the clients a turnkey solution for deploying video surveillance systems.',
 		svg: ' ',
@@ -105,7 +105,7 @@ export const teams = [
 			{
 				name: 'Dr. Ravishankar S',
 				designation: 'Head, Communication and Networking',
-				img: '/src/assets/cctv_team/default.png'
+				img: '/src/assets/cctv_team/ravishankar.png'
 			},
 			{
 				name: 'Dr. Azra Nasreen',
@@ -242,7 +242,7 @@ export const GalleryImages = [
 
 export const trainingPrograms = [
 	{
-		title: 'Certificate',
+		title: 'Certification Courses',
 		description:
 			' Certificate courses are offered to the students who have completed the projects.',
 		link: '/eye/certificate'
