@@ -2,6 +2,7 @@
 import { webinars_2021, webinars_2022 } from '../data/data';
 import Card from '../components/Card.svelte';
 import '../data/data.js';
+import CarouselCard from '../components/CarouselCard.svelte';
 
 </script>
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
@@ -43,6 +44,10 @@ import '../data/data.js';
 						{/each}
 					</div>
 				</div>
+			</div>
+			<div>
+				<p>test</p>
+				<CarouselCard />
 			</div>
 	</article>
 </section>
