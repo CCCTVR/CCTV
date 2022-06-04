@@ -316,13 +316,16 @@ export const expts = [
 export const webinars_2021 = [
 	{
 		title: 'Forensic Analysis of CCTV/Video evidence',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf'
+		description: ["Talk 1: Objectives of Center for CCTV Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for CCTV Research","Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat","Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research"],
+		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
+		speaker_img: ["/src/assets/webinar_speakers2021/web1_sp1.jpg", "/src/assets/webinar_speakers2021/web1_sp2.jpg","/src/assets/webinar_speakers2021/web1_sp3.jpg"],
+
 	},
 	{
 		title: 'The three missing pieces of CCTV',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf'
+		description: ["Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai","Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru"],
+		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
+		speaker_img:["/src/assets/webinar_speakers2021/web2_sp1.jpg", "/src/assets/webinar_speakers2021/web2_sp2.jpg"]
 	}
 ];
 
@@ -330,22 +333,26 @@ export const webinars_2021 = [
 export const webinars_2022 = [
 	{
 		title: 'AI, IOT and influence in Intelligent Video processing',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf'
+		description: ["Speaker Dr. Tinku Acharya Founder& Managing Director Videonetics","Moderator Neethu S Assistant Professor, Department of TE RVCE, Bengaluru"],
+		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
+		speaker_img: ["/src/assets/webinar_speakers2022/web1_sp1.jpg", "/src/assets/webinar_speakers2022/web1_sp2.jpg"]
 	},
 	{
 		title: 'Recovery of Deleted and Overwritten CCTV videos with AI',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf'
+		description: ["Speaker Shri. Samir Datt Founder & CEO ForensicsGuru","Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru"],
+		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
+		speaker_img:["/src/assets/webinar_speakers2022/web2_sp1.jpg", "/src/assets/webinar_speakers2022/web2_sp2.jpg"]
 	},
 	{
 		title: 'Video Analytics for Visual Surveillance',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf'
+		description: ["Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University","Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University"],
+		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
+		speaker_img: ["/src/assets/webinar_speakers2022/web3_sp1.jpg", "/src/assets/webinar_speakers2022/web3_sp2.jpg"]
 	},
 	{
 		title: 'Intelligent UAVs for Military and Civilian Missions',
-		description: '',
-		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf'
+		description: ["Speaker Dr. Neeta Trivedi Founder & CEO Inferigence Quotient, Bengaluru","Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru"],
+		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
+		speaker_img: ["/src/assets/webinar_speakers2022/web4_sp1.jpg", "/src/assets/webinar_speakers2022/web4_sp2.jpg"]
 	}
 ];
