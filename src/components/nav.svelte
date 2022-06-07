@@ -34,7 +34,7 @@
 			>
 				{#each navig as { name, link }}
 					<li class="">
-						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] whitespace-nowrap text-gray-900" href={link} 
+						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] hover:underline hover:underline-offset-[2rem] hover:decoration-4 whitespace-nowrap text-gray-900 hover:ease-in-out" href={link} 
 							>{name}</a
 						>
 					</li>
