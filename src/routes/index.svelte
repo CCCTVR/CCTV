@@ -2,8 +2,10 @@
 	import { eye } from '../data/data';
 	import Card from '../components/Card.svelte';
 	import '../data/data.js';
+	import Typewriter from 'svelte-typewriter'
 	console.log(eye);
 </script>
+
 
 <section style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<!-- <div class="skew skew-top mr-for-radius">
@@ -34,8 +36,8 @@
 			<div class="w-[100%] flex flex-row space-x-7">
 				<div class="flex-1 ">
 					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900">
-						<span class="text-justify font-serif">
-							<h1 class="flex justify-center text-2xl font-bold">Vision</h1>
+						<span class="text-justify font-bold  	">
+							<h1 class="flex justify-center text-2xl text-orange-500 ">Vision</h1>
 							<br />
 							An integrated research facility to bridge the gap in knowledge, practice, protocols,
 							testing, expriments, training, certification and expertise in video surveillance.
@@ -64,8 +66,19 @@
 				</div>
 				<div class="flex-1 pt-5">
 					<div class="flex items-center  text-[2.2rem] h-full text-blue-900">
-						<div class="text-justify">
-							Multi Stakeholder Research Facility
+						<div class=" font-bold  text-center">
+							Multi Stakeholder Research Facility with
+							<div class="">
+								<Typewriter loop interval={40} unwriteInterval={40}>
+									<span class="">COMSUR</span>
+									<span class="">NFSU</span>
+									<span class="">Hayagriva</span>
+									<span>Videonetics Technology</span>
+									<span>Mistral Solutions</span>
+									<span class="">GateBot</span>
+									<span>Mialo Technologies</span>
+								</Typewriter>
+							</div>
 							<div class="flex flex-row pt-[2rem]">
 								<div>
 									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
@@ -167,3 +180,8 @@
 		</div>
 	</footer>
 </section>
+
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+	</style>

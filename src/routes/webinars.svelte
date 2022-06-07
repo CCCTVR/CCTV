@@ -8,7 +8,7 @@ import CarouselCard from '../components/CarouselCard.svelte';
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
 		<h2 class="text-blue-900">Webinars</h2>
-		<p>
+		<p class="text-black">
 			The Center will be organising webinars once a month and the speakers are drawn from Academic
 			Institutions, Govt. organisations and Industries. Topics for the webinars are mainly related
 			to Video surveillance ,forensics and analytics domain. The first webinar was held on 22nd

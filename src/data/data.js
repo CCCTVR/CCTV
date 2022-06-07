@@ -7,7 +7,7 @@ export const eye = [
 		link: '/eye/consultancy'
 	},
 	{
-		title: 'Lab Expriments',
+		title: 'Lab Experiments',
 		description:
 			'Interactive experiments which will help the students to learn about the technologies used in CCTV research and development.',
 		svg: ' ',

@@ -32,13 +32,13 @@
 				Parliament of India, to facilitate and promote studies in conjunction with applied behavioural
 				science studies, law, criminology and other allied areas and technology and other related
 				fields, and to provide for matters connected therewith or incidental thereto. The University
-				is established with an objective of fulfilling the acute shortage against increasing demand of
-				forensic experts in the country and around the world. The University is one among very few
-				Universities in Gujarat as well as in India to get NAAC accreditation with “A” grade from
-				Ministry of Human Resource Management, Government of India. Considering the role, contribution
+				is established with an objective of <strong>fulfilling the acute shortage against increasing demand of
+				forensic experts in the country and around the world.</strong> The University is one among very few
+				Universities in Gujarat as well as in India to get <strong>AAC accreditation with “A” grade from
+				Ministry of Human Resource Management, Government of India.</strong> Considering the role, contribution
 				and strategic importance of University in the field of forensic science, cyber security,
 				homeland security and national security; Government of Gujarat has notified the University as
-				“Institute of Strategic or Security related Interest” and a “Centre of Excellence”. The status
+				<strong>“Institute of Strategic or Security related Interest” and a “Centre of Excellence”.</strong> The status
 				of “Centre of Excellence for Research and Analysis of Narcotics Drugs and Psychotropic
 				substances” is conferred by the Ministry of Home Affairs, Government of India to the
 				University.
