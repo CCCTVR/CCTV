@@ -953,5 +953,5 @@ module.exports = {
 		'active',
 		'disabled'
 	],
-	plugins: [require('@tailwindcss/typography'),require("daisyui")]
+	plugins: [require('@tailwindcss/typography'),require("daisyui"),require('tailwind-scrollbar-hide')]
 };
