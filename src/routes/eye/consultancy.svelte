@@ -8,9 +8,11 @@
 		</p>
 		<p>
 			The Center has several stakeholders on board with various domain expertise knowledge to
-			provide services covering all types of cameras, recorders, storage ,networking, VMS , video
-			analytics, video footage auditing ,video forensics, video synopsis, facial recognition, ANPR
-			solutions and also to set up a full fledged integrated command and control center for it’s
+			provide services covering all types of <strong>
+				cameras, recorders, storage ,networking, VMS , video
+				analytics, video footage auditing ,video forensics, video synopsis, facial recognition, ANPR
+				solutions
+			</strong> and also to set up a full fledged integrated command and control center for it’s
 			clients.
 		</p>
 	</article>

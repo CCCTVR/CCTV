@@ -16,7 +16,7 @@
 			assess the progress of the project work.
 		</p>
 		<p>
-			Projects are related to developing AI and ML based algorithms to analyse and extract content
+			Projects are related to developing A<strong>I and ML based algorithms to analyse and extract content</strong>
 			in an intelligent manner from live video surveillance camera feeds.
 		</p>
 	</article>

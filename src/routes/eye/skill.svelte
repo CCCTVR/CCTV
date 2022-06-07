@@ -18,8 +18,10 @@
 			surveillance systems.
 		</p>
 		<p>
-			Topics will be related to cameras (analog & IP),recorders like DVR and NVR, PoE switches, l2
-			manageable switches, wired and wireless connectivity ,OFC cables and termination etc. The
+			Topics will be related to <strong>
+				cameras (analog & IP),recorders like DVR and NVR, PoE switches, l2
+				manageable switches, wired and wireless connectivity ,OFC cables and termination etc
+			</strong>. The
 			module will have 30% theory and 70% practicals/labs suitable for ITI and Diploma holders. On
 			successful completion of this programme, they will become full fledged CCTV technicians and
 			will be employed by CCTV system integrators. A few sessions will be allocated for
@@ -35,8 +37,10 @@
 
 		<h3 class="text-blue-800">Comsur</h3>
 		<p>
-			This is a tool to carry out auditing of video footages from live camera feeds, Video quality
-			enhancement , automatic video data backup on the cloud (in case of failure of recorders for
+			This is a tool to carry out <strong>
+				auditing of video footages from live camera feeds, Video quality
+				enhancement , automatic video data backup on the cloud
+			</strong> (in case of failure of recorders for
 			data recovery) and automatic incident report being generated in MS power point.
 		</p>
 
@@ -44,15 +48,19 @@
 		<p>
 			This software is the operation centre of large video surveillance systems responsible for
 			capturing, monitoring and recording of all the live camera feeds on to a central or
-			distributed network storage devices. It has many other rich features including book marking,
-			event detections, generating alarms and messages etc.
+			distributed network storage devices. It has <strong>
+				many other rich features including book marking,
+				event detections, generating alarms and messages etc
+			</strong>.
 		</p>
 		<p>This software has been developed and supplied by M/S VIDEONETICS, India.</p>
 
 		<h3 class="text-blue-800">GateBOT</h3>
 		<p>
-			It is an ANPR(Automatic Number Plate recognition) software solution which is powered, real
-			time edge processing based end to end fully automated system backed by artificial intelligence
+			It is an <strong>
+				ANPR(Automatic Number Plate recognition) software solution which is powered, real
+				time edge processing based end to end fully automated system
+			</strong> backed by artificial intelligence
 			to efficiently identify, monitor and authorise vehicles entering or exiting gated premises.
 		</p>
 		<p>

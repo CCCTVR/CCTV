@@ -14,8 +14,10 @@
 			data
 		</p>
 		<p>
-			Privacy, security, and data integrity. Powered by an in-built video analytics framework
-			‘DeeperLook™’, Intelligent VMS 3.0 integrates various video analytics applications within a
+			Privacy, security, and data integrity. Powered by an <strong>
+				in-built video analytics framework
+				‘DeeperLook™’
+			</strong>, Intelligent VMS 3.0 integrates various video analytics applications within a
 			single unified video computing platform, hence both VMS and video analytics applications use
 			common resources and objects - database, storage devices, data formats, thus reducing the
 			overall IT infrastructure cost, besides ensuring data integrity, data interoperability, easy
@@ -43,8 +45,10 @@
 
 		<h3 class="text-blue-800">BriefCam [Video Synopsis Software]</h3>
 		<p>
-			This Video Analytics software enables the quicker analysis of recorded and live video. It
-			enables an user to get real-time alerts for defined events (like line-crossing, People count,
+			This Video Analytics software <strong>
+				enables the quicker analysis of recorded and live video. It
+				enables an user to get real-time alerts for defined events
+			</strong> (like line-crossing, People count,
 			Facial Match, etc) and, also lets an investigator review or search a recorded video based on
 			attributes like gender, colour, clothing, direction, vehicle-types, size, speed etc. The
 			information finally is then presented as a time compressed video with links for each event to
@@ -59,7 +63,7 @@
 		</p>
 		<h3 class="text-blue-800">GateBOT</h3>
 		<p>
-			It is an ANPR(Automatic Number Plate recognition) software solution which is powered, real
+			It is an <strong>ANPR(Automatic Number Plate recognition) software solution</strong> which is powered, real
 			time edge processing based end to end fully automated system backed by artificial intelligence
 			to efficiently identify, monitor and authorise vehicles entering or exiting gated premises.
 		</p>
