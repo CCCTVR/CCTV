@@ -1,8 +1,9 @@
 <script>
-	import { eye } from '../data/data';
+	import { eye, webinars_2021, webinars_2022 } from '../data/data';
 	import Card from '../components/Card.svelte';
 	import '../data/data.js';
 	import Typewriter from 'svelte-typewriter'
+	import Marquee from "svelte-fast-marquee";
 	console.log(eye);
 </script>
 
@@ -26,6 +27,20 @@
 			<polygon fill="currentColor" points="0 10 10 0 10 10" />
 		</svg>
 	</div> -->
+	<div class="text-2xl text-black ">
+		<!-- <h3 class="text-blue-600 font-bold text-2xl py-1">Recent webinars</h3> -->
+		<Marquee pauseOnHover={true}>
+			<p class=" px-5 text-blue-500 font-bold">Recent Webinars:</p> 
+			
+			{#each webinars_2022 as wb}
+				<a href="{wb.link}" target="_blank" class="hover:text-orange-500 hover:underline ">
+					<p class="px-5 ">{wb.title}</p>
+				</a>
+				{/each}
+				<p class="px-5"></p>
+		</Marquee>
+	</div>
+	
 	<div class="py-2 lg:py-5  radius-for-skewed">
 		<div class="container mx-auto px-5">
 			<div class="mb-7 mx-auto flex justify-center">

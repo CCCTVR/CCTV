@@ -91,7 +91,11 @@ export const teams = [
 				designation: 'Founder and Mentor',
 				img: '/src/assets/cctv_team/sanjay_sahay.jpg'
 			},
-			{ name: 'Dr. Ramakanth K P', designation: 'Center Head, CCCTVR', img: 'src/assets/cctv_team/hod.PNG' },
+			{
+				name: 'Dr. Ramakanth K P',
+				designation: 'Center Head, CCCTVR',
+				img: 'src/assets/cctv_team/hod.PNG'
+			},
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
@@ -172,7 +176,11 @@ export const teams = [
 				designation: 'Member',
 				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg'
 			},
-			{ name: 'Mr. Shiva Kumar', designation: 'Member', img: '/src/assets/cctv_team/shivakumar.jpg' }
+			{
+				name: 'Mr. Shiva Kumar',
+				designation: 'Member',
+				img: '/src/assets/cctv_team/shivakumar.jpg'
+			}
 		]
 	}
 ];
@@ -249,20 +257,21 @@ export const trainingPrograms = [
 	},
 	{
 		title: 'Skill Development',
-		description: ' Students gain new skill sets through the various projects and certifcates courses',
+		description:
+			' Students gain new skill sets through the various projects and certifcates courses',
 		link: '/eye/skill'
 	},
 	{
-		title:'Software Tools',
-		description: 'Students gain new skill sets through the various projects and certifcates courses',
+		title: 'Software Tools',
+		description:
+			'Students gain new skill sets through the various projects and certifcates courses',
 		link: '/eye/software_tools'
 	},
 	{
 		title: 'Internships',
-		description: 'Various Internships are offered to the students to help them in their career', 
+		description: 'Various Internships are offered to the students to help them in their career',
 		link: '/eye/internships'
 	}
-
 ];
 
 export const expts = [
@@ -278,7 +287,8 @@ export const expts = [
 	},
 	{
 		title: 'Expriment 3',
-		description: 'To find camera’s sensitivity to different light intensity levels measure the depth of focus of a camera.',
+		description:
+			'To find camera’s sensitivity to different light intensity levels measure the depth of focus of a camera.',
 		link: 'http://ccctvr.org/third_expt_mca.pdf'
 	},
 	{
@@ -298,7 +308,8 @@ export const expts = [
 	},
 	{
 		title: 'SETTING UP OF AN ANALOG SURVEILLANCE SYSTEM',
-		description: ': To get familiar with connection of analog cameras to Digital Video Recorder (DVR)',
+		description:
+			': To get familiar with connection of analog cameras to Digital Video Recorder (DVR)',
 		link: 'http://ccctvr.org/setup_analog_cctv.pdf'
 	},
 	{
@@ -308,7 +319,8 @@ export const expts = [
 	},
 	{
 		title: 'Getting Started with COM-SUR',
-		description: 'To verify the live capturing quality of Com-Sur with different streams and resolutions.',
+		description:
+			'To verify the live capturing quality of Com-Sur with different streams and resolutions.',
 		link: 'http://ccctvr.org/comsur_expt_setup.pdf'
 	}
 ];
@@ -316,43 +328,81 @@ export const expts = [
 export const webinars_2021 = [
 	{
 		title: 'Forensic Analysis of CCTV/Video evidence',
-		description: ["Talk 1: Objectives of Center for CCTV Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for CCTV Research","Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat","Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research"],
+		description: [
+			'Talk 1: Objectives of Center for CCTV Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for CCTV Research',
+			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
+			'Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research'
+		],
 		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
-		speaker_img: ["/src/assets/webinar_speakers2021/web1_sp1.jpg", "/src/assets/webinar_speakers2021/web1_sp2.jpg","/src/assets/webinar_speakers2021/web1_sp3.jpg"],
-
+		speaker_img: [
+			'/src/assets/webinar_speakers2021/web1_sp1.jpg',
+			'/src/assets/webinar_speakers2021/web1_sp2.jpg',
+			'/src/assets/webinar_speakers2021/web1_sp3.jpg'
+		]
 	},
 	{
 		title: 'The three missing pieces of CCTV',
-		description: ["Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai","Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru"],
+		description: [
+			'Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai',
+			'Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru'
+		],
 		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
-		speaker_img:["/src/assets/webinar_speakers2021/web2_sp1.jpg", "/src/assets/webinar_speakers2021/web2_sp2.jpg"]
+		speaker_img: [
+			'/src/assets/webinar_speakers2021/web2_sp1.jpg',
+			'/src/assets/webinar_speakers2021/web2_sp2.jpg'
+		]
 	}
 ];
-
 
 export const webinars_2022 = [
 	{
 		title: 'AI, IOT and influence in Intelligent Video processing',
-		description: ["Speaker Dr. Tinku Acharya Founder& Managing Director Videonetics","Moderator Neethu S Assistant Professor, Department of TE RVCE, Bengaluru"],
+		description: [
+			'Speaker Dr. Tinku Acharya Founder& Managing Director Videonetics',
+			'Moderator Neethu S Assistant Professor, Department of TE RVCE, Bengaluru'
+		],
 		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
-		speaker_img: ["/src/assets/webinar_speakers2022/web1_sp1.jpg", "/src/assets/webinar_speakers2022/web1_sp2.jpg"]
+		speaker_img: [
+			'/src/assets/webinar_speakers2022/web1_sp1.jpg',
+			'/src/assets/webinar_speakers2022/web1_sp2.jpg'
+		]
 	},
 	{
 		title: 'Recovery of Deleted and Overwritten CCTV videos with AI',
-		description: ["Speaker Shri. Samir Datt Founder & CEO ForensicsGuru","Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru"],
+		description: [
+			'Speaker Shri. Samir Datt Founder & CEO ForensicsGuru',
+			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
+		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
-		speaker_img:["/src/assets/webinar_speakers2022/web2_sp1.jpg", "/src/assets/webinar_speakers2022/web2_sp2.jpg"]
+		speaker_img: [
+			'/src/assets/webinar_speakers2022/web2_sp1.jpg',
+			'/src/assets/webinar_speakers2022/web2_sp2.jpg'
+		]
 	},
 	{
 		title: 'Video Analytics for Visual Surveillance',
-		description: ["Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University","Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University"],
+		description: [
+			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University',
+			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University'
+		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
-		speaker_img: ["/src/assets/webinar_speakers2022/web3_sp1.jpg", "/src/assets/webinar_speakers2022/web3_sp2.jpg"]
+		speaker_img: [
+			'/src/assets/webinar_speakers2022/web3_sp1.jpg',
+			'/src/assets/webinar_speakers2022/web3_sp2.jpg'
+		]
 	},
 	{
 		title: 'Intelligent UAVs for Military and Civilian Missions',
-		description: ["Speaker Dr. Neeta Trivedi Founder & CEO Inferigence Quotient, Bengaluru","Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru"],
+		description: [
+			'Speaker Dr. Neeta Trivedi Founder & CEO Inferigence Quotient, Bengaluru',
+			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
+		],
 		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
-		speaker_img: ["/src/assets/webinar_speakers2022/web4_sp1.jpg", "/src/assets/webinar_speakers2022/web4_sp2.jpg"]
+		speaker_img: [
+			'/src/assets/webinar_speakers2022/web4_sp1.jpg',
+			'/src/assets/webinar_speakers2022/web4_sp2.jpg'
+		]
 	}
 ];
+
+
