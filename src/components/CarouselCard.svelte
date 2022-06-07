@@ -1,69 +1,46 @@
-<!-- <div class="card card-side bg-base-100 shadow-xl max-w-lg">
-    <div class="flex w-full h-full">
-        <div class="grid w-1/2 flex-grow card bg-base-300 rounded-box place-items-center">
-            <div class="carousel w-full">
-                <div id="item1" class="carousel-item w-full">
-                  <img src="https://api.lorem.space/image/car?w=800&h=200&hash=8B7BCDC2" class="w-full" />
-                </div> 
-                <div id="item2" class="carousel-item w-full">
-                  <img src="https://api.lorem.space/image/car?w=800&h=200&hash=500B67FB" class="w-full" />
-                </div> 
-                <div id="item3" class="carousel-item w-full">
-                  <img src="https://api.lorem.space/image/car?w=800&h=200&hash=A89D0DE6" class="w-full" />
-                </div> 
-                <div id="item4" class="carousel-item w-full">
-                  <img src="https://api.lorem.space/image/car?w=800&h=200&hash=225E6693" class="w-full" />
-                </div>
-            </div> 
-        </div>
-        <div class="divider divider-horizontal">
-            <div class="flex flex-col w-full py-2 gap-2">
-                <a href="#item1" class="btn btn-xs">1</a> 
-                <a href="#item2" class="btn btn-xs">2</a> 
-                <a href="#item3" class="btn btn-xs">3</a> 
-                <a href="#item4" class="btn btn-xs">4</a>
-              </div>
-        </div>
-        <div class="grid flex-grow card bg-base-300 rounded-box place-items-center">
-            <div class="card-body">
-                <p class="card-title">New movie is released!</p>
-                <p>Click the button to watch on Jetflix app.</p>
-                <div class="card-actions justify-end">
-                  <button class="btn btn-primary">Watch</button>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
+<script>
+import { each } from "svelte/internal";
 
-<div class="card w-96 bg-base-100 shadow-xl">
-    <figure>
-        <div class="carousel w-full">
-            <div id="item1" class="carousel-item w-full">
-              <img src="https://api.lorem.space/image/car?w=800&h=200&hash=8B7BCDC2" class="w-full" />
-            </div> 
-            <div id="item2" class="carousel-item w-full">
-              <img src="https://api.lorem.space/image/car?w=800&h=200&hash=500B67FB" class="w-full" />
-            </div> 
-            <div id="item3" class="carousel-item w-full">
-              <img src="https://api.lorem.space/image/car?w=800&h=200&hash=A89D0DE6" class="w-full" />
-            </div> 
-            <div id="item4" class="carousel-item w-full">
-              <img src="https://api.lorem.space/image/car?w=800&h=200&hash=225E6693" class="w-full" />
-            </div>
-        </div> 
-    </figure>
-    <div class="flex justify-center w-full py-2 gap-2">
-        <a href="#item1" class="btn btn-xs">1</a> 
-        <a href="#item2" class="btn btn-xs">2</a> 
-        <a href="#item3" class="btn btn-xs">3</a> 
-        <a href="#item4" class="btn btn-xs">4</a>
-    </div>
-    <div class="card-body">
-      <p class="card-title">Shoes!</p>
-      <p>If a dog chews shoes whose shoes does he choose?</p>
-      <div class="card-actions justify-end">
-        <button class="btn btn-primary">Buy Now</button>
+export let webinar = {
+		title: 'Forensic Analysis of CCTV/Video evidence',
+		description: [
+			'Talk 1: Objectives of Center for CCTV Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for CCTV Research',
+			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
+			'Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research'
+		],
+		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
+		speaker_img: [
+			{img: '/src/assets/webinar_speakers2021/web1_sp1.jpg',id:1},
+			{img: '/src/assets/webinar_speakers2021/web1_sp2.jpg',id:2},
+			{img: '/src/assets/webinar_speakers2021/web1_sp3.jpg',id:3}
+		],
+		id:20211
+	};
+</script>
+
+    <a href={webinar.link} target="_blank">
+      <div class="card w-96 h-[30rem] shadow-xl border-solid border-blue-400 border-[2px] pt-2 hover:scale-105 transition-all duration-300 ease-linear rounded-2xl">
+        <figure class="">
+          <div class="carousel w-full">
+            {#each webinar.speaker_img as spimg}
+              <div id="item{webinar.id}{spimg.id}" class="carousel-item w-full">
+                <img src={spimg.img} class="w-full" alt="speaker"/>
+              </div>
+            {/each}
+          </div>
+        </figure>
+        <div class="flex justify-center w-full py-3 gap-2">
+          {#each webinar.speaker_img as spimg}
+          <a href="#item{webinar.id}{spimg.id}" class="btn btn-xs bg-white">{spimg.id}</a>
+          {/each}
       </div>
-    </div>
-  </div>
+        <div class="card-body overflow-scroll scrollbar-hide">
+          <h2 class="card-title">{webinar.title}</h2>
+          {#each webinar.description as d}
+          <p>{d}</p>
+          {/each}
+        </div>
+      </div>
+    </a>
+
+  

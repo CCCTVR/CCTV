@@ -335,10 +335,11 @@ export const webinars_2021 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2021/web1_sp1.jpg',
-			'/src/assets/webinar_speakers2021/web1_sp2.jpg',
-			'/src/assets/webinar_speakers2021/web1_sp3.jpg'
-		]
+			{img: '/src/assets/webinar_speakers2021/web1_sp1.jpg',id:1},
+			{img: '/src/assets/webinar_speakers2021/web1_sp2.jpg',id:2},
+			{img: '/src/assets/webinar_speakers2021/web1_sp3.jpg',id:3}
+		],
+		id:20211
 	},
 	{
 		title: 'The three missing pieces of CCTV',
@@ -348,9 +349,10 @@ export const webinars_2021 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2021/web2_sp1.jpg',
-			'/src/assets/webinar_speakers2021/web2_sp2.jpg'
-		]
+			{img: '/src/assets/webinar_speakers2021/web2_sp1.jpg', id:1},
+			{img: '/src/assets/webinar_speakers2021/web2_sp2.jpg',id:2}
+		],
+		id:20212
 	}
 ];
 
@@ -363,9 +365,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2022/web1_sp1.jpg',
-			'/src/assets/webinar_speakers2022/web1_sp2.jpg'
-		]
+			{img: '/src/assets/webinar_speakers2022/web1_sp1.jpg',id:1},
+			{img: '/src/assets/webinar_speakers2022/web1_sp2.jpg',id:2}
+		],
+		id:20221
 	},
 	{
 		title: 'Recovery of Deleted and Overwritten CCTV videos with AI',
@@ -375,9 +378,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2022/web2_sp1.jpg',
-			'/src/assets/webinar_speakers2022/web2_sp2.jpg'
-		]
+			{img:'/src/assets/webinar_speakers2022/web2_sp1.jpg',id:1},
+			{img:'/src/assets/webinar_speakers2022/web2_sp2.jpg',id:2}
+		],
+		id:20222
 	},
 	{
 		title: 'Video Analytics for Visual Surveillance',
@@ -387,9 +391,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2022/web3_sp1.jpg',
-			'/src/assets/webinar_speakers2022/web3_sp2.jpg'
-		]
+			{img: '/src/assets/webinar_speakers2022/web3_sp1.jpg',id:1},
+			{img: '/src/assets/webinar_speakers2022/web3_sp2.jpg',id:2}
+		],
+		id:20223
 	},
 	{
 		title: 'Intelligent UAVs for Military and Civilian Missions',
@@ -399,9 +404,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
 		speaker_img: [
-			'/src/assets/webinar_speakers2022/web4_sp1.jpg',
-			'/src/assets/webinar_speakers2022/web4_sp2.jpg'
-		]
+			{img:'/src/assets/webinar_speakers2022/web4_sp1.jpg',id:1},
+			{img:'/src/assets/webinar_speakers2022/web4_sp2.jpg',id:2}
+		],
+		id:20224
 	}
 ];
 

@@ -19,35 +19,27 @@ import CarouselCard from '../components/CarouselCard.svelte';
 			href="https://pib.gov.in/PressReleasePage.aspx?PRID=1598772"
 			target="_blank">link</a>
 		</p>
-		<!-- 2021 webinars -->
-			<h3 class="text-blue-800">2021</h3>
-			<div class="flex justify-center mt-40 ">
-				<div class="flex">
-					<div class="grid grid-cols-4 lg:grid-cols-4 gap-4">
+	</article>
+	<article class="max-w-7xl mx-auto p-4">
+		<h3 class="text-blue-800 text-3xl">2021</h3>
+			<div class="flex justify-center">
+					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4 ">
 						{#each webinars_2021 as webinar}
-							<div class="m-5 col-span-1 text-justify">
-								<Card Title={webinar.title} Discription={webinar.description} Link={webinar.link} />
+							<div class="m-5">
+								<CarouselCard webinar={webinar}/>
 							</div>
 						{/each}
 					</div>
-				</div>
 			</div>
-		<!-- 2022 webinars -->
-			<h3 class="text-blue-800">2022</h3>
-			<div class="flex justify-center mt-40 ">
-				<div class="flex">
-					<div class="grid grid-cols-4 lg:grid-cols-4 gap-4">
+			<h3 class="text-blue-800 text-3xl">2022</h3>
+			<div class="flex justify-center">
+					<div class="grid grid-cols-3 lg:grid-cols-3 gap-4 ">
 						{#each webinars_2022 as webinar}
-							<div class="m-5 col-span-1 text-justify">
-								<Card Title={webinar.title} Discription={webinar.description} Link={webinar.link} />
+							<div class="m-5">
+								<CarouselCard webinar={webinar}/>
 							</div>
 						{/each}
 					</div>
-				</div>
-			</div>
-			<div>
-				<p>test</p>
-				<CarouselCard />
 			</div>
 	</article>
 </section>
