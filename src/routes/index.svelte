@@ -87,10 +87,8 @@
 								<Typewriter loop interval={40} unwriteInterval={40}>
 									<span class="">COMSUR</span>
 									<span class="">NFSU</span>
-									<span class="">Hayagriva</span>
 									<span>Videonetics Technology</span>
 									<span>Mistral Solutions</span>
-									<span class="">GateBot</span>
 									<span>Mialo Technologies</span>
 								</Typewriter>
 							</div>
