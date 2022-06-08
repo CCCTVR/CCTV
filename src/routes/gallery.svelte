@@ -114,8 +114,8 @@
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Important images</p>
+					<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-[50%]" />
+					<p class="text-bold text-black mx-auto">CCTV research lab</p>
 				</div>
 			</div>
 		</div>
