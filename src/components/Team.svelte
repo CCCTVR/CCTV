@@ -31,7 +31,7 @@
 					</div>
 					<div class="mt-3 space-y-2 text-center">
 						<div class="space-y-1 text-base font-medium leading-6 h-20">
-							<h3>{name}</h3>
+							<h3 class="text-black">{name}</h3>
 							<p class="text-blue-600">{designation}</p>
 						</div>
 						<!-- <div class="relative flex items-center justify-center space-x-3">

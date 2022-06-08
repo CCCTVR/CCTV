@@ -8,27 +8,10 @@
 	class="min-h-screen"
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify scrollbar-hide">
 		<h2 class="text-blue-800">Gallery</h2>
 
-		<!-- <div class="pt-[1rem] flex">
-		<Carousel
-		  bind:this={carousel}
-		  autoplay
-  autoplayDuration={2000}
-  
-		>
-		  <div class="img-container"><img src="/src/assets/images/img1.jpg" alt="" class="w-[70%] px-20">
-			<p class="text-2xl text-center pt-4 ">Innaguration of the CCTV research center by the dignitaries</p>
-		</div>
-		  <div><img src="/src/assets/images/img2.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4"></p></div>
-		  <div><img src="/src/assets/images/img3.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4"></p></div>
-		  <div><img src="/src/assets/images/img9.jpg" alt="" class="w-[70%] px-20"><p class="text-2xl text-center pt-4">Shri. Sanjay Sahay lighting the lamp</p></div>
-		</Carousel>
-		
-	</div> -->
-
-		<div class="carousel w-full">
+		<!-- <div class="carousel w-full">
 			<div id="slide1" class="carousel-item relative w-full">
 				<img src="/src/assets/images/img1.jpg" class="w-full" alt="" />
 				<div
@@ -81,6 +64,60 @@
 				  <a href="#slide1" class="btn btn-circle">❯</a>
 				</div>
 			  </div>
+		</div> -->
+		<div class="">
+			<div
+				class="snap-x mx-auto snap-mandatory h-screen flex w-screen overflow-x-scroll scrollbar-hide"
+			>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img1.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Inaguration of the research center</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img8.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Important images</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img2.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Desc 2</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img4.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Lab pic</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img5.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Skill development</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img9.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Lighting lamp</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img11.jpg" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Webinar</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="" alt="" class="" />
+					<p class="text-bold text-black mx-auto">Important images</p>
+				</div>
+			</div>
 		</div>
 	</article>
 </section>

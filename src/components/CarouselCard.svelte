@@ -24,20 +24,20 @@ export let webinar = {
           <div class="carousel w-full">
             {#each webinar.speaker_img as spimg}
               <div id="item{webinar.id}{spimg.id}" class="carousel-item w-full">
-                <img src={spimg.img} class="w-full" alt="speaker"/>
+                <img src={spimg.img} class="" alt="speaker"/>
               </div>
             {/each}
           </div>
         </figure>
         <div class="flex justify-center w-full py-3 gap-2">
           {#each webinar.speaker_img as spimg}
-          <a href="#item{webinar.id}{spimg.id}" class="btn btn-xs bg-white">{spimg.id}</a>
+          <a href="#item{webinar.id}{spimg.id}" class=""><button >{spimg.id}</button></a>
           {/each}
       </div>
         <div class="card-body overflow-scroll scrollbar-hide">
-          <h2 class="card-title">{webinar.title}</h2>
+          <h2 class="card-title text-blue-500">{webinar.title}</h2>
           {#each webinar.description as d}
-          <p>{d}</p>
+          <p class="text-black">{d}</p>
           {/each}
         </div>
       </div>

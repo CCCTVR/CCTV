@@ -65,7 +65,14 @@
 			academic and research environment.
 		</p>
 
-		<h3 class="text-blue-800">Videonetics Technology Private Limited</h3>
+		<div class="flex flex-row">
+			<a
+				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
+				href="https://www.videonetics.com/" target="_blank">
+				<img src="/src/assets/videonetics_logo.PNG" alt="videonetics logo" class="">
+			</a>
+			<h3 class="px-[2rem] text-blue-800">Videonetics Technology Private Limited</h3>
+		</div>
 		<p class="text-justify">
 			Videonetics, Unified Video Computing Platform(UVCP™) helps in making sense of surveillance, by
 			providing an end-to-end solution for a wide range of applications. The platform is powered by
@@ -84,7 +91,14 @@
 			</strong>
 		</p>
 
-		<h3 class="text-blue-800">Mistral Solutions</h3>
+		<div class="flex flex-row">
+			<a
+				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
+				href="https://www.mistralsolutions.com/" target="_blank">
+				<img src="/src/assets/mistral_logo.PNG" alt="Mistral logo" class="">
+			</a>
+			<h3 class="px-[2rem] text-blue-800">Mistral Solutions</h3>
+		</div>
 		<p class="text-justify">
 			Mistral is an eminent system engineering and product design company focused on the <strong>
 				embedded
@@ -112,7 +126,14 @@
 			supplied by them are <strong>Briefcam VS Enterprises and Briefcam VS Forensics</strong>.
 		</p>
 
-		<h3 class="text-blue-800">Mialo Technologies Pvt. Ltd</h3>
+		<div class="flex flex-row">
+			<a
+				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
+				href="https://www.mialotech.com/" target="_blank">
+				<img src="/src/assets/mialo_logo.PNG" alt="Mialo logo" class="">
+			</a>
+			<h3 class="px-[2rem] text-blue-800">Mialo Technologies Pvt. Ltd</h3>
+		</div>
 		<p class="text-justify">
 			Headquartered in the Indian Silicon Valley, the city of Bengaluru, Mialo aspires to provide
 			end to end software solutions and service needs of its clients globally - a true ONE STOP SHOP

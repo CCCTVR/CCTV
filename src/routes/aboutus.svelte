@@ -3,8 +3,10 @@
 	class="bg-gray-100 min-h-screen"
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify text-gray-900 ">
+	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-gray-900 ">
 		<h3 class="text-blue-900">About Center for CCTV Research</h3>
+
+		<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-auto h-auto rounded-md" />
 		<p class="py-3">
 			The Center for CCTV Research, located at Bengaluru’s prestigious RV College of Engineering
 			campus has been created with the intention of being the catalyst to bridge the wide gap
@@ -18,6 +20,7 @@
 			manifestation of this dream.
 		</p>
 
+		<img src="/src/assets/photos/cctv 2.jpg" alt="" class="w-auto h-auto rounded-md" />
 		<p>
 			The research, business and the interregnum (the connect between the two) have never happened
 			anywhere. They have always operated in silos and this has always remained the biggest pain

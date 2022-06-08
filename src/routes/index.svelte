@@ -51,11 +51,13 @@
 			<div class="w-[100%] flex flex-row space-x-7">
 				<div class="flex-1 ">
 					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900">
-						<span class="text-justify font-bold  	">
-							<h1 class="flex justify-center text-2xl text-orange-500 ">Vision</h1>
+						<span class=" text-justify font-sans	">
+							<h1 class="flex justify-center text-4xl text-orange-500 font-bold ">Vision</h1>
 							<br />
-							An integrated research facility to bridge the gap in knowledge, practice, protocols,
-							testing, expriments, training, certification and expertise in video surveillance.
+							<strong>
+								An integrated research facility to bridge the gap in knowledge, practice, protocols,
+								testing, expriments, training, certification and expertise in video surveillance.
+							</strong>
 						</span>
 					</div>
 				</div>
@@ -94,14 +96,33 @@
 							</div>
 							<div class="flex flex-row pt-[2rem]">
 								<div>
-									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[4rem]">
+									<img src="/src/assets/COMSUR_logo.jpeg" alt="COMSUR logo" class="w-[15rem] pr-[1rem] h-24">
 
 									
 								</div>
 								<div>
-									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem]" />
+									<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="w-[15rem] pr-[1rem] h-24" />
+								</div>
+								<div>
+									<img src="/src/assets/videonetics_logo.PNG" alt="COMSUR logo" class="w-[15rem] pr-[1rem] h-24">
+
+									
 								</div>
 							</div>
+								<div class="flex flex-row pt-[2rem]">
+									<div>
+										<img src="/src/assets/mistral_logo.PNG" alt="COMSUR logo" class="w-[15rem] pr-[1rem] h-24">
+									
+									</div>
+									<div>
+										<img src="/src/assets/mialo_logo.PNG" alt="COMSUR logo" class="w-[15rem] pr-[1rem] h-24">
+									
+									</div>
+									<div>
+										<img src="/src/assets/techonpro_logo.PNG" alt="COMSUR logo" class="w-[15rem] pr-[1rem] h-24">
+									
+									</div>
+								</div>
 						</div>
 					</div>
 				</div>
