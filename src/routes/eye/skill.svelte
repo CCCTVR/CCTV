@@ -1,4 +1,11 @@
-<section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
+<script>
+	import Card from '/src/components/Card.svelte';
+</script>
+
+<section
+	class="bg-gray-100 min-h-screen"
+	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+>
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h3 class="text-blue-900">Skill Development Programmes</h3>
 		<p>
@@ -8,9 +15,19 @@
 		<p>CCTV system integrators are not able to train them and put them on the field.</p>
 		<p>
 			Hence this activity will be taken up by the center by way of conducting skill development
-			programmes providing hands on training inthe domain of CCTV surveillance. Essentially,the
+			programmes providing hands on training in the domain of CCTV surveillance. Essentially,the
 			programme comprises of two modules which are briefly explained below.
 		</p>
+		<div class=" flex flex-nowrap space-x-2">
+			<Card
+				Title="Skill development Brochure"
+				Discription="Topics that will be covered are basics of analog
+			and IP cameras, Digital Video Recorders (DVR),
+			Network Video Recorders (NVR), storage,
+			networking, (wired and wireless) power and data
+			cabling, central monitoring station" Link="/src/assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf"
+			/>
+		</div>
 
 		<h3 class="text-blue-800">Module 1</h3>
 		<p>
@@ -19,13 +36,12 @@
 		</p>
 		<p>
 			Topics will be related to <strong>
-				cameras (analog & IP),recorders like DVR and NVR, PoE switches, l2
-				manageable switches, wired and wireless connectivity ,OFC cables and termination etc
-			</strong>. The
-			module will have 30% theory and 70% practicals/labs suitable for ITI and Diploma holders. On
-			successful completion of this programme, they will become full fledged CCTV technicians and
-			will be employed by CCTV system integrators. A few sessions will be allocated for
-			communication skills.
+				cameras (analog & IP),recorders like DVR and NVR, PoE switches, l2 manageable switches,
+				wired and wireless connectivity ,OFC cables and termination etc
+			</strong>. The module will have 30% theory and 70% practicals/labs suitable for ITI and
+			Diploma holders. On successful completion of this programme, they will become full fledged
+			CCTV technicians and will be employed by CCTV system integrators. A few sessions will be
+			allocated for communication skills.
 		</p>
 
 		<h3 class="text-blue-800">Module 2</h3>
@@ -38,10 +54,10 @@
 		<h3 class="text-blue-800">Comsur</h3>
 		<p>
 			This is a tool to carry out <strong>
-				auditing of video footages from live camera feeds, Video quality
-				enhancement , automatic video data backup on the cloud
-			</strong> (in case of failure of recorders for
-			data recovery) and automatic incident report being generated in MS power point.
+				auditing of video footages from live camera feeds, Video quality enhancement , automatic
+				video data backup on the cloud
+			</strong> (in case of failure of recorders for data recovery) and automatic incident report being
+			generated in MS power point.
 		</p>
 
 		<h3 class="text-blue-800">Video Mangagement Software [VMS]</h3>
@@ -49,8 +65,8 @@
 			This software is the operation centre of large video surveillance systems responsible for
 			capturing, monitoring and recording of all the live camera feeds on to a central or
 			distributed network storage devices. It has <strong>
-				many other rich features including book marking,
-				event detections, generating alarms and messages etc
+				many other rich features including book marking, event detections, generating alarms and
+				messages etc
 			</strong>.
 		</p>
 		<p>This software has been developed and supplied by M/S VIDEONETICS, India.</p>
@@ -58,10 +74,10 @@
 		<h3 class="text-blue-800">GateBOT</h3>
 		<p>
 			It is an <strong>
-				ANPR(Automatic Number Plate recognition) software solution which is powered, real
-				time edge processing based end to end fully automated system
-			</strong> backed by artificial intelligence
-			to efficiently identify, monitor and authorise vehicles entering or exiting gated premises.
+				ANPR(Automatic Number Plate recognition) software solution which is powered, real time edge
+				processing based end to end fully automated system
+			</strong> backed by artificial intelligence to efficiently identify, monitor and authorise vehicles
+			entering or exiting gated premises.
 		</p>
 		<p>
 			It detects entry and exit of vehicles and stores their details including license plate number

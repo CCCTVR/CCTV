@@ -1,12 +1,17 @@
-<!-- akhil has to do styling  -->
+<script>
+	import Marquee from 'svelte-fast-marquee';
+	import Card from '/src/components/Card.svelte';
+</script>
 <section
 	class="bg-gray-100 min-h-screen"
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+	
 >
 	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-gray-900 ">
 		<h3 class="text-blue-900">About Center for CCTV Research</h3>
 
-		<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-auto h-auto rounded-md" />
+		<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-[50%] h-auto rounded-md mx-auto pb-0	" />
+		<p class="text-center font-medium ">The Center for Cctv Research</p>
 		<p class="py-3">
 			The Center for CCTV Research, located at Bengaluru’s prestigious RV College of Engineering
 			campus has been created with the intention of being the catalyst to bridge the wide gap
@@ -20,7 +25,8 @@
 			manifestation of this dream.
 		</p>
 
-		<img src="/src/assets/photos/cctv 2.jpg" alt="" class="w-auto h-auto rounded-md" />
+		<img src="/src/assets/photos/cctv 2.jpg" alt="" class="w-[50%] h-auto rounded-md mx-auto" />
+		<p class="text-center font-medium ">Lab Activities</p>
 		<p>
 			The research, business and the interregnum (the connect between the two) have never happened
 			anywhere. They have always operated in silos and this has always remained the biggest pain
@@ -84,5 +90,12 @@
 			</li>
 			<li>To provide end to end seamless service with respect to CCTV deployments.</li>
 		</ul>
+		<!-- <Marquee>
+			<Card/>
+			<Card/>
+			<Card/>
+			<Card/>
+
+		</Marquee> -->
 	</article>
 </section>
