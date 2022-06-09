@@ -65,57 +65,55 @@
 				</div>
 			  </div>
 		</div> -->
-		<div class="">
-			<div
-				class="snap-x mx-auto snap-mandatory h-screen flex w-screen overflow-x-scroll scrollbar-hide"
-			>
+		<div class="mx-auto">
+			<div class="snap-x mx-auto snap-mandatory h-screen flex   overflow-x-scroll scrollbar-hide">
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img1.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Inaguration of the research center</p>
+					<img src="/src/assets/images/img1.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Inaguration of the research center</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img8.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Important images</p>
+					<img src="/src/assets/images/img8.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Important images</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img2.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Desc 2</p>
+					<img src="/src/assets/images/img2.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Desc 2</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img4.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Lab pic</p>
+					<img src="/src/assets/images/img4.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Lab pic</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img5.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Skill development</p>
+					<img src="/src/assets/images/img5.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Skill development</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img9.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Lighting lamp</p>
+					<img src="/src/assets/images/img9.jpg" alt="" class="mx-auto" />
+					<p class="text-bold text-black mx-auto text-center">Lighting lamp</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/images/img11.jpg" alt="" class="" />
-					<p class="text-bold text-black mx-auto">Webinar</p>
+					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
+					<p class="text-bold text-black mx-auto text-center">Webinar</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
-					<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-[50%]" />
-					<p class="text-bold text-black mx-auto">CCTV research lab</p>
+					<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="mx-auto w-[50%]" />
+					<p class="text-bold text-black mx-auto text-center">CCTV research lab</p>
 				</div>
 			</div>
 		</div>
