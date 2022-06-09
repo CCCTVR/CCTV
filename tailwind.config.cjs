@@ -350,6 +350,7 @@ module.exports = {
 		fontFamily: {
 			arial: ['Arial'],
 			sans: [
+				'Arial',
 				'ui-sans-serif',
 				'system-ui',
 				'-apple-system',
@@ -357,7 +358,6 @@ module.exports = {
 				'"Segoe UI"',
 				'Roboto',
 				'"Helvetica Neue"',
-				'Arial',
 				'"Noto Sans"',
 				'sans-serif',
 				'"Apple Color Emoji"',
