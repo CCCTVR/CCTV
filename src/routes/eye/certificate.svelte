@@ -1,4 +1,5 @@
 <script>
+	// @ts-ignore
 	import  Card from '/src/components/Card.svelte';
 </script>
 

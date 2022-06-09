@@ -71,50 +71,50 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img1.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Inaguration of the research center</p>
+					<p class="text-bold text-black mx-auto text-center">Shri Panduranga Shetty Inagurating the research center</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img8.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Important images</p>
+					<p class="text-bold text-black mx-auto text-center">Important Dignitaries Of CCTVR</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img2.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Desc 2</p>
+					<p class="text-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img4.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Lab pic</p>
+					<p class="text-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img5.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Skill development</p>
+					<p class="text-bold text-black mx-auto text-center">Activities in CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img9.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Lighting lamp</p>
+					<p class="text-bold text-black mx-auto text-center">Shri Sanjay Sahay lighting the lamp</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
-					<p class="text-bold text-black mx-auto text-center">Webinar</p>
+					<p class="text-bold text-black mx-auto text-center">Important Dignitaries at Webinar</p>
 				</div>
-				<div
+				<!-- <div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="mx-auto w-[50%]" />
 					<p class="text-bold text-black mx-auto text-center">CCTV research lab</p>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</article>
