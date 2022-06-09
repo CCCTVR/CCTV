@@ -49,8 +49,8 @@
 
 		<div class="text-justify">
 			<p>
-				A <strong>memorandum of understanding</strong> has been signed between NFSU and RVCE for setting up a “Centre
-				for CCTV Research” at RVCE campus,to ensure better learning and research opportunities to the
+				A <strong>memorandum of understanding has been signed between NFSU and RVCE for setting up a “Centre
+				for CCTV Research”</strong> at RVCE campus,to ensure better learning and research opportunities to the
 				students and faculty members of both the institutes. Both the institutions can jointly
 				organize expert talk/ seminar/workshops/summer internship/conference to improve industrial
 				exposure and technical knowhow to students of both institutes and to help them in identifying
