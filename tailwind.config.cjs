@@ -3,7 +3,6 @@ module.exports = {
 	presets: [],
 	darkMode: 'media', // or 'class'
 	theme: {
-		
 		screens: {
 			sm: '640px',
 			md: '768px',
@@ -349,6 +348,7 @@ module.exports = {
 			DEFAULT: '1'
 		},
 		fontFamily: {
+			arial: ['Arial'],
 			sans: [
 				'ui-sans-serif',
 				'system-ui',
@@ -363,7 +363,7 @@ module.exports = {
 				'"Apple Color Emoji"',
 				'"Segoe UI Emoji"',
 				'"Segoe UI Symbol"',
-				'"Noto Color Emoji"',
+				'"Noto Color Emoji"'
 			],
 			serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
 			mono: [
@@ -375,8 +375,7 @@ module.exports = {
 				'"Liberation Mono"',
 				'"Courier New"',
 				'monospace'
-			],
-			
+			]
 		},
 		fontSize: {
 			xs: ['0.75rem', { lineHeight: '1rem' }],
@@ -953,5 +952,9 @@ module.exports = {
 		'active',
 		'disabled'
 	],
-	plugins: [require('@tailwindcss/typography'),require("daisyui"),require('tailwind-scrollbar-hide')]
+	plugins: [
+		require('@tailwindcss/typography'),
+		require('daisyui'),
+		require('tailwind-scrollbar-hide')
+	]
 };
