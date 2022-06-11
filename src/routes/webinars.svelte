@@ -1,6 +1,5 @@
 <script>
 import { webinars_2021, webinars_2022 } from '../data/data';
-import Card from '../components/Card.svelte';
 import '../data/data.js';
 import CarouselCard from '../components/CarouselCard.svelte';
 

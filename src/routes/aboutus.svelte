@@ -1,6 +1,6 @@
 <script>
 	import Marquee from 'svelte-fast-marquee';
-	import Card from '/src/components/Card.svelte';
+	import Card from '../components/Card.svelte'
 </script>
 <section
 	class="bg-gray-100 min-h-screen"

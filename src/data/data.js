@@ -276,51 +276,48 @@ export const trainingPrograms = [
 
 export const expts = [
 	{
-		title: 'Expriment 1',
-		description: 'To estimate the horizontal Field of View of the camera.',
+		title: 'To estimate the horizontal Field of View of the camera',
+		description: '',
 		link: 'http://ccctvr.org/first_expt_mca.pdf'
 	},
 	{
-		title: 'Expriment 2',
-		description: 'To measure the depth of focus of a camera.',
+		title: 'To measure the depth of focus of a camera',
+		description: '',
 		link: 'http://ccctvr.org/second_expt_mca.pdf'
 	},
 	{
-		title: 'Expriment 3',
-		description:
-			'To find camera’s sensitivity to different light intensity levels measure the depth of focus of a camera.',
+		title: 'To find camera sensitivity to different light intensity levels measure the depth of focus of a camera',
+		description:'',
 		link: 'http://ccctvr.org/third_expt_mca.pdf'
 	},
 	{
-		title: 'Expriment 4',
-		description: 'To find the best image settings to get good natural colour image.',
+		title: 'To find the best image settings to get good natural color image',
+		description: '',
 		link: 'http://ccctvr.org/fourth_expt.pdf'
 	},
 	{
-		title: 'Expriment 5',
-		description: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
+		title: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
+		description: '',
 		link: 'http://ccctvr.org/fifth_expt.pdf'
 	},
 	{
-		title: 'Expriment 6',
-		description: 'To find which resolution yields good image clarity/details.',
+		title: 'To find which resolution yields good image clarity/details',
+		description: '',
 		link: 'http://ccctvr.org/sixth_expt.pdf'
 	},
 	{
-		title: 'SETTING UP OF AN ANALOG SURVEILLANCE SYSTEM',
-		description:
-			': To get familiar with connection of analog cameras to Digital Video Recorder (DVR)',
+		title: 'Setting up of an Analog Surveillance System',
+		description:'',
 		link: 'http://ccctvr.org/setup_analog_cctv.pdf'
 	},
 	{
 		title: 'Experiments on DVR based CCTV Camera',
-		description: 'lorem ipsum dosum ',
+		description: '',
 		link: 'http://ccctvr.org/dvr.pdf'
 	},
 	{
 		title: 'Getting Started with COM-SUR',
-		description:
-			'To verify the live capturing quality of Com-Sur with different streams and resolutions.',
+		description:'',
 		link: 'http://ccctvr.org/comsur_expt_setup.pdf'
 	}
 ];

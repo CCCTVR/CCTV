@@ -1,7 +1,6 @@
 <script>
-// @ts-nocheck
-import { trainingPrograms } from '/src/data/data';
-	import Card from '/src/components/Card.svelte';
+    import { trainingPrograms } from '../../data/data';
+	import Card from '../../components/Card.svelte'
 </script>
 
 <section class="bg-gray-100 min-h-screen justify-center" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
@@ -10,7 +9,7 @@ import { trainingPrograms } from '/src/data/data';
     <div class=" flex flex-nowrap space-x-5">
         
         {#each trainingPrograms as tp}
-            <Card Title={tp.title} Discription={tp.description} Link={tp.link} />
+            <Card Title={tp.title} Description={tp.description} Link={tp.link} />
         {/each}
     
     </div>
