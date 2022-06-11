@@ -90,12 +90,12 @@
 			</li>
 			<li>To provide end to end seamless service with respect to CCTV deployments.</li>
 		</ul>
-		<!-- <Marquee>
+		<Marquee>
 			<Card/>
 			<Card/>
 			<Card/>
 			<Card/>
 
-		</Marquee> -->
+		</Marquee>
 	</article>
 </section>

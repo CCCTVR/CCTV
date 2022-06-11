@@ -71,7 +71,7 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img1.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Shri Panduranga Shetty Inagurating the research center</p>
+					<p class="font-bold text-black mx-auto text-center ">Inaguration of the Center for CCTV Research, 4th February, 2021 by the Chief Guest Dr. M.K Panduranga Setty</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
@@ -107,8 +107,9 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
-					<p class="text-bold text-black mx-auto text-center">Important Dignitaries at Webinar</p>
+					<p class="text-bold text-black mx-auto text-center ">Important Dignitaries at Webinar</p>
 				</div>
+				
 				<!-- <div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>

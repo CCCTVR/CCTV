@@ -24,14 +24,16 @@
 
 		<div class="grid w-full grid-cols-2 gap-10 sm:grid-cols-3 lg:grid-cols-4">
 			{#each TeamMembers as { name, designation, img }, i}
-				<div class="flex flex-col items-center justify-center col-span-1">
-					<div class="relative p-5">
-						<div class="absolute z-10 w-full h-full -mt-5 -ml-5 rounded-full  bg-blue-200" />
-						<img class="relative z-20 w-full rounded-full" src={img} alt=" " />
-					</div>
+				<div class="flex flex-col items-center justify-center col-span-1 hover:scale-105 transition-all duration-300 ease-linear">
+					<div class="avatar">
+						<div class="w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 ">
+						  
+							<img class="relative z-20 w-full rounded-full " src={img} alt=" " />
+						</div>
+					  </div>
 					<div class="mt-3 space-y-2 text-center">
 						<div class="space-y-1 text-base font-medium leading-6 h-20">
-							<h3 class="text-black">{name}</h3>
+							<h3 class="text-black font-bold">{name}</h3>
 							<p class="text-blue-600">{designation}</p>
 						</div>
 						<!-- <div class="relative flex items-center justify-center space-x-3">
