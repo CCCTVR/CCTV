@@ -1,5 +1,5 @@
 <script>
-	import Card from '/src/components/Card.svelte';
+	import Card from '../../components/Card.svelte'
 </script>
 
 <section
@@ -21,7 +21,7 @@
 		<div class=" flex flex-nowrap space-x-2">
 			<Card
 				Title="Skill development Brochure"
-				Discription="Topics that will be covered are basics of analog
+				Description="Topics that will be covered are basics of analog
 			and IP cameras, Digital Video Recorders (DVR),
 			Network Video Recorders (NVR), storage,
 			networking, (wired and wireless) power and data

@@ -1,6 +1,5 @@
 <script>
-	// @ts-ignore
-	import  Card from '/src/components/Card.svelte';
+	import  Card from '../../components/Card.svelte';
 </script>
 
 <section
@@ -16,7 +15,7 @@
 		<div class=" flex flex-nowrap space-x-2">
 			<Card
 				Title="Certification Course Brochure"	
-				Discription="5-DAYS CERTIFICATION COURSE
+				Description="5-DAYS CERTIFICATION COURSE
 				ON
 				AN OVERVIEW OF VIDEO
 				SURVEILLANCE SYSTEMS"

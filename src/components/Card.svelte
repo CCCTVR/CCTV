@@ -1,6 +1,6 @@
 <script>
 	export let Title = 'Title';
-	export let Discription = 'Discription';
+	export let Description = 'Description';
 	export let Link = '';
 </script>
 
@@ -11,7 +11,7 @@
 		<div class="px-6 py-4">
 			<div class="font-bold text-2xl text-blue-800">{Title}</div>
 			<p class="text-gray-700 text-lg mt-10">
-				{Discription}
+				{Description}
 			</p>
 		</div>
 	</a>

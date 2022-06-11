@@ -182,7 +182,7 @@
 					<div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
 						{#each eye as eye}
 							<div class="m-5 col-span-1 text-justify">
-								<Card Title={eye.title} Discription={eye.description} Link={eye.link} />
+								<Card Title={eye.title} Description={eye.description} Link={eye.link} />
 							</div>
 						{/each}
 					</div>
