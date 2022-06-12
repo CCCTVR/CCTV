@@ -1,5 +1,6 @@
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
+		<h2 class="text-blue-900">Software Tools</h2>
 		<h3 class="text-blue-800">Videonetics Intellegent VMS 3.0</h3>
 		<p>
 			Videonetics Intelligent VMS 3.0 (Video Management Software) delivers unified, next generation

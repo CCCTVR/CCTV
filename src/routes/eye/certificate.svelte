@@ -7,7 +7,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
-		<h3 class="text-blue-900">Certification Courses</h3>
+		<h2 class="text-blue-900">Certification Courses</h2>
 		<p>
 			The center had organized a 5 day certification course on "An overview of Video Surveillance
 			systems" from 30th August to 3rd Sept 2021.

@@ -12,7 +12,7 @@
 		>
 			<img
 				src="https://media-public.canva.com/9U9-4/MAD2909U9-4/2/t.png"
-				class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 w-full "
+				class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 w-full " alt=""
 			/>
 		</div>
 
@@ -97,7 +97,7 @@
 		>
 			<img
 				src="https://media-public.canva.com/pAozY/MAEe6bpAozY/2/t.png"
-				class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32 w-full"
+				class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32 w-full" alt=""
 			/>
 		</div>
 	</div>

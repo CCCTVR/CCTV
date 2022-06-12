@@ -1,5 +1,6 @@
 <script>
-import FlipCard from "/src/components/FlipCard.svelte";
+// @ts-ignore
+import FlipCard from "../../components/FlipCard.svelte";
 
     import {Internships} from "../../data/data.js";
 </script>
