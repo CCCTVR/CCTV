@@ -7,7 +7,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 	
 >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-gray-900 ">
+	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900 ">
 		<h3 class="text-blue-900">About Center for CCTV Research</h3>
 
 		<img src="/src/assets/photos/CCTV lab Entrance.JPG" alt="" class="w-[50%] h-auto rounded-md mx-auto pb-0	" />

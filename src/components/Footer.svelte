@@ -63,6 +63,7 @@
     <div>
         <span class="footer-title">Know More</span>
         <a class="link link-hover" href="/aboutus">About us</a>
+        <a class="link link-hover" href="/faq">FAQ</a>
         <!-- <a class="link link-hover" href="/dreamteam">Team</a> -->
         <!-- <a class="link link-hover" href="/eye/consultancy"></a> -->
     </div>

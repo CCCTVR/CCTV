@@ -1,5 +1,5 @@
 <section class="bg-gray-100 min-h-screen flex justify-center " style="background-image: url('/src/assets/bg.png'); background-size: contain;" >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
+	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h2 class="text-blue-900">Stakeholders</h2>
 
 		<div class="flex flex-row">

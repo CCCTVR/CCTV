@@ -5,7 +5,7 @@ import CarouselCard from '../components/CarouselCard.svelte';
 
 </script>
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify">
+	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify">
 		<h2 class="text-blue-900">Webinars</h2>
 		<p class="text-black">
 			The Center will be organising webinars once a month and the speakers are drawn from Academic

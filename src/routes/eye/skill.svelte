@@ -6,7 +6,7 @@
 	class="bg-gray-100 min-h-screen"
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
+	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h3 class="text-blue-900">Skill Development Programmes</h3>
 		<p>
 			The country is witnessing huge number of video surveillance installations coming up and there

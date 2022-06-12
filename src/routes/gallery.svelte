@@ -8,7 +8,7 @@
 	class="min-h-screen"
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
-	<article class="prose-base lg:prose-2xl max-w-7xl mx-auto p-4 text-justify scrollbar-hide">
+	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify scrollbar-hide">
 		<h2 class="text-blue-800">Gallery</h2>
 
 		<!-- <div class="carousel w-full">

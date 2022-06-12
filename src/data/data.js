@@ -408,4 +408,11 @@ export const webinars_2022 = [
 	}
 ];
 
+export const Internships = [
+	{
+		title:'Internship 1',
+		description: 'Industry Certified Internship for Engineering Students (UG/ PG) - 2021',
+		link: '/src/assets/Posters/Internships/final_internship.pdf',
 
+	}
+];
