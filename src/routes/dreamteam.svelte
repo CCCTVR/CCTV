@@ -8,7 +8,7 @@
 
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	{#each teams as { TeamName, TeamMembers }}
-		<Team {TeamMembers} {TeamName} />
+		<Team {TeamMembers} {TeamName}   />
 	{/each}
 </section>
 <!-- <h2 class="text-3xl">dream team</h2>

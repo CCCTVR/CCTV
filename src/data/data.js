@@ -84,37 +84,44 @@ export const teams = [
 			{
 				name: 'Dr K N Subramanya Principal RVCE',
 				designation: 'ChairPerson',
-				img: '/src/assets/cctv_team/principal.PNG'
+				img: '/src/assets/cctv_team/principal.PNG',
+				link: 'https://www.rvce.edu.in/principal-rvce'
 			},
 			{
 				name: 'Shri. Sanjay Sahay',
 				designation: 'Founder and Mentor',
-				img: '/src/assets/cctv_team/sanjay_sahay.jpg'
+				img: '/src/assets/cctv_team/sanjay_sahay.jpg',
+				link: 'https://in.linkedin.com/in/thesanjaysahay'
 			},
 			{
 				name: 'Dr. Ramakanth K P',
 				designation: 'Center Head, CCCTVR',
-				img: 'src/assets/cctv_team/hod.PNG'
+				img: 'src/assets/cctv_team/hod.PNG',
+				link: 'https://rvce.edu.in//ise-rmp-it'
 			},
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
-				img: 'src/assets/cctv_team/shankar.jpg'
+				img: 'src/assets/cctv_team/shankar.jpg',
+				link: 'https://www.csa.iisc.ac.in/people/shankar-t/'
 			},
 			{
 				name: 'Dr. Shreelakshmi K',
 				designation: 'Head, Operations',
-				img: '/src/assets/cctv_team/shree_lakshmi.png'
+				img: '/src/assets/cctv_team/shree_lakshmi.png',
+				link: 'https://rvce.edu.in/tc-sreelakshmi'
 			},
 			{
 				name: 'Dr. Ravishankar S',
 				designation: 'Head, Communication and Networking',
-				img: '/src/assets/cctv_team/ravishankar.png'
+				img: '/src/assets/cctv_team/ravishankar.png',
+				link: 'https://rvce.edu.in/ec-sravishankar'
 			},
 			{
 				name: 'Dr. Azra Nasreen',
 				designation: 'Coordinator, CCCTVR',
-				img: '/src/assets/cctv_team/azra.jpg'
+				img: '/src/assets/cctv_team/azra.jpg',
+				link: 'https://rvce.edu.in/cs-azra'
 			}
 		]
 	},
@@ -124,17 +131,20 @@ export const teams = [
 			{
 				name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/GautamDGoradia.jpg'
+				img: 'src/assets/cctv_team/GautamDGoradia.jpg',
+				link: 'https://in.linkedin.com/in/gautamgoradia'
 			},
 			{
 				name: 'Mr. Avinash Trivedi, Videonetics',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG'
+				img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
+				link: 'https://in.linkedin.com/in/avinashtrivedivideonetics'
 			},
 			{
 				name: 'Mr. Pawan Vashist, Mistral Solutions',
 				designation: 'Member',
-				img: '/src/assets/cctv_team/default.png'
+				img: '/src/assets/cctv_team/default.png',
+				link: ''
 			}
 		]
 	},
@@ -144,27 +154,32 @@ export const teams = [
 			{
 				name: 'Dr. Surbhi Mathur, NFSU',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg'
+				img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg',
+				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
 				name: 'Dr. Hemavathy R, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/R HEMAVATHY.jpg'
+				img: 'src/assets/cctv_team/R HEMAVATHY.jpg',
+				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
 				name: 'Dr. Nagraj Bhat, RVCE',
 				designation: 'Member',
-				img: '/src/assets/cctv_team/Nagaraj_Bhat.png'
+				img: '/src/assets/cctv_team/Nagaraj_Bhat.png',
+				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
 				name: 'Ms. Neethu S, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Neethu S - Copy.jpg'
+				img: 'src/assets/cctv_team/Neethu S - Copy.jpg',
+				link: 'https://rvce.edu.in/tc-neethu'
 			},
 			{
 				name: 'Dr. Poornima Kulkarni, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Poornima Kulkarni.jpg'
+				img: 'src/assets/cctv_team/Poornima Kulkarni.jpg',
+				link: 'https://rvce.edu.in/ise-pk'
 			}
 		]
 	},
@@ -174,12 +189,14 @@ export const teams = [
 			{
 				name: 'Mr. Ravikumar Koppal',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg'
+				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg',
+				link: 'https://in.linkedin.com/in/ravi-kumar-c-koppal-72617714'
 			},
 			{
 				name: 'Mr. Shiva Kumar',
 				designation: 'Member',
-				img: '/src/assets/cctv_team/shivakumar.jpg'
+				img: '/src/assets/cctv_team/shivakumar.jpg',
+				link: ''
 			}
 		]
 	}
@@ -287,7 +304,7 @@ export const expts = [
 	},
 	{
 		title: 'Experiment 3',
-		description:'To find camera’s sensitivity to different light intensity levels',
+		description: 'To find camera’s sensitivity to different light intensity levels',
 		link: '/src/assets/Expreriments/third_expt_mca.pdf'
 	},
 	{
@@ -307,7 +324,7 @@ export const expts = [
 	},
 	{
 		title: 'Experiment 7',
-		description:'Setting up of an Analog Surveillance System',
+		description: 'Setting up of an Analog Surveillance System',
 		link: '/src/assets/Expreriments/setup_analog_cctv.pdf'
 	},
 	{
@@ -317,7 +334,7 @@ export const expts = [
 	},
 	{
 		title: 'Experiment 9',
-		description:'Getting Started with COM-SUR',
+		description: 'Getting Started with COM-SUR',
 		link: '/src/assets/Expreriments/comsur_expt_setup.pdf'
 	}
 ];
@@ -332,11 +349,11 @@ export const webinars_2021 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
-			{img: '/src/assets/webinar_speakers2021/web1_sp1.jpg',id:1},
-			{img: '/src/assets/webinar_speakers2021/web1_sp2.jpg',id:2},
-			{img: '/src/assets/webinar_speakers2021/web1_sp3.jpg',id:3}
+			{ img: '/src/assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
+			{ img: '/src/assets/webinar_speakers2021/web1_sp3.jpg', id: 3 }
 		],
-		id:20211
+		id: 20211
 	},
 	{
 		title: 'The three missing pieces of CCTV',
@@ -346,10 +363,10 @@ export const webinars_2021 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
 		speaker_img: [
-			{img: '/src/assets/webinar_speakers2021/web2_sp1.jpg', id:1},
-			{img: '/src/assets/webinar_speakers2021/web2_sp2.jpg',id:2}
+			{ img: '/src/assets/webinar_speakers2021/web2_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2021/web2_sp2.jpg', id: 2 }
 		],
-		id:20212
+		id: 20212
 	}
 ];
 
@@ -362,10 +379,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
 		speaker_img: [
-			{img: '/src/assets/webinar_speakers2022/web1_sp1.jpg',id:1},
-			{img: '/src/assets/webinar_speakers2022/web1_sp2.jpg',id:2}
+			{ img: '/src/assets/webinar_speakers2022/web1_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2022/web1_sp2.jpg', id: 2 }
 		],
-		id:20221
+		id: 20221
 	},
 	{
 		title: 'Recovery of Deleted and Overwritten CCTV videos with AI',
@@ -375,10 +392,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
 		speaker_img: [
-			{img:'/src/assets/webinar_speakers2022/web2_sp1.jpg',id:1},
-			{img:'/src/assets/webinar_speakers2022/web2_sp2.jpg',id:2}
+			{ img: '/src/assets/webinar_speakers2022/web2_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2022/web2_sp2.jpg', id: 2 }
 		],
-		id:20222
+		id: 20222
 	},
 	{
 		title: 'Video Analytics for Visual Surveillance',
@@ -388,10 +405,10 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
 		speaker_img: [
-			{img: '/src/assets/webinar_speakers2022/web3_sp1.jpg',id:1},
-			{img: '/src/assets/webinar_speakers2022/web3_sp2.jpg',id:2}
+			{ img: '/src/assets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
 		],
-		id:20223
+		id: 20223
 	},
 	{
 		title: 'Intelligent UAVs for Military and Civilian Missions',
@@ -401,18 +418,17 @@ export const webinars_2022 = [
 		],
 		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
 		speaker_img: [
-			{img:'/src/assets/webinar_speakers2022/web4_sp1.jpg',id:1},
-			{img:'/src/assets/webinar_speakers2022/web4_sp2.jpg',id:2}
+			{ img: '/src/assets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
+			{ img: '/src/assets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
 		],
-		id:20224
+		id: 20224
 	}
 ];
 
 export const Internships = [
 	{
-		title:'Internship 1',
+		title: 'Internship 1',
 		description: 'Industry Certified Internship for Engineering Students (UG/ PG) - 2021',
-		link: '/src/assets/Posters/Internships/final_internship.pdf',
-
+		link: '/src/assets/Posters/Internships/final_internship.pdf'
 	}
 ];
