@@ -276,49 +276,49 @@ export const trainingPrograms = [
 
 export const expts = [
 	{
-		title: 'To estimate the horizontal Field of View of the camera',
-		description: '',
-		link: 'http://ccctvr.org/first_expt_mca.pdf'
+		title: 'Experiment 1',
+		description: 'To estimate the horizontal Field of View of the camera.',
+		link: '/src/assets/Expreriments/first_expt_mca.pdf'
 	},
 	{
-		title: 'To measure the depth of focus of a camera',
-		description: '',
-		link: 'http://ccctvr.org/second_expt_mca.pdf'
+		title: 'Experiment 2',
+		description: 'To measure the depth of focus of a camera.',
+		link: '/src/assets/Expreriments/second_expt_mca.pdf'
 	},
 	{
-		title: 'To find camera sensitivity to different light intensity levels measure the depth of focus of a camera',
-		description:'',
-		link: 'http://ccctvr.org/third_expt_mca.pdf'
+		title: 'Experiment 3',
+		description:'To find camera’s sensitivity to different light intensity levels',
+		link: '/src/assets/Expreriments/third_expt_mca.pdf'
 	},
 	{
-		title: 'To find the best image settings to get good natural color image',
-		description: '',
-		link: 'http://ccctvr.org/fourth_expt.pdf'
+		title: 'Experiment 4',
+		description: 'To find the best image settings to get good natural colour image.',
+		link: '/src/assets/Expreriments/fourth_expt.pdf'
 	},
 	{
-		title: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
-		description: '',
-		link: 'http://ccctvr.org/fifth_expt.pdf'
+		title: 'Experiment 5',
+		description: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
+		link: '/src/assets/Expreriments/fifth_expt.pdf'
 	},
 	{
-		title: 'To find which resolution yields good image clarity/details',
-		description: '',
-		link: 'http://ccctvr.org/sixth_expt.pdf'
+		title: 'Experiment 6',
+		description: 'To find which resolution yields good image clarity/details',
+		link: '/src/assets/Expreriments/sixth_expt.pdf'
 	},
 	{
-		title: 'Setting up of an Analog Surveillance System',
-		description:'',
-		link: 'http://ccctvr.org/setup_analog_cctv.pdf'
+		title: 'Experiment 7',
+		description:'Setting up of an Analog Surveillance System',
+		link: '/src/assets/Expreriments/setup_analog_cctv.pdf'
 	},
 	{
-		title: 'Experiments on DVR based CCTV Camera',
-		description: '',
-		link: 'http://ccctvr.org/dvr.pdf'
+		title: 'Experiment 8',
+		description: 'Experiments on DVR based CCTV Camera',
+		link: '/src/assets/Expreriments/dvr.pdf'
 	},
 	{
-		title: 'Getting Started with COM-SUR',
-		description:'',
-		link: 'http://ccctvr.org/comsur_expt_setup.pdf'
+		title: 'Experiment 9',
+		description:'Getting Started with COM-SUR',
+		link: '/src/assets/Expreriments/comsur_expt_setup.pdf'
 	}
 ];
 
