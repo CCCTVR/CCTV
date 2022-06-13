@@ -14,7 +14,7 @@
 			<p class="text-gray-700 text-lg mt-10">
 				{Description}
 			</p>
-			<a href={know_more_link}>Know more</a>
+			<a class="hover:text-blue-600 hover:underline" href={know_more_link}>Know more</a>
 		</div>
 	</a>
 </div>
