@@ -11,7 +11,7 @@
 			class="box-border relative w-full max-w-md px-4 mt-5 mb-4 -ml-5 text-center bg-no-repeat bg-contain border-solid md:ml-0 md:mt-0 md:max-w-none lg:mb-0 md:w-1/2 xl:pl-10"
 		>
 			<img
-				src="https://media-public.canva.com/9U9-4/MAD2909U9-4/2/t.png"
+				src="/src/assets/photos/Admin 2.jpg"
 				class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 w-full " alt=""
 			/>
 		</div>
