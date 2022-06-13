@@ -1,5 +1,5 @@
 <script>
-	import Card from '../../components/Card.svelte'
+	import Card_know_more from '../../components/Card_know_more.svelte'
 </script>
 
 <section
@@ -19,37 +19,17 @@
 			programme comprises of two modules which are briefly explained below.
 		</p>
 		<div class=" flex flex-nowrap space-x-2">
-			<Card
+			<Card_know_more
 				Title="Skill development Brochure"
 				Description="Topics that will be covered are basics of analog
 			and IP cameras, Digital Video Recorders (DVR),
 			Network Video Recorders (NVR), storage,
 			networking, (wired and wireless) power and data
-			cabling, central monitoring station" Link="/src/assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf"
+			cabling, central monitoring station" 
+				Link="/src/assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf"
+				know_more_link="/eye/skill_dev_module"
 			/>
 		</div>
-
-		<h3 class="text-blue-800">Module 1</h3>
-		<p>
-			This module will impart training towards installation, commissioning and maintenance of video
-			surveillance systems.
-		</p>
-		<p>
-			Topics will be related to <strong>
-				cameras (analog & IP),recorders like DVR and NVR, PoE switches, l2 manageable switches,
-				wired and wireless connectivity ,OFC cables and termination etc
-			</strong>. The module will have 30% theory and 70% practicals/labs suitable for ITI and
-			Diploma holders. On successful completion of this programme, they will become full fledged
-			CCTV technicians and will be employed by CCTV system integrators. A few sessions will be
-			allocated for communication skills.
-		</p>
-
-		<h3 class="text-blue-800">Module 2</h3>
-		<p>
-			This modules will impart training on Software tools extensively deployed in video surveillance
-			systems and a candidate can choose to become an expert on any of these tools which are
-			explained below in brief.
-		</p>
 
 		<h3 class="text-blue-800">Comsur</h3>
 		<p>
