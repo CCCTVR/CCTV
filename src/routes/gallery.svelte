@@ -78,7 +78,13 @@
 				>
 					<img src="/src/assets/images/img8.jpg" alt="" class="mx-auto" />
 					
-					<p class="font-bold text-black mx-auto text-center">Fromt right Dr K N Subramanya, Principal RVCE, Shri Sanjay Sahay Shri T Shankar, Dr. Ravindra S Kulkarni HOD Dept of Aerospace, Dr. Ramakanth Kumar P HOD Dept of Computer Science and Dr. M.K. Panduranga Setty Chancellor RVCE </p>
+					<p class="font-bold text-black mx-auto text-center">(From right) Dr K N Subramanya, Principal RVCE, Shri Sanjay Sahay Ex-IPS, Shri T Shankar, Dr. Ravindra S Kulkarni, HOD Dept of Aerospace, Dr. Ramakanth Kumar P, HOD Dept of Computer Science and Dr. M.K. Panduranga Setty, President RSST </p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
+					<p class="font-bold text-black mx-auto text-center ">Innaguration of Center of CCTV Research</p>
 				</div>
 				<div
 						class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
@@ -103,12 +109,6 @@
 				>
 					<img src="/src/assets/images/img5.jpg" alt="" class="mx-auto" />
 					<p class="font-bold text-black mx-auto text-center">Activities in CCTV lab</p>
-				</div>
-				<div
-					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
-				>
-					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
-					<p class="font-bold text-black mx-auto text-center ">Innaguration of Center of CCTV Research</p>
 				</div>
 				
 				<!-- <div

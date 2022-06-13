@@ -1,4 +1,11 @@
-<section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
+<script>
+	import Card from '../../components/Card.svelte';
+</script>
+
+<section
+	class="bg-gray-100 min-h-screen"
+	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+>
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h2 class="text-blue-900">Projects</h2>
 		<p class="">Projects will be one of the most important activities of the Center.</p>
@@ -16,10 +23,18 @@
 			assess the progress of the project work.
 		</p>
 		<p>
-			Projects are related to developing A<strong>I and ML based algorithms to analyse and extract content</strong>
+			Projects are related to developing A<strong
+				>I and ML based algorithms to analyse and extract content</strong
+			>
 			in an intelligent manner from live video surveillance camera feeds.
 		</p>
+		<div>
+			<Card
+				Title="Automatic Animal Detection using Neural Classifier in CCTV Surveillance"
+				Description="there is need to develop intelligent video analytics algorithms which work onthe  video  feeds  coming  from  the  CCTV  cameras  in  real  time  for  detection  of  wildanimals. On detection, alerts in the form of SMS/MMS should be sent to the security guards."
+				Link="/src/assets/projects/wildanimal.pdf"
+				/>
+		</div>
 	</article>
-
 </section>
 <!-- <iframe src="/src/assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe> -->
