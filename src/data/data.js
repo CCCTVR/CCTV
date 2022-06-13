@@ -432,3 +432,26 @@ export const Internships = [
 		link: '/src/assets/Posters/Internships/final_internship.pdf'
 	}
 ];
+
+export const abt_us_desc = [
+	{
+		title: 'Rashtreeya Vidyalaya College of Engineering',
+		description: 'Established in 1963, RVCE has 13 departments in engineering, one school in architecture, and a Master of Computer Applications department. It is affiliated to the Visvesvaraya Technological University, Belgaum. The undergraduate courses are granted academic autonomy by the university. RVCE is accredited by the All India Council for Technical Education and all its departments are accredited by the National Board of Accreditation. The college is managed by the Rashtreeya Shikshana Samiti Trust.',
+		img_link: '/src/assets/photos/Admin 2.jpg'
+	},
+	{
+		title: 'Computer Science and Engineering',
+		description: 'The Department of Computer Science and Engineering was established in year 1984. The Department offers B.E (CSE) undergraduate program, two postgraduate programs M.Tech(CSE) and M.Tech(CNE). Department also offers M.Sc by research and Ph.D. degree in various specializations of Computer Science and Engineering.',
+		img_link: '/src/assets/photos/Computer science.jpg'
+	},
+	{
+		title: 'Electronics and Communications Engineering',
+		description: 'The Electronics & Communication Engineering Department was started in the year 1972 and now conducts one undergraduate program, two postgraduate programs (M. Tech in VLSI Design & Embedded Systems and M. Tech in Communication Systems) with academic autonomy,  and Ph.D. program with affiliation to VTU. A total of 52 experienced faculty members, support four core specializations (VLSI Design, Wireless & Wireline Communications, Signal Processing, and Embedded Systems) in the department.',
+		img_link: '/src/assets/photos/IMG_8652.JPG'
+	},
+	{
+		title: 'Electronics and Tele-Communications Engineering',
+		description: 'The Electronics and Telecommunication Engineering (Telecommunication Engineering) Department was started in the year 1992 and now conducts one undergraduate program, two postgraduate programs (M. Tech in Digital Communication Engineering & RF & Microwave Engineering) with academic autonomy and Ph.D program with affiliation to VTU. A total of 21 experienced faculty members, support four core specializations (Networking, Wireless Communications, Signal processing and Embedded Systems) in the Department.',
+		img_link: '/src/assets/photos/TCE-Entrance1.JPG'
+	}
+];

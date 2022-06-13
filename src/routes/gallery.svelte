@@ -90,13 +90,13 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img2.jpg" alt="" class="mx-auto" />
-					<p class="font-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
+					<p class="font-bold text-black mx-auto text-center">Lab of Center of CCTV Research</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img4.jpg" alt="" class="mx-auto" />
-					<p class="font-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
+					<p class="font-bold text-black mx-auto text-center">Lab of Center of CCTV Research</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
@@ -108,7 +108,7 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
-					<p class="font-bold text-black mx-auto text-center ">Important Dignitaries at Seminar</p>
+					<p class="font-bold text-black mx-auto text-center ">Innaguration of Center of CCTV Research</p>
 				</div>
 				
 				<!-- <div

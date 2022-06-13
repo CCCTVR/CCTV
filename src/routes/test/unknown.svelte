@@ -12,7 +12,8 @@
 		>
 			<img
 				src="https://media-public.canva.com/9U9-4/MAD2909U9-4/2/t.png"
-				class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 w-full " alt=""
+				class="p-2 pl-6 pr-5 xl:pl-16 xl:pr-20 w-full "
+				alt=""
 			/>
 		</div>
 
@@ -21,7 +22,7 @@
 			class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none"
 		>
 			<h2
-				class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl"
+				class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl font-poppins"
 			>
 				Rashtreeya Vidyalaya College of Engineering
 			</h2>
@@ -97,7 +98,8 @@
 		>
 			<img
 				src="https://media-public.canva.com/pAozY/MAEe6bpAozY/2/t.png"
-				class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32 w-full" alt=""
+				class="pl-4 sm:pr-10 xl:pl-10 lg:pr-32 w-full"
+				alt=""
 			/>
 		</div>
 	</div>

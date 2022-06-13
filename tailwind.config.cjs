@@ -348,7 +348,7 @@ module.exports = {
 			DEFAULT: '1'
 		},
 		fontFamily: {
-			arial: ['Arial'],
+			poppins: ['Poppins'],
 			sans: [
 				'Arial',
 				'ui-sans-serif',
