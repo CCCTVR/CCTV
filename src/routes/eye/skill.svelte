@@ -18,6 +18,11 @@
 			programmes providing hands on training in the domain of CCTV surveillance. Essentially,the
 			programme comprises of two modules which are briefly explained below.
 		</p>
+
+		<img src="/src/assets/photos/Skill Development/sd10.jpeg" alt="" class="w-[50%] h-auto rounded-md mx-auto" />
+		<p class="text-center font-medium ">Skill development activity 1</p>
+		<img src="/src/assets/photos/Skill Development/sd9.jpeg" alt="" class="w-[50%] h-[50%] rounded-md mx-auto" />
+		<p class="text-center font-medium ">Skill development activity 2</p>
 		<div class=" flex flex-nowrap space-x-2">
 			<Card
 				Title="Skill development Brochure"
