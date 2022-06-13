@@ -77,37 +77,38 @@
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img8.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Important Dignitaries Of CCTVR</p>
+					
+					<p class="font-bold text-black mx-auto text-center">Fromt right Dr K N Subramanya, Principal RVCE, Shri Sanjay Sahay Shri T Shankar, Dr. Ravindra S Kulkarni HOD Dept of Aerospace, Dr. Ramakanth Kumar P HOD Dept of Computer Science and Dr. M.K. Panduranga Setty Chancellor RVCE </p>
 				</div>
+				<div
+						class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+					>
+						<img src="/src/assets/images/img9.jpg" alt="" class="mx-auto" />
+						<p class="font-bold text-black mx-auto text-center">Shri Sanjay Sahay lighting the lamp</p>
+					</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img2.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
+					<p class="font-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img4.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
+					<p class="font-bold text-black mx-auto text-center">Important Dignitaries visiting CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img5.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Activities in CCTV lab</p>
-				</div>
-				<div
-					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
-				>
-					<img src="/src/assets/images/img9.jpg" alt="" class="mx-auto" />
-					<p class="text-bold text-black mx-auto text-center">Shri Sanjay Sahay lighting the lamp</p>
+					<p class="font-bold text-black mx-auto text-center">Activities in CCTV lab</p>
 				</div>
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
 					<img src="/src/assets/images/img11.jpg" alt="" class="mx-auto " />
-					<p class="text-bold text-black mx-auto text-center ">Important Dignitaries at Webinar</p>
+					<p class="font-bold text-black mx-auto text-center ">Important Dignitaries at Seminar</p>
 				</div>
 				
 				<!-- <div
