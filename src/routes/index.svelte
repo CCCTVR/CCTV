@@ -47,7 +47,7 @@
 				<span class="text-black-600 text-3xl font-bold">Research to Reality</span> -->
 				<img src="/src/assets/text_img.PNG" alt="text" class="w-[70%]" />
 			</div>
-			<div class="w-[100%] flex flex-row space-x-7">
+			<div class="w-[100%] flex flex-col md:flex-row space-x-7">
 				<div class="flex-1 ">
 					<div class="flex items-center  text-[1.7rem] h-full  text-blue-900 ">
 						<span class=" text-justify font-sans	">
@@ -74,7 +74,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="w-[100%] flex flex-row space-x-7 pb-2">
+			<div class="w-[100%] flex flex-col md:flex-row space-x-7 pb-2">
 				<div class="flex flex-row p-1 pt-8">
 					<div class="object-left">
 						<img src="/src/assets/stakeholders.png" alt="" class="w-[47rem] " />
@@ -144,7 +144,7 @@
 				</div>
 			</div>
 
-			<div class="bg-orange-500 mt-5">
+			<!-- <div class="bg-orange-500 mt-5">
 				<div class="flex flex-row space-x-60 items-center h-full">
 					<div class="w-[11rem] h-[11rem] px-5 py-[1rem]">
 						<img
@@ -175,6 +175,39 @@
 						/>
 					</div>
 				</div>
+			</div> -->
+
+			<div class="bg-orange-500 mt-5">
+				<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-2 mx-auto p-5">
+					<div class="w-[11rem] h-[11rem]  mx-auto">
+						<img
+							src="/src/assets/sicon1.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] mx-auto ">
+						<img
+							src="/src/assets/sicon2.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] mx-auto ">
+						<img
+							src="/src/assets/sicon3.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+					<div class="w-[11rem] h-[11rem] mx-auto ">
+						<img
+							src="/src/assets/sicon4.png"
+							alt=""
+							class="w-[100%] hover:scale-125 transition-all duration-300 ease-linear rounded-full  border-solid border-4 border-orange-500"
+						/>
+					</div>
+				</div>
 			</div>
 
 			<div class="flex justify-center mt-5 ">
@@ -191,9 +224,7 @@
 		</div>
 	</div>
 </section>
-<section>
-	
-</section>
+<section />
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');

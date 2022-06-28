@@ -2,9 +2,13 @@
 	// bg-blue-50
 	export let TeamName = 'TeamName';
 	export let TeamMembers = [
-		{ name: 'Dr K N Subramanya Principal RVCE', designation: 'ChairPerson', img: 'images/hod.PNG',link:'' }
-
-	]; 
+		{
+			name: 'Dr K N Subramanya Principal RVCE',
+			designation: 'ChairPerson',
+			img: 'images/hod.PNG',
+			link: ''
+		}
+	];
 </script>
 
 <section class="relative py-1 overflow-hidden">
@@ -16,23 +20,26 @@
 
 	<span class="absolute bottom-0 left-0" />
 
-	<div class="relative px-16 mx-auto max-w-7xl">
+	<div class="relative px-4 md:px-16 mx-auto max-w-7xl">
 		<!-- <p class="font-medium tracking-wide text-blue-500 uppercase">OUR TEAM</p> -->
-		<h2 class="relative max-w-lg mt-5 mb-10 text-4xl text-blue-900 font-sans leading-tight lg:text-5xl">
+		<h2
+			class="relative max-w-lg mt-5 mb-10 text-4xl text-blue-900 font-sans leading-tight lg:text-5xl"
+		>
 			<!--Our  <br /> -->
 			{TeamName}
 		</h2>
 
 		<div class="grid w-full grid-cols-2 gap-10 sm:grid-cols-3 lg:grid-cols-4">
-			{#each TeamMembers as { name, designation, img,link }, i}
+			{#each TeamMembers as { name, designation, img, link }, i}
 				<a href={link} target="_blank">
-					<div class="flex flex-col items-center justify-center col-span-1 hover:scale-105 transition-all duration-300 ease-linear">
+					<div
+						class="flex flex-col items-center justify-center col-span-1 hover:scale-105 transition-all duration-300 ease-linear"
+					>
 						<div class="avatar">
 							<div class="w-32 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 ">
-					
 								<img class="relative z-20 w-full rounded-full " src={img} alt=" " />
 							</div>
-						  </div>
+						</div>
 						<div class="mt-3 space-y-2 text-center">
 							<div class="space-y-1 text-base font-medium leading-6 h-20">
 								<h3 class="text-black font-bold">{name}</h3>

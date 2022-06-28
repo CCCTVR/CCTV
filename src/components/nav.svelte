@@ -9,7 +9,7 @@
 	>
 		<div class="px-[10px] w-[25%]">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo"/></a>
+			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo" /></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 
@@ -28,14 +28,15 @@
 				</svg>
 			</button>
 		</div>
-		<div>
-			<ul 
+		<div class="hidden lg:block">
+			<ul
 				class="hidden absolute top-1/2 transform -translate-y-1/2 -translate-x-1/2 lg:flex lg:mx-auto lg:items-center lg:w-auto lg:space-x-2 pl-[15px] pr-[2px]"
 			>
 				{#each navig as { name, link }}
 					<li class="">
-						<a class="py-2 px-3 text-xl  hover:text-[#0170B9] hover:underline hover:underline-offset-[2rem] hover:decoration-4 whitespace-nowrap text-gray-900 hover:ease-in-out" href={link} 
-							>{name}</a
+						<a
+							class="py-2 px-3 text-xl  hover:text-[#0170B9] hover:underline hover:underline-offset-[2rem] hover:decoration-4 whitespace-nowrap text-gray-900 hover:ease-in-out"
+							href={link}>{name}</a
 						>
 					</li>
 				{/each}
