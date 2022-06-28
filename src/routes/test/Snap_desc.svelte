@@ -1,4 +1,7 @@
 <!-- Section 1 -->
+<script>
+	
+</script>
 <section
 	class="snap-y snap-mandatory h-screen overflow-scroll bg-black text-white w-screen  "
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
