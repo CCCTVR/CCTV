@@ -27,9 +27,8 @@
 		</svg>
 	</div> -->
 	<div class="text-2xl text-black pt-1 ">
-		<!-- <h3 class="text-blue-600 font-bold text-2xl py-1">Recent webinars</h3> -->
 		<Marquee pauseOnHover={true}>
-			<p class=" px-5 text-blue-500 font-bold">Recent Webinars:</p>
+			<p class=" px-5 text-orange-500 font-bold">Recent Webinars:</p>
 
 			{#each webinars_2022 as wb}
 				<a href={wb.link} target="_blank" class="hover:text-orange-500 hover:underline ">
@@ -81,7 +80,7 @@
 					</div>
 				</div>
 				<div class="flex-1 pt-5">
-					<div class="flex items-center  text-[2.2rem] h-full text-blue-900">
+					<div class="flex items-center  text-[2.2rem] h-full text-orange-900">
 						<div class=" font-bold  text-center">
 							Multi Stakeholder Research Facility with
 							<div class="">

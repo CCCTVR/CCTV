@@ -1,6 +1,6 @@
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
-		<h2 class="text-blue-900">CCTV Articles</h2>
+		<h2 class="text-orange-900">CCTV Articles</h2>
 		<!-- make cards instead of table -->
 		<h3 class="">Hyderabad model of CCTV surveillance</h3>
 
@@ -63,7 +63,7 @@
 			>
 		</p>
 
-		<h3 class=" ">WHITE PAPERS</h3>
+		<h3 class="text-orange-900">WHITE PAPERS</h3>
 		<ul class="list-disc">
 			<li>
 				<a

@@ -8,7 +8,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900">
-		<h2 class="text-blue-900">About Center for CCTV Research</h2>
+		<h2 class="text-orange-900">About Center for CCTV Research</h2>
 
 		<img
 			src="/src/assets/photos/CCTV lab Entrance.JPG"
@@ -39,7 +39,7 @@
 			of different business entities for a project is just crude distribution of work and a
 			confident seamless consortium is required for this purpose.
 		</p>
-		<h3 class="text-blue-800">Vision</h3>
+		<h3 class="text-orange-800">Vision</h3>
 		<p>
 			An Integrated research facility to <strong>
 				bridge the gap in knowledge, practice, protocols, testing, experiments, training,

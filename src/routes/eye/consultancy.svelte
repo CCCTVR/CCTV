@@ -1,6 +1,6 @@
 <section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
-		<h2 class="text-blue-900">R&D and Consultancy</h2>
+		<h2 class="text-orange-900">R&D and Consultancy</h2>
 		<p>
 			The Center is capable of offering consultancy services to academic institutions, industries,
 			corporates, police and other Sate and Govt organisations in providing the clients a turnkey

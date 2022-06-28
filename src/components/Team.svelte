@@ -21,9 +21,8 @@
 	<span class="absolute bottom-0 left-0" />
 
 	<div class="relative px-4 md:px-16 mx-auto max-w-7xl">
-		<!-- <p class="font-medium tracking-wide text-blue-500 uppercase">OUR TEAM</p> -->
 		<h2
-			class="relative max-w-lg mt-5 mb-10 text-4xl text-blue-900 font-sans leading-tight lg:text-5xl"
+			class="relative max-w-lg mt-5 mb-10 text-4xl text-orange-900 font-sans leading-tight lg:text-5xl"
 		>
 			<!--Our  <br /> -->
 			{TeamName}

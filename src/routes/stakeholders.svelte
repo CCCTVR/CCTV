@@ -1,6 +1,6 @@
 <section class="bg-gray-100 min-h-screen flex justify-center " style="background-image: url('/src/assets/bg.png'); background-size: contain;" >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
-		<h2 class="text-blue-900">Stakeholders</h2>
+		<h2 class="text-orange-900">Stakeholders</h2>
 
 		<div class="flex flex-row">
 			<a
@@ -8,7 +8,7 @@
 				href="https://www.comsur.biz/home.html" target="_blank">
 				<img src="/src/assets/COMSUR_logo.jpeg" alt="Comsur logo" class="">
 			</a>
-			<h3 class="px-[2rem] text-blue-800">Hayagriva Software</h3>
+			<h3 class="px-[2rem] text-orange-800">Hayagriva Software</h3>
 		</div>
 		<p class="text-justify">
 			Hayagriva software is a product company based in Mumbai. Over the years, the company has
@@ -25,7 +25,7 @@
 				href="https://www.nfsu.ac.in/" target="_blank">
 				<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="">
 			</a>
-			<h3 class="px-[2rem] text-blue-800">NFSU (National Forensics Science University)</h3>
+			<h3 class="px-[2rem] text-orange-800">NFSU (National Forensics Science University)</h3>
 		</div>
 		<div class="flex justify-center">
 			<p class="text-justify">
@@ -71,7 +71,7 @@
 				href="https://www.videonetics.com/" target="_blank">
 				<img src="/src/assets/videonetics_logo.PNG" alt="videonetics logo" class="">
 			</a>
-			<h3 class="px-[2rem] text-blue-800">Videonetics Technology Private Limited</h3>
+			<h3 class="px-[2rem] text-orange-800">Videonetics Technology Private Limited</h3>
 		</div>
 		<p class="text-justify">
 			Videonetics, Unified Video Computing Platform(UVCP™) helps in making sense of surveillance, by
@@ -97,7 +97,7 @@
 				href="https://www.mistralsolutions.com/" target="_blank">
 				<img src="/src/assets/mistral_logo.PNG" alt="Mistral logo" class="">
 			</a>
-			<h3 class="px-[2rem] text-blue-800">Mistral Solutions</h3>
+			<h3 class="px-[2rem] text-orange-800">Mistral Solutions</h3>
 		</div>
 		<p class="text-justify">
 			Mistral is an eminent system engineering and product design company focused on the <strong>
@@ -132,7 +132,7 @@
 				href="https://www.mialotech.com/" target="_blank">
 				<img src="/src/assets/mialo_logo.PNG" alt="Mialo logo" class="">
 			</a>
-			<h3 class="px-[2rem] text-blue-800">Mialo Technologies Pvt. Ltd</h3>
+			<h3 class="px-[2rem] text-orange-800">Mialo Technologies Pvt. Ltd</h3>
 		</div>
 		<p class="text-justify">
 			Headquartered in the Indian Silicon Valley, the city of Bengaluru, Mialo aspires to provide
