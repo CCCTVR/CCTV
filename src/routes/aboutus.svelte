@@ -13,7 +13,7 @@ import { abt_us_desc } from '../data/data';
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900">
 		
-		<h2 class="text-orange-900">About Center for CCTV Research</h2>
+		<h2 class="text-orange-700">About Center for CCTV Research</h2>
 
 		<img
 			src="/src/assets/photos/CCTV lab Entrance.JPG"
@@ -49,7 +49,7 @@ import { abt_us_desc } from '../data/data';
 			<SnapDesc Title = {title} Description={description} img={img_link} />
 		{/each}
 
-		<h3 class="text-orange-800">Vision</h3>
+		<h3 class="text-orange-700">Vision</h3>
 		<p>
 			An Integrated research facility to <strong>
 				bridge the gap in knowledge, practice, protocols, testing, experiments, training,

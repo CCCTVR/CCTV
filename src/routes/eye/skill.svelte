@@ -7,7 +7,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
-		<h2 class="text-orange-900">Skill Development Programmes</h2>
+		<h2 class="text-orange-700">Skill Development Programmes</h2>
 		<p>
 			The country is witnessing huge number of video surveillance installations coming up and there
 			is a great need for trained manpower in this field.

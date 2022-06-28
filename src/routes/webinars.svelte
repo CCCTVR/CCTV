@@ -9,7 +9,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify">
-		<h2 class="text-orange-900">Webinars</h2>
+		<h2 class="text-orange-700">Webinars</h2>
 		<p class="text-black">
 			The Center will be organising webinars once a month and the speakers are drawn from Academic
 			Institutions, Govt. organisations and Industries. Topics for the webinars are mainly related
@@ -24,7 +24,7 @@
 		</p>
 	</article>
 	<article class="max-w-7xl mx-auto p-4">
-		<h3 class="text-orange-800 text-3xl">2021</h3>
+		<h3 class="text-orange-600 text-3xl">2021</h3>
 		<div class="">
 			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 ">
 				{#each webinars_2021 as webinar}
@@ -34,7 +34,7 @@
 				{/each}
 			</div>
 		</div>
-		<h3 class="text-orange-800 text-3xl">2022</h3>
+		<h3 class="text-orange-600 text-3xl">2022</h3>
 		<div class="mx-auto">
 			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 ">
 				{#each webinars_2022 as webinar}

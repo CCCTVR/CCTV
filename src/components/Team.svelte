@@ -22,7 +22,7 @@
 
 	<div class="relative px-4 md:px-16 mx-auto max-w-7xl">
 		<h2
-			class="relative max-w-lg mt-5 mb-10 text-4xl text-orange-900 font-sans leading-tight lg:text-5xl"
+			class="relative max-w-lg mt-5 mb-10 text-4xl text-orange-700 font-sans leading-tight lg:text-5xl"
 		>
 			<!--Our  <br /> -->
 			{TeamName}

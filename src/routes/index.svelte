@@ -80,7 +80,7 @@
 					</div>
 				</div>
 				<div class="flex-1 pt-5">
-					<div class="flex items-center  text-[2.2rem] h-full text-orange-900">
+					<div class="flex items-center  text-[2.2rem] h-full text-orange-500">
 						<div class=" font-bold  text-center">
 							Multi Stakeholder Research Facility with
 							<div class="">

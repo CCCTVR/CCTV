@@ -9,7 +9,7 @@
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify scrollbar-hide">
-		<h2 class="text-orange-800">Gallery</h2>
+		<h2 class="text-orange-700">Gallery</h2>
 
 		<!-- <div class="carousel w-full">
 			<div id="slide1" class="carousel-item relative w-full">

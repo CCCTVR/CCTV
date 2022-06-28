@@ -11,7 +11,7 @@
 
 <section class="py-24 ">
 	<div class="px-8 mx-auto max-w-7xl lg:px-16">
-		<h2 class="mb-4 text-xl font-bold md:text-4xl text-orange-900">FAQ</h2>
+		<h2 class="mb-4 text-xl font-bold md:text-4xl text-orange-700">FAQ</h2>
 		<div class="grid grid-cols-1 gap-0 text-gray-800 md:grid-cols-2 md:gap-x-16">
 			{#each qlist as { question, answer }}
 				<div>
