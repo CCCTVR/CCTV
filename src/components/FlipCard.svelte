@@ -9,7 +9,7 @@
   <div class="flip-card">
     <div class="flip-card-inner flex flex-nowrap ">
       <div class="flip-card-front border-blue-400 border-[1px] border-solid rounded-2xl content-center pt-14">
-        <h3 class="text-blue-800 ">{Title}</h3>
+        <p class="text-blue-800 text-2xl">{Title}</p>
       </div>
       <div class="flip-card-back border-[#232426] border-[1px] border-solid rounded-2xl">
         

@@ -11,7 +11,7 @@ import FlipCard from "../../components/FlipCard.svelte";
         <div class="flex justify-center">
             <div class="grid grid-cols-3 lg:grid-cols-4 gap-7">
                 {#each Internships as i }
-                    <FlipCard Title={i.title} Description={i.description} Link={i.link}/>
+                    <FlipCard Title={i.description} Description="" Link={i.link}/>
                 {/each}
             </div>
     </article>

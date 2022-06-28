@@ -19,7 +19,7 @@
 	<div class="flex justify-center">
 		<div class="grid grid-cols-3 lg:grid-cols-4 gap-7">
 			{#each expts as e }
-				<FlipCard Title={e.title} Description={e.description} Link={e.link}/>
+				<FlipCard Title={e.description} Description="" Link={e.link}/>
 			{/each}
 		</div>
 	</article>
