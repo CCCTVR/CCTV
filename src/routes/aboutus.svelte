@@ -43,9 +43,11 @@
 			confident seamless consortium is required for this purpose.
 		</p>
 
-		{#each abt_us_desc as { title, description, img_link }}
-			<SnapDesc Title={title} Description={description} img={img_link} />
-		{/each}
+		<div class="snap-y snap-mandatory overflow-scroll w-screen overflow-x-hidden">
+			{#each abt_us_desc as { title, description, img_link }}
+				<SnapDesc Title={title} Description={description} img={img_link} />
+			{/each}
+		</div>
 
 		<h3 class="text-orange-700">Vision</h3>
 		<p>
