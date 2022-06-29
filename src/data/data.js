@@ -475,5 +475,12 @@ export const media =[
 		Link:"https://indianexpress.com/article/cities/ahmedabad/amit-shah-to-visit-nfsu-in-gandhinagar-on-july-12-7398503/"
 
 	},
+	{
+		Title:"Facial recognition: ten reasons you should be worried about the technology",
+		Description:"Facial recognition technology is spreading fast. Already widespread in China, software that identifies people by comparing images of their faces against a database of records is now being adopted across much of the rest of the world.",
+		Image:"/src/assets/media/img2.jpg",
+		Link:"https://theconversation.com/facial-recognition-ten-reasons-you-should-be-worried-about-the-technology-122137"
+
+	},
 
 ];

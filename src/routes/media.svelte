@@ -12,8 +12,13 @@
 		<h2 class="text-orange-700">MEDIA</h2>
 		
 
-		{#each media as i}
+		
+		<div class=" flex flex-nowrap space-x-5">
+        
+			{#each media as i}
 			<MediaCard Title={i.Title} Description={i.Description} Image={i.Image} Link={i.Link} />
 		{/each}
+		
+		</div>
 	</article>
 </section>
