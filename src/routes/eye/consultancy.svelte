@@ -15,5 +15,7 @@
 			</strong> and also to set up a full fledged integrated command and control center for it’s
 			clients.
 		</p>
+		<h3 class="text-orange-600">Publications</h3>
+		<p> Sushma S Ankad , Shivaprasad Rai B , Dr. Azra Nasreen , Dr. Surbhi Mathur ,Dr. Ramakanth Kumar P , Dr. Sreelakshmi K, Object Size Measurement from CCTV footage using deep learning, in IEEE International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS) on 16th -18th December 2021.</p>
 	</article>
 </section>

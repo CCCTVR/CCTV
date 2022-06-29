@@ -1,5 +1,6 @@
 <script>
 	import Card from '../../components/Card.svelte';
+	import { projects } from '../../data/data';
 </script>
 
 <section
@@ -28,13 +29,11 @@
 			>
 			in an intelligent manner from live video surveillance camera feeds.
 		</p>
-		<div>
-			<Card
-				Title="Automatic Animal Detection using Neural Classifier in CCTV Surveillance"
-				Description="there is need to develop intelligent video analytics algorithms which work onthe  video  feeds  coming  from  the  CCTV  cameras  in  real  time  for  detection  of  wildanimals. On detection, alerts in the form of SMS/MMS should be sent to the security guards."
-				Link="/src/assets/projects/wildanimal.pdf"
-				/>
+		{#each projects as i }
+		<div class="py-3">
+			<Card Title={i.Title} Description={i.Description} Link = {i.Link}  />
 		</div>
+		{/each}
 	</article>
 </section>
 <!-- <iframe src="/src/assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe> -->

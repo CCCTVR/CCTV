@@ -455,3 +455,25 @@ export const abt_us_desc = [
 		img_link: '/src/assets/photos/TCE-Entrance1.JPG'
 	}
 ];
+
+export const projects =[
+	{Title:"Automatic Animal Detection using Neural Classifier in CCTV Surveillance",
+	Description:"there is need to develop intelligent video analytics algorithms which work onthe  video  feeds  coming  from  the  CCTV  cameras  in  real  time  for  detection  of  wildanimals. On detection, alerts in the form of SMS/MMS should be sent to the security guards.",
+	Link:"/src/assets/projects/wildanimal.pdf"},
+
+	{Title:"Efficient Detection of Garbage and Overflowing Street bins in CCTV Surveillance",
+	Description:"any cases have been recorded where garbage has been observed lying just like that in public places resulting in enormous inconvenience and breeding grounds for many problems",
+	Link:"/src/assets/projects/garbageoverflow.pdf"}
+
+];
+
+export const media =[
+	{
+		Title:"Amit Shah to visit NFSU in Gandhinagar on July 12",
+		Description:"Shah who will spend about two hours at NFSU, where he is expected to visit the Cyber Defence Centre and witness the functioning of the indigenous Brain Electrical Oscillations Signature (BEOS) profiling system within the university campus.",
+		Image:"/src/assets/media/amit-nfsu.jpg",
+		Link:"https://indianexpress.com/article/cities/ahmedabad/amit-shah-to-visit-nfsu-in-gandhinagar-on-july-12-7398503/"
+
+	},
+
+];

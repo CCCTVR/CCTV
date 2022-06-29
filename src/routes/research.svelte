@@ -22,5 +22,8 @@
 			Application areas will cover traffic management, public safety, law enforcement, environment,
 			video forensics and health care.
 		</p>
+		<h3 class="text-orange-600">Publications</h3>
+		<p> Sushma S Ankad , Shivaprasad Rai B , Dr. Azra Nasreen , Dr. Surbhi Mathur ,Dr. Ramakanth Kumar P , Dr. Sreelakshmi K, Object Size Measurement from CCTV footage using deep learning, in IEEE International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS) on 16th -18th December 2021.</p>
 	</article>
+
 </section>
