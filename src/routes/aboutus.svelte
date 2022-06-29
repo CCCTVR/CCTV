@@ -1,10 +1,9 @@
 <script>
-import SnapDesc from '../components/Snap_desc.svelte';
-import { abt_us_desc } from '../data/data';
+	import SnapDesc from '../components/Snap_desc.svelte';
+	import { abt_us_desc } from '../data/data';
 
 	import Marquee from 'svelte-fast-marquee';
 	import Card from '../components/Card.svelte';
-
 </script>
 
 <section
@@ -12,7 +11,6 @@ import { abt_us_desc } from '../data/data';
 	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900">
-		
 		<h2 class="text-orange-700">About Center for CCTV Research</h2>
 
 		<img
@@ -45,8 +43,8 @@ import { abt_us_desc } from '../data/data';
 			confident seamless consortium is required for this purpose.
 		</p>
 
-		{#each abt_us_desc as { title, description,img_link }}
-			<SnapDesc Title = {title} Description={description} img={img_link} />
+		{#each abt_us_desc as { title, description, img_link }}
+			<SnapDesc Title={title} Description={description} img={img_link} />
 		{/each}
 
 		<h3 class="text-orange-700">Vision</h3>
