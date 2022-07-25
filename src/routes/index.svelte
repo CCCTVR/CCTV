@@ -26,7 +26,7 @@
 			<polygon fill="currentColor" points="0 10 10 0 10 10" />
 		</svg>
 	</div> -->
-	<div class="text-2xl text-black pt-1 ">
+	<div class="text-2xl text-black pt-4 ">
 		<Marquee pauseOnHover={true}>
 			<p class=" px-5 text-orange-500 font-bold">Recent Webinars:</p>
 
