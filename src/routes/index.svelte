@@ -90,6 +90,7 @@
 									<span>Videonetics Technology</span>
 									<span>Mistral Solutions</span>
 									<span>Mialo Technologies</span>
+									<span>TechConPro</span>
 								</Typewriter>
 							</div>
 							<div class="flex flex-row pt-[2rem]">

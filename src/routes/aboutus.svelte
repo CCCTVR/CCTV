@@ -18,7 +18,7 @@
 			alt=""
 			class="md:w-[50%] h-auto rounded-md mx-auto pb-0	"
 		/>
-		<p class="text-center font-medium ">The Center for Cctv Research</p>
+		<p class="text-center font-bold">The Center for CCTV Research</p>
 		<p class="py-3">
 			The Center for CCTV Research, located at Bengaluru’s prestigious RV College of Engineering
 			campus has been created with the intention of being the catalyst to bridge the wide gap
@@ -32,7 +32,7 @@
 		</p>
 
 		<img src="/src/assets/photos/cctv 2.jpg" alt="" class="md:w-[50%] h-auto rounded-md mx-auto" />
-		<p class="text-center font-medium ">Lab Activities</p>
+		<p class="text-center font-bold">Lab Activities</p>
 		<p>
 			The research, business and the interregnum (the connect between the two) have never happened
 			anywhere. They have always operated in silos and this has always remained the biggest pain
@@ -43,11 +43,11 @@
 			confident seamless consortium is required for this purpose.
 		</p>
 
-		<div class="snap-y snap-mandatory overflow-scroll w-screen overflow-x-hidden">
+		<!-- <div class="snap-y snap-mandatory overflow-scroll w-screen overflow-x-hidden">
 			{#each abt_us_desc as { title, description, img_link }}
 				<SnapDesc Title={title} Description={description} img={img_link} />
 			{/each}
-		</div>
+		</div> -->
 
 		<h3 class="text-orange-700">Vision</h3>
 		<p>
