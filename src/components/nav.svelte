@@ -9,7 +9,7 @@
 	>
 		<div class="px-[10px] w-[25%]">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo" /></a>
+			<a href="/"><img src="/static/assets/cctv_logo_1.png" alt="logo" /></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 

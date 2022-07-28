@@ -6,7 +6,7 @@
 	console.log(teams);
 </script>
 
-<section class="bg-gray-100 min-h-screen" style="background-image: url('/src/assets/bg.png'); background-size: contain;">
+<section class="bg-gray-100 min-h-screen" style="background-image: url('/static/assets/bg.png'); background-size: contain;">
 	{#each teams as { TeamName, TeamMembers }}
 		<Team {TeamMembers} {TeamName}   />
 	{/each}

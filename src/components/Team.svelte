@@ -5,7 +5,7 @@
 		{
 			name: 'Dr K N Subramanya Principal RVCE',
 			designation: 'ChairPerson',
-			img: 'images/hod.PNG',
+			img: '/static/assets/images/hod.PNG',
 			link: ''
 		}
 	];

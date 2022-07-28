@@ -8,13 +8,13 @@
 
 <section
 	class="bg-gray-100 min-h-screen"
-	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+	style="background-image: url('/static/assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900">
 		<h2 class="text-orange-700">About Center for CCTV Research</h2>
 
 		<img
-			src="/src/assets/photos/CCTV lab Entrance.JPG"
+			src="/static/assets/photos/CCTV lab Entrance.JPG"
 			alt=""
 			class="md:w-[50%] h-auto rounded-md mx-auto pb-0	"
 		/>
@@ -31,7 +31,7 @@
 			manifestation of this dream.
 		</p>
 
-		<img src="/src/assets/photos/cctv 2.jpg" alt="" class="md:w-[50%] h-auto rounded-md mx-auto" />
+		<img src="/static/assets/photos/cctv 2.jpg" alt="" class="md:w-[50%] h-auto rounded-md mx-auto" />
 		<p class="text-center font-bold">Lab Activities</p>
 		<p>
 			The research, business and the interregnum (the connect between the two) have never happened

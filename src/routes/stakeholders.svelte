@@ -1,4 +1,4 @@
-<section class="bg-gray-100 min-h-screen flex justify-center " style="background-image: url('/src/assets/bg.png'); background-size: contain;" >
+<section class="bg-gray-100 min-h-screen flex justify-center " style="background-image: url('/static/assets/bg.png'); background-size: contain;" >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h2 class="text-orange-700">Stakeholders</h2>
 
@@ -6,7 +6,7 @@
 			<a
 				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
 				href="https://www.comsur.biz/home.html" target="_blank">
-				<img src="/src/assets/COMSUR_logo.jpeg" alt="Comsur logo" class="">
+				<img src="/static/assets/COMSUR_logo.jpeg" alt="Comsur logo" class="">
 			</a>
 			<h3 class="px-[2rem] text-orange-600">Hayagriva Software</h3>
 		</div>
@@ -23,7 +23,7 @@
 			<a
 				class="px-[2rem] w-[20%] shadow-lg hover:scale-105 transition-all duration-300"
 				href="https://www.nfsu.ac.in/" target="_blank">
-				<img src="/src/assets/NFSU_logo.png" alt="NFSU logo" class="">
+				<img src="/static/assets/NFSU_logo.png" alt="NFSU logo" class="">
 			</a>
 			<h3 class="px-[2rem] text-orange-600">NFSU (National Forensics Science University)</h3>
 		</div>
@@ -69,7 +69,7 @@
 			<a
 				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
 				href="https://www.videonetics.com/" target="_blank">
-				<img src="/src/assets/videonetics_logo.PNG" alt="videonetics logo" class="">
+				<img src="/static/assets/videonetics_logo.PNG" alt="videonetics logo" class="">
 			</a>
 			<h3 class="px-[2rem] text-orange-600">Videonetics Technology Private Limited</h3>
 		</div>
@@ -95,7 +95,7 @@
 			<a
 				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
 				href="https://www.mistralsolutions.com/" target="_blank">
-				<img src="/src/assets/mistral_logo.PNG" alt="Mistral logo" class="">
+				<img src="/static/assets/mistral_logo.PNG" alt="Mistral logo" class="">
 			</a>
 			<h3 class="px-[2rem] text-orange-600">Mistral Solutions</h3>
 		</div>
@@ -130,7 +130,7 @@
 			<a
 				class="px-[2rem] w-[15%] shadow-sm hover:scale-105 transition-all duration-300"
 				href="https://www.mialotech.com/" target="_blank">
-				<img src="/src/assets/mialo_logo.PNG" alt="Mialo logo" class="">
+				<img src="/static/assets/mialo_logo.PNG" alt="Mialo logo" class="">
 			</a>
 			<h3 class="px-[2rem] text-orange-600">Mialo Technologies Pvt. Ltd</h3>
 		</div>

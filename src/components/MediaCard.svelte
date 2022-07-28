@@ -1,7 +1,7 @@
 <script>
 	export let Title = 'Title';
 	export let Description = 'Description';
-	export let Image = 'images/media1.jpg';
+	export let Image = '/static/assets/images/media1.jpg';
 	export let Link = ''
 </script>
 
