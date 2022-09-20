@@ -5,7 +5,7 @@
 
 <section
 	class="bg-gray-100 min-h-screen"
-	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+	style="background-image: url('assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h2 class="text-orange-700">Projects</h2>
@@ -29,11 +29,11 @@
 			>
 			in an intelligent manner from live video surveillance camera feeds.
 		</p>
-		{#each projects as i }
-		<div class="py-3">
-			<Card Title={i.Title} Description={i.Description} Link = {i.Link}  />
-		</div>
+		{#each projects as i}
+			<div class="py-3">
+				<Card Title={i.Title} Description={i.Description} Link={i.Link} />
+			</div>
 		{/each}
 	</article>
 </section>
-<!-- <iframe src="/src/assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe> -->
+<!-- <iframe src="assets/projects/wildanimal.pdf"  title="Animals" class="w-[50%] h-[75%]"></iframe> -->

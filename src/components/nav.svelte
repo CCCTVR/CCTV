@@ -9,7 +9,7 @@
 	>
 		<div class="px-[10px] w-[25%]">
 			<!-- <span>LOGO CCTV </span> -->
-			<a href="/"><img src="/src/assets/cctv_logo_1.png" alt="logo" /></a>
+			<a href="/"><img src="assets/cctv_logo_1.png" alt="logo" /></a>
 			<!-- <span class="lg:hidden">LOGO RVCE</span> -->
 		</div>
 
@@ -64,7 +64,7 @@
 			href="#">Contact Us</a
 		> -->
 		<div class="hidden lg:block">
-			<!-- <a href="https://rvce.edu.in/"><img class="w-[6.5rem]" src="/src/assets/rvce_logo.png" alt="rvce_logo" /></a> -->
+			<!-- <a href="https://rvce.edu.in/"><img class="w-[6.5rem]" src="assets/rvce_logo.png" alt="rvce_logo" /></a> -->
 		</div>
 	</nav>
 

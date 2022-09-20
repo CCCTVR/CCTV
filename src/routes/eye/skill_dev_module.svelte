@@ -1,6 +1,6 @@
 <section
 	class="bg-gray-100 min-h-screen"
-	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+	style="background-image: url('assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify text-gray-900">
 		<h3 class="text-orange-700">Module 1</h3>
@@ -24,7 +24,7 @@
 			systems and a candidate can choose to become an expert on any of these tools which are
 			explained below in brief.
 		</p>
-        <h3 class="text-orange-700">Comsur</h3>
+		<h3 class="text-orange-700">Comsur</h3>
 		<p>
 			This is a tool to carry out <strong>
 				auditing of video footages from live camera feeds, Video quality enhancement , automatic

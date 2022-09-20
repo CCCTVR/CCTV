@@ -1,10 +1,10 @@
 <!-- Section 1 -->
 <script>
-	
 </script>
+
 <section
 	class="snap-y snap-mandatory h-screen overflow-scroll bg-black text-white w-screen  "
-	style="background-image: url('/src/assets/bg.png'); background-size: contain;"
+	style="background-image: url('assets/bg.png'); background-size: contain;"
 >
 	<div
 		class="h-screen snap-start box-border flex flex-col items-center content-center px-8 mx-auto leading-6 text-black border-0 border-gray-300 border-solid md:flex-row max-w-7xl lg:px-16"
