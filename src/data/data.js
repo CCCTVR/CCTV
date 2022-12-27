@@ -96,13 +96,13 @@ export const teams = [
 			{
 				name: 'Dr. Ramakanth K P',
 				designation: 'Center Head, CCCTVR',
-				img: 'src/assets/cctv_team/hod.PNG',
+				img: 'assets/cctv_team/hod.PNG',
 				link: 'https://rvce.edu.in//ise-rmp-it'
 			},
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
-				img: 'src/assets/cctv_team/shankar.jpg',
+				img: 'assets/cctv_team/shankar.jpg',
 				link: 'https://www.csa.iisc.ac.in/people/shankar-t/'
 			},
 			{
@@ -131,13 +131,13 @@ export const teams = [
 			{
 				name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/GautamDGoradia.jpg',
+				img: 'assets/cctv_team/GautamDGoradia.jpg',
 				link: 'https://in.linkedin.com/in/gautamgoradia'
 			},
 			{
 				name: 'Mr. Avinash Trivedi, Videonetics',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
+				img: 'assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
 				link: 'https://in.linkedin.com/in/avinashtrivedivideonetics'
 			},
 			{
@@ -154,13 +154,13 @@ export const teams = [
 			{
 				name: 'Dr. Surbhi Mathur, NFSU',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Dr.Surbhi Mathur.jpg',
+				img: 'assets/cctv_team/Dr.Surbhi Mathur.jpg',
 				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
 				name: 'Dr. Hemavathy R, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/R HEMAVATHY.jpg',
+				img: 'assets/cctv_team/R HEMAVATHY.jpg',
 				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
@@ -172,13 +172,13 @@ export const teams = [
 			{
 				name: 'Ms. Neethu S, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Neethu S - Copy.jpg',
+				img: 'assets/cctv_team/Neethu S - Copy.jpg',
 				link: 'https://rvce.edu.in/tc-neethu'
 			},
 			{
 				name: 'Dr. Poornima Kulkarni, RVCE',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Poornima Kulkarni.jpg',
+				img: 'assets/cctv_team/Poornima Kulkarni.jpg',
 				link: 'https://rvce.edu.in/ise-pk'
 			}
 		]
@@ -189,7 +189,7 @@ export const teams = [
 			{
 				name: 'Mr. Ravikumar Koppal',
 				designation: 'Member',
-				img: 'src/assets/cctv_team/Ravi Kumar C Koppal.jpg',
+				img: 'assets/cctv_team/Ravi Kumar C Koppal.jpg',
 				link: 'https://in.linkedin.com/in/ravi-kumar-c-koppal-72617714'
 			},
 			{
@@ -347,7 +347,7 @@ export const webinars_2021 = [
 			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
 			'Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
+		link: 'assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
@@ -361,7 +361,7 @@ export const webinars_2021 = [
 			'Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai',
 			'Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
+		link: 'assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2021/web2_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2021/web2_sp2.jpg', id: 2 }
@@ -377,7 +377,7 @@ export const webinars_2022 = [
 			'Speaker Dr. Tinku Acharya Founder& Managing Director Videonetics',
 			'Moderator Neethu S Assistant Professor, Department of TE RVCE, Bengaluru'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
+		link: 'assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2022/web1_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2022/web1_sp2.jpg', id: 2 }
@@ -390,7 +390,7 @@ export const webinars_2022 = [
 			'Speaker Shri. Samir Datt Founder & CEO ForensicsGuru',
 			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
+		link: 'assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2022/web2_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2022/web2_sp2.jpg', id: 2 }
@@ -403,7 +403,7 @@ export const webinars_2022 = [
 			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University',
 			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
+		link: 'assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
@@ -416,7 +416,7 @@ export const webinars_2022 = [
 			'Speaker Dr. Neeta Trivedi Founder & CEO Inferigence Quotient, Bengaluru',
 			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
 		],
-		link: 'src/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
+		link: 'assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
