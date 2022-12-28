@@ -295,47 +295,47 @@ export const expts = [
 	{
 		title: 'Experiment 1',
 		description: 'To estimate the horizontal Field of View of the camera.',
-		link: 'assets/Expreriments/first_expt_mca.pdf'
+		link: '/assets/Expreriments/first_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 2',
 		description: 'To measure the depth of focus of a camera.',
-		link: 'assets/Expreriments/second_expt_mca.pdf'
+		link: '/assets/Expreriments/second_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 3',
 		description: 'To find camera’s sensitivity to different light intensity levels',
-		link: 'assets/Expreriments/third_expt_mca.pdf'
+		link: '/assets/Expreriments/third_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 4',
 		description: 'To find the best image settings to get good natural colour image.',
-		link: 'assets/Expreriments/fourth_expt.pdf'
+		link: '/assets/Expreriments/fourth_expt.pdf'
 	},
 	{
 		title: 'Experiment 5',
 		description: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
-		link: 'assets/Expreriments/fifth_expt.pdf'
+		link: '/assets/Expreriments/fifth_expt.pdf'
 	},
 	{
 		title: 'Experiment 6',
 		description: 'To find which resolution yields good image clarity/details',
-		link: 'assets/Expreriments/sixth_expt.pdf'
+		link: '/assets/Expreriments/sixth_expt.pdf'
 	},
 	{
 		title: 'Experiment 7',
 		description: 'Setting up of an Analog Surveillance System',
-		link: 'assets/Expreriments/setup_analog_cctv.pdf'
+		link: '/assets/Expreriments/setup_analog_cctv.pdf'
 	},
 	{
 		title: 'Experiment 8',
 		description: 'Experiments on DVR based CCTV Camera',
-		link: 'assets/Expreriments/dvr.pdf'
+		link: '/assets/Expreriments/dvr.pdf'
 	},
 	{
 		title: 'Experiment 9',
 		description: 'Getting Started with COM-SUR',
-		link: 'assets/Expreriments/comsur_expt_setup.pdf'
+		link: '/assets/Expreriments/comsur_expt_setup.pdf'
 	}
 ];
 
