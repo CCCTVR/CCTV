@@ -8,7 +8,7 @@
 			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
 			'Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research'
 		],
-		link: 'src/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
+		link: 'assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },

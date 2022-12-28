@@ -26,7 +26,19 @@
 			<polygon fill="currentColor" points="0 10 10 0 10 10" />
 		</svg>
 	</div> -->
-	<div class="text-2xl text-black pt-4 ">
+	<div class="text-2xl text-black pt-4  md:invisible">
+		<Marquee pauseOnHover={true} speed={30}>
+			<p class=" px-5 text-orange-500 font-bold">Recent Webinars:</p>
+
+			{#each webinars_2022 as wb}
+				<a href={wb.link} target="_blank" class="hover:text-orange-500 hover:underline ">
+					<p class="px-5 ">{wb.title}</p>
+				</a>
+			{/each}
+			<p class="px-5" />
+		</Marquee>
+	</div>
+	<div class="text-2xl text-black pt-4  invisible md:visible">
 		<Marquee pauseOnHover={true}>
 			<p class=" px-5 text-orange-500 font-bold">Recent Webinars:</p>
 

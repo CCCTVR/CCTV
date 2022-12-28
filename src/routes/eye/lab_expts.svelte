@@ -11,21 +11,14 @@
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-justify">
 		<h2 class="text-orange-700">Lab Experiments</h2>
 
-		<!-- OLD CARD -->
-		<!-- <div class="flex justify-center">
-			<div class="grid grid-cols-3 lg:grid-cols-4 gap-4">
-				{#each expts as e }
-					<Card Title={e.title} Description={e.description} Link={e.link}/>
-				{/each}
-			</div>
-	</div> -->
-
-		<div class="flex justify-center">
-			<div class="grid grid-cols-3 lg:grid-cols-4 gap-7">
-				{#each expts as e}
+		<div class="flex justify-center flex-wrap gap-7">
+			<!-- <div class="grid grid-cols-3 lg:grid-cols-4 gap-7"> -->
+			{#each expts as e}
+				<div>
 					<FlipCard Title={e.description} Description="" Link={e.link} />
-				{/each}
-			</div>
+				</div>
+			{/each}
+			<!-- </div> -->
 		</div>
 	</article>
 </section>
