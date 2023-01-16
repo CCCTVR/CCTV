@@ -349,9 +349,9 @@ export const webinars_2021 = [
 		],
 		link: 'assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
-			{ img: 'assets/webinar_speakers2021/web1_sp3.jpg', id: 3 }
+			{ img: '/assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
+			{ img: '/assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
+			{ img: '/assets/webinar_speakers2021/web1_sp3.jpg', id: 3 }
 		],
 		id: 20211
 	},
@@ -361,7 +361,7 @@ export const webinars_2021 = [
 			'Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai',
 			'Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru'
 		],
-		link: 'assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
+		link: '/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
 		speaker_img: [
 			{ img: 'assets/webinar_speakers2021/web2_sp1.jpg', id: 1 },
 			{ img: 'assets/webinar_speakers2021/web2_sp2.jpg', id: 2 }
@@ -405,8 +405,8 @@ export const webinars_2022 = [
 		],
 		link: 'assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
+			{ img: '/assets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
+			{ img: '/assets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
 		],
 		id: 20223
 	},
@@ -418,8 +418,8 @@ export const webinars_2022 = [
 		],
 		link: 'assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
+			{ img: '/assets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
+			{ img: '/assets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
 		],
 		id: 20224
 	}
@@ -429,7 +429,7 @@ export const Internships = [
 	{
 		title: 'Internship 1',
 		description: 'Industry Certified Internship for Engineering Students (UG/ PG) - 2021',
-		link: 'assets/Posters/Internships/final_internship.pdf'
+		link: '/assets/Posters/Internships/final_internship.pdf'
 	}
 ];
 
@@ -438,7 +438,7 @@ export const abt_us_desc = [
 		title: 'Rashtreeya Vidyalaya College of Engineering',
 		description:
 			'Established in 1963, RVCE has 13 departments in engineering, one school in architecture, and a Master of Computer Applications department. It is affiliated to the Visvesvaraya Technological University, Belgaum. The undergraduate courses are granted academic autonomy by the university. RVCE is accredited by the All India Council for Technical Education and all its departments are accredited by the National Board of Accreditation. The college is managed by the Rashtreeya Shikshana Samiti Trust.',
-		img_link: 'assets/photos/Admin 2.jpg'
+		img_link: '/assets/photos/Admin 2.jpg'
 	},
 	{
 		title: 'Computer Science and Engineering',
@@ -465,14 +465,14 @@ export const projects = [
 		Title: 'Automatic Animal Detection using Neural Classifier in CCTV Surveillance',
 		Description:
 			'there is need to develop intelligent video analytics algorithms which work onthe  video  feeds  coming  from  the  CCTV  cameras  in  real  time  for  detection  of  wildanimals. On detection, alerts in the form of SMS/MMS should be sent to the security guards.',
-		Link: 'assets/projects/wildanimal.pdf'
+		Link: '/assets/projects/wildanimal.pdf'
 	},
 
 	{
 		Title: 'Efficient Detection of Garbage and Overflowing Street bins in CCTV Surveillance',
 		Description:
 			'any cases have been recorded where garbage has been observed lying just like that in public places resulting in enormous inconvenience and breeding grounds for many problems',
-		Link: 'assets/projects/garbageoverflow.pdf'
+		Link: '/assets/projects/garbageoverflow.pdf'
 	}
 ];
 
@@ -492,3 +492,24 @@ export const media = [
 		Link: 'https://theconversation.com/facial-recognition-ten-reasons-you-should-be-worried-about-the-technology-122137'
 	}
 ];
+
+export const certificates = [
+	{
+		Title:"Certification Course Brochure",
+				Description:"5-DAYS CERTIFICATION COURSE ON AN OVERVIEW OF VIDEO SURVEILLANCE SYSTEMS",
+				
+				Link:"/assets/Posters/Certification_course/FinalB19A.pdf"
+	}
+]
+
+export const skills = [
+	{
+		Title:"Skill development Brochure",
+		Description:"Topics that will be covered are basics of analog and IP cameras, Digital Video Recorders (DVR), Network Video Recorders (NVR), storage, networking, (wired and wireless) power and data cabling, central monitoring station",
+		Link:"/assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf",
+		know_more_link:"/eye/skill_dev_module"
+	}
+
+]
+
+

@@ -1,5 +1,6 @@
 <script>
 	import Card from '../../components/Card.svelte';
+	import { certificates } from '../../data/data'
 </script>
 
 <section
@@ -13,14 +14,13 @@
 			systems" from 30th August to 3rd Sept 2021.
 		</p>
 		<div class=" flex flex-nowrap space-x-2">
-			<Card
-				Title="Certification Course Brochure"
-				Description="5-DAYS CERTIFICATION COURSE
-				ON
-				AN OVERVIEW OF VIDEO
-				SURVEILLANCE SYSTEMS"
-				Link="assets/Posters/Certification_course/FinalBrochure19thAug2021.pdf	"
-			/>
+			{#each certificates as c}
+				<Card 
+				Title={c.Title}
+				Description = {c.Description}
+				Link = {c.Link}
+				/>
+			{/each}
 		</div>
 		<!-- <p>The program schedule is given below.</p> -->
 		<!-- <a href="http://ccctvr.org/tentative_schedule_5day_course.pdf" class="text-blue-800 no-underline hover:underline">

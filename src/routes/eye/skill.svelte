@@ -1,5 +1,7 @@
 <script>
+	import CardKnowMore from '../../components/Card_know_more.svelte';
 	import Card_know_more from '../../components/Card_know_more.svelte';
+	import { skills } from '../../data/data';
 </script>
 
 <section
@@ -13,16 +15,16 @@
 			is a great need for trained manpower in this field.
 		</p>
 		<div class=" flex flex-nowrap space-x-2">
+			{#each skills as s }
 			<Card_know_more
-				Title="Skill development Brochure"
-				Description="Topics that will be covered are basics of analog
-			and IP cameras, Digital Video Recorders (DVR),
-			Network Video Recorders (NVR), storage,
-			networking, (wired and wireless) power and data
-			cabling, central monitoring station"
-				Link="assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf"
-				know_more_link="/eye/skill_dev_module"
+			Title={s.Title}
+			Description={s.Description}
+			Link={s.Link}
+			know_more_link={s.know_more_link}
 			/>
+			{/each}
+			
+			
 		</div>
 		<p>CCTV system integrators are not able to train them and put them on the field.</p>
 		<p>
@@ -32,7 +34,7 @@
 		</p>
 
 		<img
-			src="assets/photos/Skill Development/sd10.jpeg"
+			src="/assets/photos/Skill Development/sd10.jpeg"
 			alt=""
 			class="w-[50%] h-auto rounded-md mx-auto"
 		/>
@@ -40,7 +42,7 @@
 			Session 1 of Skill development programme: CCTV installation and maintainence
 		</p>
 		<img
-			src="assets/photos/Skill Development/sd9.jpeg"
+			src="/assets/photos/Skill Development/sd9.jpeg"
 			alt=""
 			class="w-[50%] h-[50%] rounded-md mx-auto"
 		/>
