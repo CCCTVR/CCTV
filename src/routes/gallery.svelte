@@ -66,6 +66,9 @@
 			  </div>
 		</div> -->
 		<div class="mx-auto">
+			<span class="text-black text-lg justify-center"> 
+				Use arrow keys to move
+			</span>
 			<div class="snap-x mx-auto snap-mandatory h-screen flex   overflow-x-scroll scrollbar-hide">
 				<div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
@@ -129,6 +132,7 @@
 					<p class="text-bold text-black mx-auto text-center">CCTV research lab</p>
 				</div> -->
 			</div>
+			
 		</div>
 	</article>
 </section>
