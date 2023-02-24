@@ -53,7 +53,7 @@
 	</div>
 	<div>
 		<span class="footer-title">Email</span>
-		<p><a class="link link-hover" href="mailto:contact@ccctvr.org">contact@ccctvr.org</a></p>
+		<p><a class="link link-hover" href="mailto:ccctvresearch@gmail.com">ccctvresearch@gmail.com</a></p>
 	</div>
 	<div>
 		<span class="footer-title">Contact</span>
