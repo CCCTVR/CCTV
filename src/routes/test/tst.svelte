@@ -25,8 +25,8 @@
 	<div class="py-2 lg:py-5 bg-gray-50 radius-for-skewed">
 		<div class="container mx-auto px-4">
 			<div class="mb-16 mx-auto text-center">
-				<h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2>
-				<span class="text-orange-600 text-3xl font-bold">Research to Reality</span>
+				<h2 class="text-4xl md:text-5xl font-bold">Center for Computer Vision Research</h2>
+				<span class="text-orange-600 text-3xl font-bold">Next Generation AI Enabled</span>
 			</div>
 
 			<div class="flex flex-wrap -mx-4">

@@ -1,7 +1,7 @@
 <footer class="footer p-10 bg-base-200 text-base-content">
 	<div class="pt-[2rem]">
 		<!-- <img class="w-[20%]" src="assets/CCTV_eye.jpeg" alt="CCTVR logo"/> -->
-		<p>CENTER FOR CCTV RESEARCH<br />Research to Reality</p>
+		<p>CENTER FOR COMPUTER VISION RESEARCH<br />Next Generation AI Enabled</p>
 		<div class="grid grid-flow-col gap-4">
 			<a href="https://twitter.com/?lang=en" target="_blank"
 				><svg
@@ -45,7 +45,7 @@
 	<div>
 		<span class="footer-title">Address</span>
 		<div class="">
-			<p class="">CENTER FOR CCTV RESEARCH</p>
+			<p class="">CENTER FOR COMPUTER VISION RESEARCH</p>
 			<p>RV COLLEGE OF ENGINEERING CAMPUS</p>
 			<p>Mysore Road, RV Vidyaniketan, Post</p>
 			<p>Bengaluru, Karnataka 560059</p>

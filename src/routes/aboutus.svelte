@@ -11,16 +11,16 @@
 	style="background-image: url('assets/bg.png'); background-size: contain;"
 >
 	<article class="prose-base lg:prose-xl max-w-7xl mx-auto p-4 text-gray-900">
-		<h2 class="text-orange-700">About Center for CCTV Research</h2>
+		<h2 class="text-orange-700">About Center for Computer Vision Research</h2>
 
 		<img
 			src="assets/photos/CCTV lab Entrance.JPG"
 			alt=""
 			class="md:w-[50%] h-auto rounded-md mx-auto pb-0	"
 		/>
-		<p class="text-center font-bold">The Center for CCTV Research</p>
+		<p class="text-center font-bold">The Center for Computer Vision Research</p>
 		<p class="py-3">
-			The Center for CCTV Research, located at Bengaluru’s prestigious RV College of Engineering
+			The Center for Computer Vision Research, located at Bengaluru’s prestigious RV College of Engineering
 			campus has been created with the intention of being the catalyst to bridge the wide gap
 			between the industry and creation & execution of humongous CCTV projects in the country. The
 			Center aims to fulfill the gap of knowledge, practice, protocols, testing, experiments,

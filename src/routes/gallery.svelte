@@ -75,7 +75,7 @@
 				>
 					<img src="assets/images/img1.jpg" alt="" class="mx-auto" />
 					<p class="font-bold text-black mx-auto text-center ">
-						Inaguration of the Center for CCTV Research, 4th February, 2021 by the Chief Guest Dr.
+						Inaguration of the Center for Computer Vision Research, 4th February, 2021 by the Chief Guest Dr.
 						M.K Panduranga Setty
 					</p>
 				</div>

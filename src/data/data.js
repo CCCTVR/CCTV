@@ -152,34 +152,28 @@ export const teams = [
 		TeamName: 'Academia Team',
 		TeamMembers: [
 			{
-				name: 'Dr. Surbhi Mathur, NFSU',
+				name: 'Dr. Pratiba D, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Dr.Surbhi Mathur.jpg',
+				img: 'assets/cctv_team/default.png',
 				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
-				name: 'Dr. Hemavathy R, RVCE',
+				name: 'Dr. Pavithra H, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/R HEMAVATHY.jpg',
+				img: 'assets/cctv_team/default.png',
 				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
-				name: 'Dr. Nagraj Bhat, RVCE',
+				name: 'Dr. Mohana, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Nagaraj_Bhat.png',
+				img: 'assets/cctv_team/default.png',
 				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
-				name: 'Ms. Neethu S, RVCE',
+				name: 'Dr. Veena Devi (ECE), RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Neethu S - Copy.jpg',
+				img: 'assets/cctv_team/default.png',
 				link: 'https://rvce.edu.in/tc-neethu'
-			},
-			{
-				name: 'Dr. Poornima Kulkarni, RVCE',
-				designation: 'Member',
-				img: 'assets/cctv_team/Poornima Kulkarni.jpg',
-				link: 'https://rvce.edu.in/ise-pk'
 			}
 		]
 	},
@@ -343,9 +337,9 @@ export const webinars_2021 = [
 	{
 		title: 'Forensic Analysis of CCTV/Video evidence',
 		description: [
-			'Talk 1: Objectives of Center for CCTV Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for CCTV Research',
+			'Talk 1: Objectives of Center for Computer Vision Research Sanjay Sahay, IPS (Retd.) Founder & Mentor Center for Computer Vision Research',
 			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
-			'Moderator Ms. Rashmi H. Coordinator, Center for CCTV Research'
+			'Moderator Ms. Rashmi H. Coordinator, Center for Computer Vision Research'
 		],
 		link: 'assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [

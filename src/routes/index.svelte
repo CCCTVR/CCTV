@@ -54,8 +54,8 @@
 	<div class="py-2 lg:py-5  radius-for-skewed">
 		<div class="container mx-auto px-5">
 			<div class="mb-7 mx-auto flex justify-center">
-				<!-- <h2 class="text-4xl md:text-5xl font-bold">Center for CCTV Research</h2> bg gray
-				<span class="text-black-600 text-3xl font-bold">Research to Reality</span> -->
+				<!-- <h2 class="text-4xl md:text-5xl font-bold">Center for Computer Vision Research</h2> bg gray
+				<span class="text-black-600 text-3xl font-bold">Next Generation AI Enabled</span> -->
 				<img src="assets/text_img.PNG" alt="text" class="w-[70%]" />
 			</div>
 			<div class="w-[100%] flex flex-col md:flex-row space-x-7">
