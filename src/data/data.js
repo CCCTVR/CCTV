@@ -152,28 +152,64 @@ export const teams = [
 		TeamName: 'Academia Team',
 		TeamMembers: [
 			{
+				name: 'Dr. Surbhi Mathur, NFSU',
+				designation: 'Member',
+				img: 'assets/cctv_team/Dr.Surbhi Mathur.jpg',
+				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
+			},
+			{
+				name: 'Dr. Hemavathy R, RVCE',
+				designation: 'Member',
+				img: 'assets/cctv_team/R HEMAVATHY.jpg',
+				link: 'https://rvce.edu.in/cs-hemavathy'
+			},
+			{
+				name: 'Dr. Nagraj Bhat, RVCE',
+				designation: 'Member',
+				img: 'assets/cctv_team/Nagaraj_Bhat.png',
+				link: 'https://rvce.edu.in/ec-nagarajbhat'
+			},
+			{
+				name: 'Ms. Neethu S, RVCE',
+				designation: 'Member',
+				img: 'assets/cctv_team/Neethu S - Copy.jpg',
+				link: 'https://rvce.edu.in/tc-neethu'
+			},
+			{
+				name: 'Dr. Poornima Kulkarni, RVCE',
+				designation: 'Member',
+				img: 'assets/cctv_team/Poornima Kulkarni.jpg',
+				link: 'https://rvce.edu.in/ise-pk'
+			},
+			{
 				name: 'Dr. Pratiba D, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/default.png',
+				img: 'assets/cctv_team/pratibha.jpg',
 				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
 				name: 'Dr. Pavithra H, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/default.png',
+				img: 'assets/cctv_team/Pavithra.png',
 				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
 				name: 'Dr. Mohana, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/default.png',
+				img: 'assets/cctv_team/Mohana.png',
 				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
 				name: 'Dr. Veena Devi (ECE), RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/default.png',
+				img: 'assets/cctv_team/VD.jpg',
 				link: 'https://rvce.edu.in/tc-neethu'
+			},
+			{
+				name: 'Ms. Vanishree K, RVCE',
+				designation: 'Member',
+				img: 'assets/cctv_team/Vanishree.png',
+				link: 'https://rvce.edu.in/ise-vk'
 			}
 		]
 	},
@@ -456,17 +492,39 @@ export const abt_us_desc = [
 
 export const projects = [
 	{
-		Title: 'Automatic Animal Detection using Neural Classifier in CCTV Surveillance',
+		Title: 'Automatic detection of wild animals and reptiles by surveillance cameras',
 		Description:
-			'there is need to develop intelligent video analytics algorithms which work onthe  video  feeds  coming  from  the  CCTV  cameras  in  real  time  for  detection  of  wildanimals. On detection, alerts in the form of SMS/MMS should be sent to the security guards.',
+			'For the detection of wild animals, deep learning models such as VGG16 (16 CNN layers) are used. The frames from CCTV are compared to the model trained to ensure the existence of wild animals. If any wild animal is detected in the frames, an alert is immediately initiated with frames along with a timestamp. Proposed system was found to be effective with an average precision score of 0.743.',
 		Link: '/assets/projects/wildanimal.pdf'
 	},
 
 	{
-		Title: 'Efficient Detection of Garbage and Overflowing Street bins in CCTV Surveillance',
+		Title: 'Automatic detection of garbage and overflowing street bins in videos',
 		Description:
-			'any cases have been recorded where garbage has been observed lying just like that in public places resulting in enormous inconvenience and breeding grounds for many problems',
+			'Deep learning based SSD (Single Shot Detector) along with backbone VGG16 was trained on a custom dataset resulting in the mAP of around 69.2%. The frames extracted from the video sequences are checked for the overflowing of garbage from the bins and are classified accordingly with the help of creation of bounding boxes. The proposed system would help in automating the overflowing garbage detection process and by coordinating it with surveillance systems, a state of the art real time monitoring system can be obtained that would ease out the work of municipal departments and concerned authorities.',
 		Link: '/assets/projects/garbageoverflow.pdf'
+	},
+
+	{
+		Title: 'Human identification using GAIT analysis',
+		Description:
+			'Model to identify human using gait images based on principal component analysis algorithm and K nearest neighbor classifier is implemented. Principal component analysis is used to extract gait features. K nearest neighbor classifier is used to compute human id. Experimental analyses on CASIA A dataset show a significant performance gain in terms of accuracy.',
+		Link: ''
+	},
+
+	{
+		Title: 'Fire and Smoke Detection',
+		Description:
+			'The Fire and Smoke detection project addresses the significant hazards posed by fires and the limitations of traditional sensor-based fire detection systems. Proposed an innovative ensemble model consisting of two YOLOv8 models—one focused on detecting fire and smoke, and the other specifically designed for smoke detection. This dual-model approach aims to enhance the accuracy of real-time fire and smoke detection in CCTV surveillance systems. Advanced image preprocessing methods such as super resolution and the Lucy-Richardson algorithm are employed to enhance input video frames. Proposed models obtained a precision and recall of 0.98 and 0.99 respectively.',
+		Link: ''
+	}
+	,
+
+	{
+		Title: 'Project Details',
+		Description:
+			'',
+		Link: '/assets/projects/Projects_Details_-_Centre_for_Computer_Vision_Research[2].pdf'
 	}
 ];
 

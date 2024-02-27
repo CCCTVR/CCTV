@@ -125,6 +125,107 @@
 					<p class="font-bold text-black mx-auto text-center">Activities in CCTV lab</p>
 				</div>
 
+
+
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img13.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img14.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img15.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img16.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img17.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img18.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img19.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img20.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img21.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img22.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img23.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img24.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img25.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img26.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img27.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>				
+				<div
+					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
+				>
+					<img src="assets/images/img28.jpg" alt="" class="mx-auto" width="50%"/>
+					<p class="font-bold text-black mx-auto text-center">Skill Development Program</p>
+				</div>
+
+
+
 				<!-- <div
 					class="snap-start  w-full flex-shrink-0 h-96 mx-auto  justify-center text-2xl scrollbar-hide "
 				>
