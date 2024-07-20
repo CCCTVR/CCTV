@@ -25,6 +25,12 @@ export const eye = [
 		description:
 			'Various Tools are used over time for better video processing and analysis. Certificate courses are offered to the students who have completed the projects. Students gain new skill sets through the various projects and certifcates courses',
 		link: '/eye/training'
+	},
+	{
+		title: 'Visulaizing the Future',
+		description:
+		'The Center for Computer Vision Research at RV College of Engineering, Bengaluru takes immense pleasure to host  5-day Faculty Development Program on \'Visulaizing the Future: Cutting-Edge Applications of Computer Vision\' from  29th July 2024 to 2nd Aug 2024.\n\nThe FDP mainly focuses on Computer Vision, AI/ML, Video Analytics, AI on the Edge along with many other allied contemporary computing concepts. The sessions will be delivered by experts from industry and academia. The details of the program are as attached in the flyer.\n\nThe Program is open to Faculty, Industry Professionals and Research Scholars of technology and science institutions.\n\nWe look forward for your registration and participation and making the best use of the program.',
+		link: '/assets/projects/CCVR Flyer embedded.pdf'
 	}
 ];
 
@@ -84,43 +90,43 @@ export const teams = [
 			{
 				name: 'Dr K N Subramanya Principal RVCE',
 				designation: 'ChairPerson',
-				img: 'assets/cctv_team/principal.PNG',
+				img: '/assets/cctv_team/principal.PNG',
 				link: 'https://www.rvce.edu.in/principal-rvce'
 			},
 			{
 				name: 'Shri. Sanjay Sahay',
 				designation: 'Founder and Mentor',
-				img: 'assets/cctv_team/sanjay_sahay.jpg',
+				img: '/assets/cctv_team/sanjay_sahay.jpg',
 				link: 'https://in.linkedin.com/in/thesanjaysahay'
 			},
 			{
 				name: 'Dr. Ramakanth K P',
 				designation: 'Center Head, CCCTVR',
-				img: 'assets/cctv_team/hod.PNG',
+				img: '/assets/cctv_team/hod.PNG',
 				link: 'https://rvce.edu.in//ise-rmp-it'
 			},
 			{
 				name: 'Shri T Shankar',
 				designation: 'Head, Research and Projects',
-				img: 'assets/cctv_team/shankar.jpg',
+				img: '/assets/cctv_team/shankar.jpg',
 				link: 'https://www.csa.iisc.ac.in/people/shankar-t/'
 			},
 			{
 				name: 'Dr. Shreelakshmi K',
 				designation: 'Head, Operations',
-				img: 'assets/cctv_team/shree_lakshmi.png',
+				img: '/assets/cctv_team/shree_lakshmi.png',
 				link: 'https://rvce.edu.in/tc-sreelakshmi'
 			},
 			{
 				name: 'Dr. Ravishankar S',
 				designation: 'Head, Communication and Networking',
-				img: 'assets/cctv_team/ravishankar.png',
+				img: '/assets/cctv_team/ravishankar.png',
 				link: 'https://rvce.edu.in/ec-sravishankar'
 			},
 			{
 				name: 'Dr. Azra Nasreen',
 				designation: 'Coordinator, CCCTVR',
-				img: 'assets/cctv_team/azra.jpg',
+				img: '/assets/cctv_team/azra.jpg',
 				link: 'https://rvce.edu.in/cs-azra'
 			}
 		]
@@ -131,19 +137,19 @@ export const teams = [
 			{
 				name: 'Shri. Gautam Goradia, Hayagriva Software Private Limited',
 				designation: 'Member',
-				img: 'assets/cctv_team/GautamDGoradia.jpg',
+				img: '/assets/cctv_team/GautamDGoradia.jpg',
 				link: 'https://in.linkedin.com/in/gautamgoradia'
 			},
 			{
 				name: 'Mr. Avinash Trivedi, Videonetics',
 				designation: 'Member',
-				img: 'assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
+				img: '/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
 				link: 'https://in.linkedin.com/in/avinashtrivedivideonetics'
 			},
 			{
 				name: 'Mr. Pawan Vashist, Mistral Solutions',
 				designation: 'Member',
-				img: 'assets/cctv_team/default.png',
+				img: '/assets/cctv_team/default.png',
 				link: ''
 			}
 		]
@@ -154,61 +160,61 @@ export const teams = [
 			{
 				name: 'Dr. Surbhi Mathur, NFSU',
 				designation: 'Member',
-				img: 'assets/cctv_team/Dr.Surbhi Mathur.jpg',
+				img: '/assets/cctv_team/Dr.Surbhi Mathur.jpg',
 				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
 				name: 'Dr. Hemavathy R, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/R HEMAVATHY.jpg',
+				img: '/assets/cctv_team/R HEMAVATHY.jpg',
 				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
 				name: 'Dr. Nagraj Bhat, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Nagaraj_Bhat.png',
+				img: '/assets/cctv_team/Nagaraj_Bhat.png',
 				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
 				name: 'Ms. Neethu S, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Neethu S - Copy.jpg',
+				img: '/assets/cctv_team/Neethu S - Copy.jpg',
 				link: 'https://rvce.edu.in/tc-neethu'
 			},
 			{
 				name: 'Dr. Poornima Kulkarni, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Poornima Kulkarni.jpg',
+				img: '/assets/cctv_team/Poornima Kulkarni.jpg',
 				link: 'https://rvce.edu.in/ise-pk'
 			},
 			{
 				name: 'Dr. Pratiba D, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/pratibha.jpg',
+				img: '/assets/cctv_team/pratibha.jpg',
 				link: 'https://www.nfsu.ac.in/faculty/dr.-surbhi-mathur'
 			},
 			{
 				name: 'Dr. Pavithra H, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Pavithra.png',
+				img: '/assets/cctv_team/Pavithra.png',
 				link: 'https://rvce.edu.in/cs-hemavathy'
 			},
 			{
 				name: 'Dr. Mohana, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Mohana.png',
+				img: '/assets/cctv_team/Mohana.png',
 				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
 				name: 'Dr. Veena Devi (ECE), RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/VD.jpg',
+				img: '/assets/cctv_team/VD.jpg',
 				link: 'https://rvce.edu.in/tc-neethu'
 			},
 			{
 				name: 'Ms. Vanishree K, RVCE',
 				designation: 'Member',
-				img: 'assets/cctv_team/Vanishree.png',
+				img: '/assets/cctv_team/Vanishree.png',
 				link: 'https://rvce.edu.in/ise-vk'
 			}
 		]
@@ -219,13 +225,13 @@ export const teams = [
 			{
 				name: 'Mr. Ravikumar Koppal',
 				designation: 'Member',
-				img: 'assets/cctv_team/Ravi Kumar C Koppal.jpg',
+				img: '/assets/cctv_team/Ravi Kumar C Koppal.jpg',
 				link: 'https://in.linkedin.com/in/ravi-kumar-c-koppal-72617714'
 			},
 			{
 				name: 'Mr. Shiva Kumar',
 				designation: 'Member',
-				img: 'assets/cctv_team/shivakumar.jpg',
+				img: '/assets/cctv_team/shivakumar.jpg',
 				link: ''
 			}
 		]
@@ -325,47 +331,47 @@ export const expts = [
 	{
 		title: 'Experiment 1',
 		description: 'To estimate the horizontal Field of View of the camera.',
-		link: '/assets/Expreriments/first_expt_mca.pdf'
+		link: '//assets/Expreriments/first_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 2',
 		description: 'To measure the depth of focus of a camera.',
-		link: '/assets/Expreriments/second_expt_mca.pdf'
+		link: '//assets/Expreriments/second_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 3',
 		description: 'To find camera’s sensitivity to different light intensity levels',
-		link: '/assets/Expreriments/third_expt_mca.pdf'
+		link: '//assets/Expreriments/third_expt_mca.pdf'
 	},
 	{
 		title: 'Experiment 4',
 		description: 'To find the best image settings to get good natural colour image.',
-		link: '/assets/Expreriments/fourth_expt.pdf'
+		link: '//assets/Expreriments/fourth_expt.pdf'
 	},
 	{
 		title: 'Experiment 5',
 		description: 'Wide Dynamic Range (WDR) testing to find which mode gives better quality image',
-		link: '/assets/Expreriments/fifth_expt.pdf'
+		link: '//assets/Expreriments/fifth_expt.pdf'
 	},
 	{
 		title: 'Experiment 6',
 		description: 'To find which resolution yields good image clarity/details',
-		link: '/assets/Expreriments/sixth_expt.pdf'
+		link: '//assets/Expreriments/sixth_expt.pdf'
 	},
 	{
 		title: 'Experiment 7',
 		description: 'Setting up of an Analog Surveillance System',
-		link: '/assets/Expreriments/setup_analog_cctv.pdf'
+		link: '//assets/Expreriments/setup_analog_cctv.pdf'
 	},
 	{
 		title: 'Experiment 8',
 		description: 'Experiments on DVR based CCTV Camera',
-		link: '/assets/Expreriments/dvr.pdf'
+		link: '//assets/Expreriments/dvr.pdf'
 	},
 	{
 		title: 'Experiment 9',
 		description: 'Getting Started with COM-SUR',
-		link: '/assets/Expreriments/comsur_expt_setup.pdf'
+		link: '//assets/Expreriments/comsur_expt_setup.pdf'
 	}
 ];
 
@@ -377,11 +383,11 @@ export const webinars_2021 = [
 			'Talk 2: Forensic analysis of CCTV/Video evidence Dr. Surbhi Mathur Sr. Asst. Prof. NFSU, Gujarat',
 			'Moderator Ms. Rashmi H. Coordinator, Center for Computer Vision Research'
 		],
-		link: 'assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
+		link: '/assets/Posters/Webinars/Series 2021 -Webinar 1.pdf',
 		speaker_img: [
-			{ img: '/assets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
-			{ img: '/assets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
-			{ img: '/assets/webinar_speakers2021/web1_sp3.jpg', id: 3 }
+			{ img: '///ssets/webinar_speakers2021/web1_sp1.jpg', id: 1 },
+			{ img: '///ssets/webinar_speakers2021/web1_sp2.jpg', id: 2 },
+			{ img: '///ssets/webinar_speakers2021/web1_sp3.jpg', id: 3 }
 		],
 		id: 20211
 	},
@@ -391,10 +397,10 @@ export const webinars_2021 = [
 			'Shri Gautam D. Goradia, CEO and MD, COM-SURTM Mumbai',
 			'Moderator Dr Azra Nasreen Assistant Professor, Dept of CSE, RVCE, Bengaluru'
 		],
-		link: '/assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
+		link: '//assets/Posters/Webinars/Series 2021- Webinar 2.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2021/web2_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2021/web2_sp2.jpg', id: 2 }
+			{ img: '//ssets/webinar_speakers2021/web2_sp1.jpg', id: 1 },
+			{ img: '//ssets/webinar_speakers2021/web2_sp2.jpg', id: 2 }
 		],
 		id: 20212
 	}
@@ -407,10 +413,10 @@ export const webinars_2022 = [
 			'Speaker Dr. Tinku Acharya Founder& Managing Director Videonetics',
 			'Moderator Neethu S Assistant Professor, Department of TE RVCE, Bengaluru'
 		],
-		link: 'assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
+		link: '/assets/Posters/Webinars/Series 2022-Webinar 1.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2022/web1_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2022/web1_sp2.jpg', id: 2 }
+			{ img: '//ssets/webinar_speakers2022/web1_sp1.jpg', id: 1 },
+			{ img: '//ssets/webinar_speakers2022/web1_sp2.jpg', id: 2 }
 		],
 		id: 20221
 	},
@@ -420,10 +426,10 @@ export const webinars_2022 = [
 			'Speaker Shri. Samir Datt Founder & CEO ForensicsGuru',
 			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
 		],
-		link: 'assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
+		link: '/assets/Posters/Webinars/Series 2022 - Webinar2.pdf',
 		speaker_img: [
-			{ img: 'assets/webinar_speakers2022/web2_sp1.jpg', id: 1 },
-			{ img: 'assets/webinar_speakers2022/web2_sp2.jpg', id: 2 }
+			{ img: '//ssets/webinar_speakers2022/web2_sp1.jpg', id: 1 },
+			{ img: '//ssets/webinar_speakers2022/web2_sp2.jpg', id: 2 }
 		],
 		id: 20222
 	},
@@ -433,10 +439,10 @@ export const webinars_2022 = [
 			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University',
 			'Speaker Dr. Sahana D Gowda Associate Dean, School of Computer Science and Engineering RV University'
 		],
-		link: 'assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
+		link: '/assets/Posters/Webinars/Series 2022 - Webinar 3.pdf',
 		speaker_img: [
-			{ img: '/assets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
-			{ img: '/assets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
+			{ img: '///ssets/webinar_speakers2022/web3_sp1.jpg', id: 1 },
+			{ img: '///ssets/webinar_speakers2022/web3_sp2.jpg', id: 2 }
 		],
 		id: 20223
 	},
@@ -446,10 +452,10 @@ export const webinars_2022 = [
 			'Speaker Dr. Neeta Trivedi Founder & CEO Inferigence Quotient, Bengaluru',
 			'Moderator Dr. Hemavathy R Associate Professor, Dept. of CSE RVCE, Bengaluru'
 		],
-		link: 'assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
+		link: '/assets/Posters/Webinars/Series -2022 -Webnar 4.pdf',
 		speaker_img: [
-			{ img: '/assets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
-			{ img: '/assets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
+			{ img: '///ssets/webinar_speakers2022/web4_sp1.jpg', id: 1 },
+			{ img: '///ssets/webinar_speakers2022/web4_sp2.jpg', id: 2 }
 		],
 		id: 20224
 	}
@@ -459,7 +465,7 @@ export const Internships = [
 	{
 		title: 'Internship 1',
 		description: 'Industry Certified Internship for Engineering Students (UG/ PG) - 2021',
-		link: '/assets/Posters/Internships/final_internship.pdf'
+		link: '//assets/Posters/Internships/final_internship.pdf'
 	}
 ];
 
@@ -468,25 +474,25 @@ export const abt_us_desc = [
 		title: 'Rashtreeya Vidyalaya College of Engineering',
 		description:
 			'Established in 1963, RVCE has 13 departments in engineering, one school in architecture, and a Master of Computer Applications department. It is affiliated to the Visvesvaraya Technological University, Belgaum. The undergraduate courses are granted academic autonomy by the university. RVCE is accredited by the All India Council for Technical Education and all its departments are accredited by the National Board of Accreditation. The college is managed by the Rashtreeya Shikshana Samiti Trust.',
-		img_link: '/assets/photos/Admin 2.jpg'
+		img_link: '//assets/photos/Admin 2.jpg'
 	},
 	{
 		title: 'Computer Science and Engineering',
 		description:
 			'The Department of Computer Science and Engineering was established in year 1984. The Department offers B.E (CSE) undergraduate program, two postgraduate programs M.Tech(CSE) and M.Tech(CNE). Department also offers M.Sc by research and Ph.D. degree in various specializations of Computer Science and Engineering.',
-		img_link: 'assets/photos/Computer science.jpg'
+		img_link: '/assets/photos/Computer science.jpg'
 	},
 	{
 		title: 'Electronics and Communications Engineering',
 		description:
 			'The Electronics & Communication Engineering Department was started in the year 1972 and now conducts one undergraduate program, two postgraduate programs (M. Tech in VLSI Design & Embedded Systems and M. Tech in Communication Systems) with academic autonomy,  and Ph.D. program with affiliation to VTU. A total of 52 experienced faculty members, support four core specializations (VLSI Design, Wireless & Wireline Communications, Signal Processing, and Embedded Systems) in the department.',
-		img_link: 'assets/photos/IMG_8652.JPG'
+		img_link: '/assets/photos/IMG_8652.JPG'
 	},
 	{
 		title: 'Electronics and Tele-Communications Engineering',
 		description:
 			'The Electronics and Telecommunication Engineering (Telecommunication Engineering) Department was started in the year 1992 and now conducts one undergraduate program, two postgraduate programs (M. Tech in Digital Communication Engineering & RF & Microwave Engineering) with academic autonomy and Ph.D program with affiliation to VTU. A total of 21 experienced faculty members, support four core specializations (Networking, Wireless Communications, Signal processing and Embedded Systems) in the Department.',
-		img_link: 'assets/photos/TCE-Entrance1.JPG'
+		img_link: '/assets/photos/TCE-Entrance1.JPG'
 	}
 ];
 
@@ -495,14 +501,14 @@ export const projects = [
 		Title: 'Automatic detection of wild animals and reptiles by surveillance cameras',
 		Description:
 			'For the detection of wild animals, deep learning models such as VGG16 (16 CNN layers) are used. The frames from CCTV are compared to the model trained to ensure the existence of wild animals. If any wild animal is detected in the frames, an alert is immediately initiated with frames along with a timestamp. Proposed system was found to be effective with an average precision score of 0.743.',
-		Link: '/assets/projects/wildanimal.pdf'
+		Link: '//assets/projects/wildanimal.pdf'
 	},
 
 	{
 		Title: 'Automatic detection of garbage and overflowing street bins in videos',
 		Description:
 			'Deep learning based SSD (Single Shot Detector) along with backbone VGG16 was trained on a custom dataset resulting in the mAP of around 69.2%. The frames extracted from the video sequences are checked for the overflowing of garbage from the bins and are classified accordingly with the help of creation of bounding boxes. The proposed system would help in automating the overflowing garbage detection process and by coordinating it with surveillance systems, a state of the art real time monitoring system can be obtained that would ease out the work of municipal departments and concerned authorities.',
-		Link: '/assets/projects/garbageoverflow.pdf'
+		Link: '//assets/projects/garbageoverflow.pdf'
 	},
 
 	{
@@ -524,7 +530,7 @@ export const projects = [
 		Title: 'Project Details',
 		Description:
 			'',
-		Link: '/assets/projects/Projects_Details_-_Centre_for_Computer_Vision_Research[2].pdf'
+		Link: '//assets/projects/Projects_Details_-_Centre_for_Computer_Vision_Research[2].pdf'
 	}
 ];
 
@@ -533,14 +539,14 @@ export const media = [
 		Title: 'Amit Shah to visit NFSU in Gandhinagar on July 12',
 		Description:
 			'Shah who will spend about two hours at NFSU, where he is expected to visit the Cyber Defence Centre and witness the functioning of the indigenous Brain Electrical Oscillations Signature (BEOS) profiling system within the university campus.',
-		Image: 'assets/media/amit-nfsu.jpg',
+		Image: '/assets/media/amit-nfsu.jpg',
 		Link: 'https://indianexpress.com/article/cities/ahmedabad/amit-shah-to-visit-nfsu-in-gandhinagar-on-july-12-7398503/'
 	},
 	{
 		Title: 'Facial recognition: ten reasons you should be worried about the technology',
 		Description:
 			'Facial recognition technology is spreading fast. Already widespread in China, software that identifies people by comparing images of their faces against a database of records is now being adopted across much of the rest of the world.',
-		Image: 'assets/media/img2.jpg',
+		Image: '/assets/media/img2.jpg',
 		Link: 'https://theconversation.com/facial-recognition-ten-reasons-you-should-be-worried-about-the-technology-122137'
 	}
 ];
@@ -550,7 +556,7 @@ export const certificates = [
 		Title:"Certification Course Brochure",
 				Description:"5-DAYS CERTIFICATION COURSE ON AN OVERVIEW OF VIDEO SURVEILLANCE SYSTEMS",
 				
-				Link:"/assets/Posters/Certification_course/FinalB19A.pdf"
+				Link:"//assets.Posters/Certification_course/FinalB19A.pdf"
 	}
 ]
 
@@ -558,7 +564,7 @@ export const skills = [
 	{
 		Title:"Skill development Brochure",
 		Description:"Topics that will be covered are basics of analog and IP cameras, Digital Video Recorders (DVR), Network Video Recorders (NVR), storage, networking, (wired and wireless) power and data cabling, central monitoring station",
-		Link:"/assets/Posters/Skill_development/Brochure-Skill Development-Program2021.pdf",
+		Link:"//assets.Posters/Skill_development/Brochure-Skill Development-Program2021.pdf",
 		know_more_link:"/eye/skill_dev_module"
 	}
 
