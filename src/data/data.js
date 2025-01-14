@@ -118,12 +118,6 @@ export const teams = [
 				link: 'https://rvce.edu.in/tc-sreelakshmi'
 			},
 			{
-				name: 'Dr. Ravishankar S',
-				designation: 'Head, Communication and Networking',
-				img: '/assets/cctv_team/ravishankar.png',
-				link: 'https://rvce.edu.in/ec-sravishankar'
-			},
-			{
 				name: 'Dr. Azra Nasreen',
 				designation: 'Coordinator, CCCTVR',
 				img: '/assets/cctv_team/azra.jpg',
@@ -145,12 +139,6 @@ export const teams = [
 				designation: 'Member',
 				img: '/assets/cctv_team/AVINASH TRIVEDI_Videonetics.JPG',
 				link: 'https://in.linkedin.com/in/avinashtrivedivideonetics'
-			},
-			{
-				name: 'Mr. Pawan Vashist, Mistral Solutions',
-				designation: 'Member',
-				img: '/assets/cctv_team/default.png',
-				link: ''
 			}
 		]
 	},
@@ -168,12 +156,6 @@ export const teams = [
 				designation: 'Member',
 				img: '/assets/cctv_team/R HEMAVATHY.jpg',
 				link: 'https://rvce.edu.in/cs-hemavathy'
-			},
-			{
-				name: 'Dr. Nagraj Bhat, RVCE',
-				designation: 'Member',
-				img: '/assets/cctv_team/Nagaraj_Bhat.png',
-				link: 'https://rvce.edu.in/ec-nagarajbhat'
 			},
 			{
 				name: 'Ms. Neethu S, RVCE',
@@ -232,6 +214,24 @@ export const teams = [
 				name: 'Mr. Shiva Kumar',
 				designation: 'Member',
 				img: '/assets/cctv_team/shivakumar.jpg',
+				link: ''
+			},
+			{
+				name: 'Ms. Suma B',
+				designation: 'Member',
+				img: '/assets/cctv_team/default.png',
+				link: ''
+			},
+			{
+				name: 'Mr. Prakash',
+				designation: 'Member',
+				img: '/assets/cctv_team/default.png',
+				link: ''
+			},
+			{
+				name: 'Ms. Ambika',
+				designation: 'Member',
+				img: '/assets/cctv_team/default.png',
 				link: ''
 			}
 		]
